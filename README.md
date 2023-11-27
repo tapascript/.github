@@ -30,3 +30,10 @@ Join me on YouTube, where I pour years of gathered wisdom into empowering you. T
 [![Watch the video](https://img.youtube.com/vi/90BgcWNRFMk/0.jpg)](https://www.youtube.com/watch?v=90BgcWNRFMk)
 
 </div>
+
+# My YouTube Channel
+
+Check out my latest videos:
+
+<!-- latest-videos -->
+<!-- latest-videos-end -->
