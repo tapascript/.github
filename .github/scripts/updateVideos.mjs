@@ -34,7 +34,7 @@ const fetchLatestVideos = async () => {
 
 const updateReadme = async (videos) => {
   try {
-    const readmePath = "README.md";
+    const readmePath = "profile/README.md";
     let readmeContent = await fs.readFile(readmePath, "utf-8");
 
     const startTag = "<!-- latest-videos -->";
