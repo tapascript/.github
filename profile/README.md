@@ -1,9 +1,3 @@
-![Banner](https://med
-* [How To Use React Context API With Next.js? - Part 3 - FullStack Book Store With Next.js App Router](https://www.youtube.com/watch?v=kKJIBbuW5wk)
-* [How To Style An Element Based On Sibling Element&#39;s State? #tailwindcss #tips #shorts #tapascript](https://www.youtube.com/watch?v=-pXL09FnI6c)
-* [How To Start An Open Source Project On GitHub? #opensource #github](https://www.youtube.com/watch?v=eNDuqcrLTLs)
-* [Build A Full-Stack Book Store With NextJS - Part 2 - Landing, Booklist, Sidebar, Layout, Navigation](https://www.youtube.com/watch?v=eX9KA48IZes)
-* [Build A Full-Stack Book Store With NextJS - Part 1 - Design](https://www.youtube.com/watch?v=bTBvoq3ww6Q)
 ![Banner](https://media.licdn.com/dms/image/D5616AQGqULKfQUchEQ/profile-displaybackgroundimage-shrink_350_1400/0/1697104932324?e=1705536000&v=beta&t=VU7h3Z5gl5-9BueHGVp8odgRJRQxJraDRH50g_Y4jL0)
 
 [<img align="left" height="100" src="https://avatars.githubusercontent.com/u/145749994?s=200&v=4">](https://avatars.githubusercontent.com/u/145749994?s=200&v=4)
