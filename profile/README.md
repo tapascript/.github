@@ -36,9 +36,9 @@ Join me on YouTube, where I pour years of gathered wisdom into empowering you. T
 Check out my latest videos:
 
 <!-- latest-videos -->
+* [How To Become A Better Programmer? You Got This 🙌🏼](https://www.youtube.com/watch?v=IJYB_r_o6L8)
 * [Authentication and Authorization: How it Works? A Simple Explanation 😆](https://www.youtube.com/watch?v=CvzPTeGv9Gw)
 * [This TailwindCSS Utility Class is A Must Use For Width, Height, Size #shorts #tailwindcss](https://www.youtube.com/watch?v=YwrKRAHNyiQ)
 * [How To Publish React Hooks And Components As NPM Package? A Beginner&#39;s Guide #react #rollup #npm](https://www.youtube.com/watch?v=KxnvvkNsSvs)
 * [How To Learn TailwindCSS Effectively? #shorts #tailwindcss #tips](https://www.youtube.com/watch?v=BhasK2BPn8c)
-* [These Interview Mistakes You Must Avoid - Talking From Experience](https://www.youtube.com/watch?v=lCPGNToMp60)
 <!-- latest-videos-end -->
