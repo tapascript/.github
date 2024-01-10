@@ -36,9 +36,9 @@ Join me on YouTube, where I pour years of gathered wisdom into empowering you. T
 Check out my latest videos:
 
 <!-- latest-videos -->
+* [React Forms: How To Handle State With A Single Change Handler?](https://www.youtube.com/watch?v=nYazniAxwi8)
 * [React, Vite, TailwindCSS: Configure Template Repository for Scaffolding](https://www.youtube.com/watch?v=Zk2YJUvfsOA)
 * [How To Become A Better Programmer? You Got This 🙌🏼](https://www.youtube.com/watch?v=IJYB_r_o6L8)
 * [Authentication and Authorization: How it Works? A Simple Explanation 😆](https://www.youtube.com/watch?v=CvzPTeGv9Gw)
 * [This TailwindCSS Utility Class is A Must Use For Width, Height, Size #shorts #tailwindcss](https://www.youtube.com/watch?v=YwrKRAHNyiQ)
-* [How To Publish React Hooks And Components As NPM Package? A Beginner&#39;s Guide #react #rollup #npm](https://www.youtube.com/watch?v=KxnvvkNsSvs)
 <!-- latest-videos-end -->
