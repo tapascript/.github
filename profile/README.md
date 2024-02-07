@@ -36,9 +36,9 @@ Join me on YouTube, where I pour years of gathered wisdom into empowering you. T
 Check out my latest videos:
 
 <!-- latest-videos -->
+* [React Inventory List: With useReducer, Axios, and json-server 📋](https://www.youtube.com/watch?v=jKyAEj0EvAA)
 * [Prototypes In JavaScript &amp; Object Creation Patterns: Simply Explained 😆](https://www.youtube.com/watch?v=Uru85QW9zkk)
 * [Must Used VS Code Extensions: For Productive React Developers 🔥](https://www.youtube.com/watch?v=jF_e1qualY8)
 * [Understanding JavaScript Object References : A Visual Explanation 🧠](https://www.youtube.com/watch?v=VthQaSlDP1g)
 * [Let&#39;s Code: How To Import Images Dynamically In React(With Vite)?](https://www.youtube.com/watch?v=7EFZIe_Cpv8)
-* [React Forms: How To Handle State With A Single Change Handler?](https://www.youtube.com/watch?v=nYazniAxwi8)
 <!-- latest-videos-end -->
