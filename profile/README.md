@@ -1,8 +1,8 @@
-![Banner](https://media.licdn.com/dms/image/D5616AQGqULKfQUchEQ/profile-displaybackgroundimage-shrink_350_1400/0/1697104932324?e=1705536000&v=beta&t=VU7h3Z5gl5-9BueHGVp8odgRJRQxJraDRH50g_Y4jL0)
+![Banner](https://github.com/tapascript/.github/assets/95961359/e788f8a1-7718-45e9-89e3-1f23515e8dd8)
 
-[<img align="left" height="100" src="https://avatars.githubusercontent.com/u/145749994?s=200&v=4">](https://avatars.githubusercontent.com/u/145749994?s=200&v=4)
+[<img align="left" height="90" src="https://avatars.githubusercontent.com/u/145749994?s=200&v=4">](https://avatars.githubusercontent.com/u/145749994?s=200&v=4)
 
-## Welcome to tapaScript with Tapas Adhikary: Unlocking the Art of Code Mastery 🚀
+# Welcome to tapaScript with Tapas Adhikary: Unlocking the Art of Code Mastery 🚀
 
 Greetings, Developers! I am Tapas Adhikary, your guide on this exhilarating journey into the realms of UI, UX, Web Development, JavaScript, React, Next.js, Node.js, and the captivating universe of FullStack engineering. Having immersed myself in the world of code since 2000, I bring 19 years of experience in crafting production-ready software.
 
