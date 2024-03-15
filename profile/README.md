@@ -39,6 +39,6 @@ Check out my latest videos:
 * [Thinking In Next.js || Build Your Next.js Mental Model 🤯 #nextjs](https://www.youtube.com/watch?v=nz-cPzEQimo)
 * [Next.js App Router Parallel Routes: Explained With Project](https://www.youtube.com/watch?v=p7FnRYOvwRs)
 * [Next.js App Router Multiple Root Layouts: Explained With Examples](https://www.youtube.com/watch?v=X9_XqeqWBR0)
-* [How To Write Blog Post That Everyone Would Love To Read 🔥](https://www.youtube.com/watch?v=KEPpub1pFUQ)
+* [Building Custom Image Uploader With React #reactproject](https://www.youtube.com/watch?v=nOqsd8LoUYs)
 * [Do We Need These JavaScript Operators? Here Is Why.](https://www.youtube.com/watch?v=05Qu9gW7wzs)
 <!-- latest-videos-end -->
