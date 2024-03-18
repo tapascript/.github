@@ -38,7 +38,7 @@ Check out my latest videos:
 <!-- latest-videos -->
 * [Thinking In Next.js || Build Your Next.js Mental Model 🤯 #nextjs](https://www.youtube.com/watch?v=nz-cPzEQimo)
 * [How To Write Blog Post That Everyone Would Love To Read 🔥](https://www.youtube.com/watch?v=KEPpub1pFUQ)
+* [Do We Need These JavaScript Operators? Here Is Why.](https://www.youtube.com/watch?v=05Qu9gW7wzs)
 * [5 Fundamentals Of CSS Animations: Explained With Projects 😆](https://www.youtube.com/watch?v=7yCVRMfjxh8)
 * [React Inventory List: With useReducer, Axios, and json-server 📋](https://www.youtube.com/watch?v=jKyAEj0EvAA)
-* [Prototypes In JavaScript &amp; Object Creation Patterns: Simply Explained 😆](https://www.youtube.com/watch?v=Uru85QW9zkk)
 <!-- latest-videos-end -->
