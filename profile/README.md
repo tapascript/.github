@@ -39,6 +39,6 @@ Check out my latest videos:
 * [Building A Book Store With Next.js And MongoDB || Part 4 - LitLoop](https://www.youtube.com/watch?v=dGicJiXqhhc)
 * [Building Shareable Modal Content With Next.js #nextjs](https://www.youtube.com/watch?v=v02LJJMz_sc)
 * [Thinking In Next.js || Build Your Next.js Mental Model 🤯 #nextjs](https://www.youtube.com/watch?v=nz-cPzEQimo)
-* [Next.js App Router Parallel Routes: Explained With Project](https://www.youtube.com/watch?v=p7FnRYOvwRs)
 * [Next.js App Router Multiple Root Layouts: Explained With Examples](https://www.youtube.com/watch?v=X9_XqeqWBR0)
+* [Building Custom Image Uploader With React #reactproject](https://www.youtube.com/watch?v=nOqsd8LoUYs)
 <!-- latest-videos-end -->
