@@ -39,6 +39,6 @@ Check out my latest videos:
 * [TypeScript Course || Type Aliases &amp; Interfaces || Part - 2](https://www.youtube.com/watch?v=VE5SOoP2Y74)
 * [TypeScript Course || Know The Types || Part - 1 #typescript](https://www.youtube.com/watch?v=9WAtpGzTtVc)
 * [Handling New Line Characters With CSS #shorts](https://www.youtube.com/watch?v=bNMgXdkv3qk)
-* [TypeScript Project Setup || All You Need #typescript](https://www.youtube.com/watch?v=P3unJiZxfkI)
 * [Is TypeScript Worth Learning? || Know The Real Facts](https://www.youtube.com/watch?v=whGzNBqdNS0)
+* [Next.js 14 Link vs router.push() || What To Use? #nextjs](https://www.youtube.com/watch?v=t3FoW3veg_o)
 <!-- latest-videos-end -->
