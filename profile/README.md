@@ -38,7 +38,7 @@ Check out my latest videos:
 <!-- latest-videos -->
 * [Next.js Authentication With Next-Auth V5 || Google &amp; GitHub](https://www.youtube.com/watch?v=O8Ae6MC5bf4)
 * [TypeScript Course || Type Aliases &amp; Interfaces || Part - 2](https://www.youtube.com/watch?v=VE5SOoP2Y74)
+* [TypeScript Course || Know The Types || Part - 1 #typescript](https://www.youtube.com/watch?v=9WAtpGzTtVc)
 * [Handling New Line Characters With CSS #shorts](https://www.youtube.com/watch?v=bNMgXdkv3qk)
-* [TypeScript Project Setup || All You Need #typescript](https://www.youtube.com/watch?v=P3unJiZxfkI)
 * [Is TypeScript Worth Learning? || Know The Real Facts](https://www.youtube.com/watch?v=whGzNBqdNS0)
 <!-- latest-videos-end -->
