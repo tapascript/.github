@@ -40,5 +40,5 @@ Check out my latest videos:
 * [Next.js Authentication || Register User To MongoDB With Next-Auth V5](https://www.youtube.com/watch?v=5kmZAqc2Jeg)
 * [Next.js Authentication With Next-Auth V5 Credential Provider](https://www.youtube.com/watch?v=4m7u7zGbdTI)
 * [TypeScript Course || 6 Type Narrowing Techniques #typescript](https://www.youtube.com/watch?v=dHmM4hmbzzQ)
-* [TypeScript Course || Type Aliases &amp; Interfaces || Part - 2](https://www.youtube.com/watch?v=VE5SOoP2Y74)
+* [Next.js Authentication With Next-Auth V5 || Google &amp; GitHub](https://www.youtube.com/watch?v=O8Ae6MC5bf4)
 <!-- latest-videos-end -->
