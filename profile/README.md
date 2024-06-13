@@ -37,8 +37,8 @@ Check out my latest videos:
 
 <!-- latest-videos -->
 * [Next.js with shadcn/ui || Architecture || Components || Themes](https://www.youtube.com/watch?v=raKAoh9mWzM)
+* [Next.js Middleware Crash Course || App Router Protected Routes](https://www.youtube.com/watch?v=jHrjnZM26i4)
 * [Next.js Authentication || Register User To MongoDB With Next-Auth V5](https://www.youtube.com/watch?v=5kmZAqc2Jeg)
-* [Next.js Authentication With Next-Auth V5 Credential Provider](https://www.youtube.com/watch?v=4m7u7zGbdTI)
 * [What Is cn() || Use clsx &amp; twMerge With React || shadcn/ui](https://www.youtube.com/watch?v=9Km4oFSmXY8)
-* [TypeScript Course || Type Aliases &amp; Interfaces || Part - 2](https://www.youtube.com/watch?v=VE5SOoP2Y74)
+* [TypeScript Course || 6 Type Narrowing Techniques #typescript](https://www.youtube.com/watch?v=dHmM4hmbzzQ)
 <!-- latest-videos-end -->
