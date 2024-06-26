@@ -37,7 +37,7 @@ Check out my latest videos:
 
 <!-- latest-videos -->
 * [Next.js Server Actions || Learn Patterns &amp; Project Building](https://www.youtube.com/watch?v=gQ2bVQPFS4U)
-* [Next.js with shadcn/ui || Architecture || Components || Themes](https://www.youtube.com/watch?v=raKAoh9mWzM)
+* [Next.js Middleware Crash Course || App Router Protected Routes](https://www.youtube.com/watch?v=jHrjnZM26i4)
 * [Next.js Authentication || Register User To MongoDB With Next-Auth V5](https://www.youtube.com/watch?v=5kmZAqc2Jeg)
 * [Next.js Authentication With Next-Auth V5 Credential Provider](https://www.youtube.com/watch?v=4m7u7zGbdTI)
 * [What Is cn() || Use clsx &amp; twMerge With React || shadcn/ui](https://www.youtube.com/watch?v=9Km4oFSmXY8)
