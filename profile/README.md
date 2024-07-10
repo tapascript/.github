@@ -40,5 +40,5 @@ Check out my latest videos:
 * [Why Do You Need To Know JavaScript Array&#39;s with() Method 🔥](https://www.youtube.com/watch?v=TFsria_3sw8)
 * [Next.js Server Actions || Learn Patterns &amp; Project Building](https://www.youtube.com/watch?v=gQ2bVQPFS4U)
 * [Next.js with shadcn/ui || Architecture || Components || Themes](https://www.youtube.com/watch?v=raKAoh9mWzM)
-* [Next.js Authentication || Register User To MongoDB With Next-Auth V5](https://www.youtube.com/watch?v=5kmZAqc2Jeg)
+* [Next.js Middleware Crash Course || App Router Protected Routes](https://www.youtube.com/watch?v=jHrjnZM26i4)
 <!-- latest-videos-end -->
