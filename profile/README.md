@@ -25,7 +25,8 @@ Join me on YouTube, where I pour years of gathered wisdom into empowering you. T
   [![Static Badge](https://img.shields.io/badge/Facebook-288dc7?logo=Facebook&color=288dc7)](https://www.facebook.com/tapasadhi)
   [![Static Badge](https://img.shields.io/badge/Channel-fff?logo=Whatsapp)](https://whatsapp.com/channel/0029VaD6TMXICVfrYVJsO21M)
 
-<img alt="YouTube Channel Subscribers" height="30px" src="https://img.shields.io/youtube/channel/subscribers/UCaYr5yxgOyk599Mnb3TGh-g?label=Subscribers&style=social"> <br/>
+<img alt="YouTube Channel Subscribers" height="30px" src="https://img.shields.io/youtube/channel/subscribers/UCaYr5yxgOyk599Mnb3TGh-g?label=tapaScript English Subs&style=social"> <br/>
+<img alt="YouTube Channel Subscribers" height="30px" src="https://img.shields.io/youtube/channel/subscribers/UCKaF0yTK_-SIAgOzgjdsOXw?label=tapaScript Bangla Subs&style=social"> <br/>
 
 [![Watch the video](https://img.youtube.com/vi/90BgcWNRFMk/0.jpg)](https://www.youtube.com/watch?v=90BgcWNRFMk)
 
