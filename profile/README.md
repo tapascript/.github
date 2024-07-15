@@ -40,5 +40,5 @@ Check out my latest videos:
 * [Next.js Error Handling Patterns || Common Mistakes To Avoid](https://www.youtube.com/watch?v=WBACCNJAzog)
 * [Why Do You Need To Know JavaScript Array&#39;s with() Method 🔥](https://www.youtube.com/watch?v=TFsria_3sw8)
 * [Next.js Server Actions || Learn Patterns &amp; Project Building](https://www.youtube.com/watch?v=gQ2bVQPFS4U)
-* [Next.js Middleware Crash Course || App Router Protected Routes](https://www.youtube.com/watch?v=jHrjnZM26i4)
+* [Next.js with shadcn/ui || Architecture || Components || Themes](https://www.youtube.com/watch?v=raKAoh9mWzM)
 <!-- latest-videos-end -->
