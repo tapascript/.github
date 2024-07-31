@@ -38,7 +38,7 @@ Check out my latest videos:
 
 <!-- latest-videos -->
 * [Refresh Token Rotation With Next-Auth V5 || Managing Tokens With A Custom Backend](https://www.youtube.com/watch?v=95fuP8jpWlk)
-* [How to Start Writing for freeCodeCamp? Your Starter Guide 🔥](https://www.youtube.com/watch?v=7GFNMxFGfpk)
+* [Layout vs Template in Next.js || Project &amp; Use Cases](https://www.youtube.com/watch?v=g9Qe3zjVVDk)
 * [Next.js Performance Optimization: Implementing Lazy Loading](https://www.youtube.com/watch?v=gq9bBZru78Y)
 * [Do You Really Need React Query || An Architectural Overview](https://www.youtube.com/watch?v=Jz6N78Ge1xQ)
 * [Next.js Error Handling Patterns || Common Mistakes To Avoid](https://www.youtube.com/watch?v=WBACCNJAzog)
