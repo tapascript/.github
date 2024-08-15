@@ -37,9 +37,9 @@ Join me on YouTube, where I pour years of gathered wisdom into empowering you. T
 Check out my latest videos:
 
 <!-- latest-videos -->
+* [This DevTools Feature is Mind-blowing With React 19 #react](https://www.youtube.com/watch?v=rbe0fG2GbQQ)
 * [React 19 Features: Everything You Need To Know](https://www.youtube.com/watch?v=hiiGUjEkzbM)
 * [tapaScript Lab(EP01): Maker&#39;s Story With Akash Hamirwasia](https://www.youtube.com/watch?v=mk_L0ZXWZik)
 * [How to Start Writing for freeCodeCamp? Your Starter Guide 🔥](https://www.youtube.com/watch?v=7GFNMxFGfpk)
 * [Layout vs Template in Next.js || Project &amp; Use Cases](https://www.youtube.com/watch?v=g9Qe3zjVVDk)
-* [Next.js Performance Optimization: Implementing Lazy Loading](https://www.youtube.com/watch?v=gq9bBZru78Y)
 <!-- latest-videos-end -->
