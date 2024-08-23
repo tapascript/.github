@@ -41,5 +41,5 @@ Check out my latest videos:
 * [This DevTools Feature is Mind-blowing With React 19 #react](https://www.youtube.com/watch?v=rbe0fG2GbQQ)
 * [React 19 Features: Everything You Need To Know](https://www.youtube.com/watch?v=hiiGUjEkzbM)
 * [tapaScript Lab(EP01): Maker&#39;s Story With Akash Hamirwasia](https://www.youtube.com/watch?v=mk_L0ZXWZik)
-* [How to Start Writing for freeCodeCamp? Your Starter Guide 🔥](https://www.youtube.com/watch?v=7GFNMxFGfpk)
+* [Refresh Token Rotation With Next-Auth V5 || Managing Tokens With A Custom Backend](https://www.youtube.com/watch?v=95fuP8jpWlk)
 <!-- latest-videos-end -->
