@@ -37,9 +37,9 @@ Join me on YouTube, where I pour years of gathered wisdom into empowering you. T
 Check out my latest videos:
 
 <!-- latest-videos -->
+* [React Compiler: The Complete Deep Dive || React 19 Videos](https://www.youtube.com/watch?v=bdWUVp0TbTU)
 * [EP 02 - Unlocking DSA &amp; System Design With Prashant Yadav](https://www.youtube.com/watch?v=iJZAYlMsxP0)
 * [This DevTools Feature is Mind-blowing With React 19 #react](https://www.youtube.com/watch?v=rbe0fG2GbQQ)
 * [React 19 Features: Everything You Need To Know](https://www.youtube.com/watch?v=hiiGUjEkzbM)
 * [tapaScript Lab(EP01): Maker&#39;s Story With Akash Hamirwasia](https://www.youtube.com/watch?v=mk_L0ZXWZik)
-* [Refresh Token Rotation With Next-Auth V5 || Managing Tokens With A Custom Backend](https://www.youtube.com/watch?v=95fuP8jpWlk)
 <!-- latest-videos-end -->
