@@ -41,5 +41,5 @@ Check out my latest videos:
 * [EP 03 - What To Expect From Junior Front-End Developer Interviews?](https://www.youtube.com/watch?v=Wi1YYFKQYMI)
 * [EP 02 - Unlocking DSA &amp; System Design With Prashant Yadav](https://www.youtube.com/watch?v=iJZAYlMsxP0)
 * [This DevTools Feature is Mind-blowing With React 19 #react](https://www.youtube.com/watch?v=rbe0fG2GbQQ)
-* [tapaScript Lab(EP01): Maker&#39;s Story With Akash Hamirwasia](https://www.youtube.com/watch?v=mk_L0ZXWZik)
+* [React 19 Features: Everything You Need To Know](https://www.youtube.com/watch?v=hiiGUjEkzbM)
 <!-- latest-videos-end -->
