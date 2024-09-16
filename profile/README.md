@@ -38,8 +38,8 @@ Check out my latest videos:
 
 <!-- latest-videos -->
 * [How To Close A Shadcn Dialog On Form Submission #nextjs](https://www.youtube.com/watch?v=pmcYj79i-aw)
-* [React 19 useFormStatus Hook: Learn To Avoid MISTAKES](https://www.youtube.com/watch?v=AXGRPUl_3Ts)
 * [EP 03 - What To Expect From Junior Front-End Developer Interviews?](https://www.youtube.com/watch?v=Wi1YYFKQYMI)
 * [React Compiler: The Complete Deep Dive || React 19 Videos](https://www.youtube.com/watch?v=bdWUVp0TbTU)
 * [EP 02 - Unlocking DSA &amp; System Design With Prashant Yadav](https://www.youtube.com/watch?v=iJZAYlMsxP0)
+* [This DevTools Feature is Mind-blowing With React 19 #react](https://www.youtube.com/watch?v=rbe0fG2GbQQ)
 <!-- latest-videos-end -->
