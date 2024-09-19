@@ -40,6 +40,6 @@ Check out my latest videos:
 * [Ep 04 - &quot;Inside Hashnode&quot; with Sandeep Panda(Co-Founder @Hashnode)](https://www.youtube.com/watch?v=2vYbXnbP22A)
 * [How To Close A Shadcn Dialog On Form Submission #nextjs](https://www.youtube.com/watch?v=pmcYj79i-aw)
 * [React 19 useFormStatus Hook: Learn To Avoid MISTAKES](https://www.youtube.com/watch?v=AXGRPUl_3Ts)
+* [EP 03 - What To Expect From Junior Front-End Developer Interviews?](https://www.youtube.com/watch?v=Wi1YYFKQYMI)
 * [React Compiler: The Complete Deep Dive || React 19 Videos](https://www.youtube.com/watch?v=bdWUVp0TbTU)
-* [EP 02 - Unlocking DSA &amp; System Design With Prashant Yadav](https://www.youtube.com/watch?v=iJZAYlMsxP0)
 <!-- latest-videos-end -->
