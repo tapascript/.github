@@ -37,5 +37,5 @@ Join me on YouTube, where I pour years of gathered wisdom into empowering you. T
 Check out my latest videos:
 
 <!-- latest-videos -->
-* [Ep 04 - &quot;Inside Hashnode&quot; with Sandeep Panda(Co-Founder @Hashnode)](https://www.youtube.com/watch?v=2vYbXnbP22A)
+
 <!-- latest-videos-end -->
