@@ -37,9 +37,9 @@ Join me on YouTube, where I pour years of gathered wisdom into empowering you. T
 Check out my latest videos:
 
 <!-- latest-videos -->
-* [How To Sort An Alphanumeric String Array In JavaScript?](https://www.youtube.com/watch?v=saOtw1XY_ic)
 * [How To Find Your Way Into Open Source and Hacktoberfest 2024?](https://www.youtube.com/watch?v=0Fj6cm0E_MQ)
 * [What Is An API? And How It Works! A Simple Explanation 😆](https://www.youtube.com/watch?v=pm89vMG6GXk)
 * [Ep 04 - &quot;Inside Hashnode&quot; with Sandeep Panda(Co-Founder @Hashnode)](https://www.youtube.com/watch?v=2vYbXnbP22A)
 * [How To Close A Shadcn Dialog On Form Submission #nextjs](https://www.youtube.com/watch?v=pmcYj79i-aw)
+* [React 19 useFormStatus Hook: Learn To Avoid MISTAKES](https://www.youtube.com/watch?v=AXGRPUl_3Ts)
 <!-- latest-videos-end -->
