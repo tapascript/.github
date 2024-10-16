@@ -37,9 +37,9 @@ Join me on YouTube, where I pour years of gathered wisdom into empowering you. T
 Check out my latest videos:
 
 <!-- latest-videos -->
+* [How to Pass Additional Arguments to Next.js Server Actions?](https://www.youtube.com/watch?v=9PBtj0sUc7Q)
 * [6 Killer Dev Tips With Keshav Mohta - SDE 3, JP Morgan Chase](https://www.youtube.com/watch?v=80W7eYOn8qQ)
 * [How To Sort An Alphanumeric String Array In JavaScript?](https://www.youtube.com/watch?v=saOtw1XY_ic)
 * [How To Find Your Way Into Open Source and Hacktoberfest 2024?](https://www.youtube.com/watch?v=0Fj6cm0E_MQ)
 * [What Is An API? And How It Works! A Simple Explanation 😆](https://www.youtube.com/watch?v=pm89vMG6GXk)
-* [Ep 04 - &quot;Inside Hashnode&quot; with Sandeep Panda(Co-Founder @Hashnode)](https://www.youtube.com/watch?v=2vYbXnbP22A)
 <!-- latest-videos-end -->
