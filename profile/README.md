@@ -37,9 +37,9 @@ Join me on YouTube, where I pour years of gathered wisdom into empowering you. T
 Check out my latest videos:
 
 <!-- latest-videos -->
+* [Productivity Tip That Can Save You Hundred Hours Of Effort](https://www.youtube.com/watch?v=toJ__EMoNTw)
 * [Hitting The Publish Button With Victoria Lo, Solutions Engineer](https://www.youtube.com/watch?v=16CdHW03Zus)
 * [What Is A DNS? And How It Works! A Simple Explanation 😆](https://www.youtube.com/watch?v=GawmecnwCS8)
 * [How to Pass Additional Arguments to Next.js Server Actions?](https://www.youtube.com/watch?v=9PBtj0sUc7Q)
 * [6 Killer Dev Tips With Keshav Mohta - SDE 3, JP Morgan Chase](https://www.youtube.com/watch?v=80W7eYOn8qQ)
-* [How To Sort An Alphanumeric String Array In JavaScript?](https://www.youtube.com/watch?v=saOtw1XY_ic)
 <!-- latest-videos-end -->
