@@ -37,9 +37,9 @@ Join me on YouTube, where I pour years of gathered wisdom into empowering you. T
 Check out my latest videos:
 
 <!-- latest-videos -->
+* [3 Essential Tips to Inspect Hover Elements LIKE A PRO!](https://www.youtube.com/watch?v=14jQdrrniZU)
 * [Next.js 15 Form Component - All That You Need To Know](https://www.youtube.com/watch?v=vl_aGFMShg0)
 * [Productivity Tip That Can Save You Hundred Hours Of Effort](https://www.youtube.com/watch?v=toJ__EMoNTw)
 * [Hitting The Publish Button With Victoria Lo, Solutions Engineer](https://www.youtube.com/watch?v=16CdHW03Zus)
 * [What Is A DNS? And How It Works! A Simple Explanation 😆](https://www.youtube.com/watch?v=GawmecnwCS8)
-* [How to Pass Additional Arguments to Next.js Server Actions?](https://www.youtube.com/watch?v=9PBtj0sUc7Q)
 <!-- latest-videos-end -->
