@@ -39,7 +39,7 @@ Check out my latest videos:
 <!-- latest-videos -->
 * [How I Integrated the Discord Webhook With a Next.js 15 App?](https://www.youtube.com/watch?v=6h-y1aRzvhY)
 * [What&#39;s the Best Way of Handling FormData in JavaScript? 🤩](https://www.youtube.com/watch?v=gNIO_6FcRrE)
-* [MASTER React 19 useActionState Hook with Project &amp; Usecases](https://www.youtube.com/watch?v=PWFKgdGmhxg)
 * [Next.js Server Component vs Server Action: Use Them Wisely](https://www.youtube.com/watch?v=zcyDhy3H4Gw)
 * [I Upgraded to Next.js 15 and Discovered THIS! Learn The Steps](https://www.youtube.com/watch?v=H6wot9plHZQ)
+* [3 Essential Tips to Inspect Hover Elements LIKE A PRO!](https://www.youtube.com/watch?v=14jQdrrniZU)
 <!-- latest-videos-end -->
