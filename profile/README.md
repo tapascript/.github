@@ -37,9 +37,9 @@ Join me on YouTube, where I pour years of gathered wisdom into empowering you. T
 Check out my latest videos:
 
 <!-- latest-videos -->
+* [.js, .cjs, .mjs: Full Breakdown for Beginners in 6 Minutes!](https://www.youtube.com/watch?v=3mhWE2gP-zc)
 * [How to Start a Career in Software Development in 2025?](https://www.youtube.com/watch?v=i4vEB2QYSoY)
 * [Master Next.js generateStaticParams(You&#39;ll Be Glad You Did!)](https://www.youtube.com/watch?v=lgyj-cV9NjA)
 * [How I Integrated the Discord Webhook With a Next.js 15 App?](https://www.youtube.com/watch?v=6h-y1aRzvhY)
 * [What&#39;s the Best Way of Handling FormData in JavaScript? 🤩](https://www.youtube.com/watch?v=gNIO_6FcRrE)
-* [MASTER React 19 useActionState Hook with Project &amp; Usecases](https://www.youtube.com/watch?v=PWFKgdGmhxg)
 <!-- latest-videos-end -->
