@@ -37,9 +37,9 @@ Join me on YouTube, where I pour years of gathered wisdom into empowering you. T
 Check out my latest videos:
 
 <!-- latest-videos -->
+* [How to Use Motion Animations With Next.js Server Components?](https://www.youtube.com/watch?v=T90QUHosXIU)
 * [DEGREE or SELF TAUGHT Which Path Leads to Software Developer Success?](https://www.youtube.com/watch?v=78tUV-hXLoQ)
 * [React 19 Context as a Provider: Master it With a Theming App](https://www.youtube.com/watch?v=IyWz1jyiKzM)
 * [tapaScript Lab: Career &amp; Open Source || ft. Aakansha Doshi](https://www.youtube.com/watch?v=r1WxIvpJLrM)
 * [.js, .cjs, .mjs: Full Breakdown for Beginners in 6 Minutes!](https://www.youtube.com/watch?v=3mhWE2gP-zc)
-* [How to Start a Career in Software Development in 2025?](https://www.youtube.com/watch?v=i4vEB2QYSoY)
 <!-- latest-videos-end -->
