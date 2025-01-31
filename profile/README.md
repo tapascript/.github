@@ -37,9 +37,9 @@ Join me on YouTube, where I pour years of gathered wisdom into empowering you. T
 Check out my latest videos:
 
 <!-- latest-videos -->
+* [Coding, Careers &amp; State of Mind: A Fireside Chat with Sumit Saha](https://www.youtube.com/watch?v=hIG99UC8_g0)
 * [Animate Page Navigation With Next.js &amp; Motion(Framer-Motion)](https://www.youtube.com/watch?v=7WXorRfTinY)
 * [How to Use Motion Animations With Next.js Server Components?](https://www.youtube.com/watch?v=T90QUHosXIU)
 * [DEGREE or SELF TAUGHT Which Path Leads to Software Developer Success?](https://www.youtube.com/watch?v=78tUV-hXLoQ)
 * [React 19 Context as a Provider: Master it With a Theming App](https://www.youtube.com/watch?v=IyWz1jyiKzM)
-* [tapaScript Lab: Career &amp; Open Source || ft. Aakansha Doshi](https://www.youtube.com/watch?v=r1WxIvpJLrM)
 <!-- latest-videos-end -->
