@@ -37,9 +37,9 @@ Join me on YouTube, where I pour years of gathered wisdom into empowering you. T
 Check out my latest videos:
 
 <!-- latest-videos -->
+* [Day 03: MASTER Operators &amp; Expressions in JavaScript 🤩](https://www.youtube.com/watch?v=vI95K-_JLOw)
 * [Day 02: Variables and Data Types in JavaScript || 40 Days of JS](https://www.youtube.com/watch?v=tVqy4Tw0i64)
 * [Day 01: Introduction to JavaScript &amp; Setting Up Environments](https://www.youtube.com/watch?v=t8QXF85YovE)
 * [25K Subscribers Celebration &amp; A Gift For YOU!  🎉  🎁](https://www.youtube.com/watch?v=NP2WY7ozD-Y)
 * [How Much JavaScript is Enough in 2025? (The AI Era) 🤖](https://www.youtube.com/watch?v=ne1wWoVaM5o)
-* [Coding, Careers &amp; State of Mind: A Fireside Chat with Sumit Saha @LearnwithSumit](https://www.youtube.com/watch?v=hIG99UC8_g0)
 <!-- latest-videos-end -->
