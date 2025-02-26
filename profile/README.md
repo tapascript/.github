@@ -37,9 +37,9 @@ Join me on YouTube, where I pour years of gathered wisdom into empowering you. T
 Check out my latest videos:
 
 <!-- latest-videos -->
+* [Day 06: MASTERING Functions in JavaScript With Quizzes 😊](https://www.youtube.com/watch?v=6UJ9SyHvkJY)
 * [Day 05: MASTERING Loops and Iterations in JavaScript With Quizzes 🤩](https://www.youtube.com/watch?v=MDR43-2GvtA)
 * [Day 04: MASTERING Control Flow in JavaScript With Quizzes 🤗](https://www.youtube.com/watch?v=Fn_DhBu3VyU)
 * [Day 03: MASTER Operators &amp; Expressions in JavaScript 🤩](https://www.youtube.com/watch?v=vI95K-_JLOw)
 * [Day 02: Variables and Data Types in JavaScript || 40 Days of JS](https://www.youtube.com/watch?v=tVqy4Tw0i64)
-* [Day 01: Introduction to JavaScript &amp; Setting Up Environments](https://www.youtube.com/watch?v=t8QXF85YovE)
 <!-- latest-videos-end -->
