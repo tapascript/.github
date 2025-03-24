@@ -37,9 +37,9 @@ Join me on YouTube, where I pour years of gathered wisdom into empowering you. T
 Check out my latest videos:
 
 <!-- latest-videos -->
+* [Day 14: Error Handling in JavaScript is Easy. Let&#39;s MASTER 🤩](https://www.youtube.com/watch?v=XpMW-gxNYD8)
 * [STOP Writing Bad JavaScript Code and Upgrade Your Skills Now!](https://www.youtube.com/watch?v=1XW_g3Ik3l8)
 * [Day 13: Why JavaScript this is So Tricky? Let’s Break It Down! 🤩](https://www.youtube.com/watch?v=9mfb0j9PcHw)
 * [Day 12: Mastering JavaScript Objects With Real-World Examples 🤩](https://www.youtube.com/watch?v=c5vEfYj5yZM)
 * [Day 11: JavaScript Closures With Real-World Examples 🤩](https://www.youtube.com/watch?v=lA7CGz3iHyI)
-* [Day 10: MASTERING Scope &amp; Scope Chain in JavaScript 🤩](https://www.youtube.com/watch?v=14H2TsrjcLo)
 <!-- latest-videos-end -->
