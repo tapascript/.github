@@ -37,9 +37,9 @@ Join me on YouTube, where I pour years of gathered wisdom into empowering you. T
 Check out my latest videos:
 
 <!-- latest-videos -->
+* [Day 17: Introduction to the DOM with JavaScript Projects 🤩](https://www.youtube.com/watch?v=F4mVSaj6uls)
 * [Day 16: MASTER JavaScript Debugging With DevTools &amp; VS Code 🪲](https://www.youtube.com/watch?v=VInAd-GJZec)
 * [Day 15: JavaScript Array Master Course - Beginner to PRO 🤩](https://www.youtube.com/watch?v=t05NguKFKo0)
 * [Day 14: Error Handling in JavaScript is Easy. Let&#39;s MASTER 🤩](https://www.youtube.com/watch?v=XpMW-gxNYD8)
 * [STOP Writing Bad JavaScript Code and Upgrade Your Skills Now!](https://www.youtube.com/watch?v=1XW_g3Ik3l8)
-* [Day 13: Why JavaScript this is So Tricky? Let’s Break It Down! 🤩](https://www.youtube.com/watch?v=9mfb0j9PcHw)
 <!-- latest-videos-end -->
