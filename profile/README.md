@@ -37,9 +37,9 @@ Join me on YouTube, where I pour years of gathered wisdom into empowering you. T
 Check out my latest videos:
 
 <!-- latest-videos -->
+* [Day 22: MASTER JavaScript Callback with Asynchronous Programming  🤩](https://www.youtube.com/watch?v=EtoHtZ8mdWA)
 * [Day 21: Build A Quiz App Using JavaScript DOM APIs  🤩](https://www.youtube.com/watch?v=hTDeyBq5EdM)
 * [Day 20: Advanced DOM Tricks Every Web Developer Must Know  🤩](https://www.youtube.com/watch?v=aNhPav1DgTY)
 * [Day 19: MASTER JavaScript Events Like a PRO 🤩](https://www.youtube.com/watch?v=ybgI5vVE668)
 * [Day 18: Learn DOM Manipulations with JavaScript Like a PRO 🤩](https://www.youtube.com/watch?v=BoYgn_Mf0hA)
-* [Day 17: Introduction to the DOM with JavaScript Projects 🤩](https://www.youtube.com/watch?v=F4mVSaj6uls)
 <!-- latest-videos-end -->
