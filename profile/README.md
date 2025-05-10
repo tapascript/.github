@@ -37,8 +37,8 @@ Join me on YouTube, where I pour years of gathered wisdom into empowering you. T
 Check out my latest videos:
 
 <!-- latest-videos -->
+* [Developer Career Roadmap: Beginner to Senior | Skills, Jobs, AI &amp; Remote Work Trends](https://www.youtube.com/watch?v=Ba-nOGVlmG8)
 * [Day 24: Master JavaScript async/await &amp; Simplify Promises Like a PRO  🤩](https://www.youtube.com/watch?v=WQdCffdPPKI)
-* [Developer Career Paths: What to Learn, What to Avoid, and How to Grow!](https://www.youtube.com/watch?v=UifG3stmKGs)
 * [Day 23: MASTER JavaScript Promises - From Beginner to PRO  🤩](https://www.youtube.com/watch?v=R52MdtIW3rs)
 * [Day 22: MASTER JavaScript Callback with Asynchronous Programming  🤩](https://www.youtube.com/watch?v=EtoHtZ8mdWA)
 * [Day 21: Build A Quiz App Using JavaScript DOM APIs  🤩](https://www.youtube.com/watch?v=hTDeyBq5EdM)
