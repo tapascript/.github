@@ -38,8 +38,8 @@ Check out my latest videos:
 
 <!-- latest-videos -->
 * [Developer Career Roadmap: Beginner to Senior | Skills, Jobs, AI &amp; Remote Work Trends](https://www.youtube.com/watch?v=Ba-nOGVlmG8)
+* [HTTP Methods Explained with Real-Life Analogies 🤩](https://www.youtube.com/watch?v=Qf2BBZVaAg8)
 * [Day 24: Master JavaScript async/await &amp; Simplify Promises Like a PRO  🤩](https://www.youtube.com/watch?v=WQdCffdPPKI)
 * [Day 23: MASTER JavaScript Promises - From Beginner to PRO  🤩](https://www.youtube.com/watch?v=R52MdtIW3rs)
 * [Day 22: MASTER JavaScript Callback with Asynchronous Programming  🤩](https://www.youtube.com/watch?v=EtoHtZ8mdWA)
-* [Day 21: Build A Quiz App Using JavaScript DOM APIs  🤩](https://www.youtube.com/watch?v=hTDeyBq5EdM)
 <!-- latest-videos-end -->
