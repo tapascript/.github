@@ -40,6 +40,6 @@ Check out my latest videos:
 * [Day 25: JavaScript fetch() Explained Like Never Before  🤩](https://www.youtube.com/watch?v=G3oPZSvrO9w)
 * [Developer Career Roadmap: Beginner to Senior | What to Learn, Avoid, and Grow!](https://www.youtube.com/watch?v=Ba-nOGVlmG8)
 * [HTTP Methods Explained with Real-Life Analogies 🤩](https://www.youtube.com/watch?v=Qf2BBZVaAg8)
-* [Day 24: Master JavaScript async/await &amp; Simplify Promises Like a PRO  🤩](https://www.youtube.com/watch?v=WQdCffdPPKI)
 * [Day 23: MASTER JavaScript Promises - From Beginner to PRO  🤩](https://www.youtube.com/watch?v=R52MdtIW3rs)
+* [Day 22: MASTER JavaScript Callback with Asynchronous Programming  🤩](https://www.youtube.com/watch?v=EtoHtZ8mdWA)
 <!-- latest-videos-end -->
