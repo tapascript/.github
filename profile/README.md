@@ -37,8 +37,8 @@ Join me on YouTube, where I pour years of gathered wisdom into empowering you. T
 Check out my latest videos:
 
 <!-- latest-videos -->
-* [Day 26: 6 Common Mistakes with JavaScript Promises &amp; Async Code 🤩](https://www.youtube.com/watch?v=c_zcXUz1neo)
 * [🚀 Launching tapaScript Website – The Ultimate Dev Learning Hub](https://www.youtube.com/watch?v=2RsLUJInStw)
+* [Day 26: 6 Common Mistakes with JavaScript Promises &amp; Async Code 🤩](https://www.youtube.com/watch?v=c_zcXUz1neo)
 * [Day 25: JavaScript fetch() Explained Like Never Before  🤩](https://www.youtube.com/watch?v=G3oPZSvrO9w)
 * [Developer Career Roadmap: Beginner to Senior | What to Learn, Avoid, and Grow!](https://www.youtube.com/watch?v=Ba-nOGVlmG8)
 * [HTTP Methods Explained with Real-Life Analogies 🤩](https://www.youtube.com/watch?v=Qf2BBZVaAg8)
