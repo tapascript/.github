@@ -18,15 +18,16 @@ Join me on YouTube, where I pour years of gathered wisdom into empowering you. T
  
   
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=YouTube&logoColor=white)](https://www.youtube.com/@tapasadhikary)
-  [![Website](https://img.shields.io/badge/Website-72e3ed)](https://www.tapasadhikary.com/)
+  [![Website](https://img.shields.io/badge/Website-72e3ed)](https://www.tapascript.io/)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=Twitter&logoColor=white)](https://twitter.com/tapasadhikary)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tapasadhikary/)
   [![Discord](https://img.shields.io/badge/Discord-4e5152?logo=Discord&logoColor=white)](https://discord.com/invite/YzUe4DbNAz)
   [![Static Badge](https://img.shields.io/badge/Facebook-288dc7?logo=Facebook&color=288dc7)](https://www.facebook.com/tapascript)
   [![Static Badge](https://img.shields.io/badge/Channel-fff?logo=Whatsapp)](https://whatsapp.com/channel/0029VaD6TMXICVfrYVJsO21M)
 
-<img alt="YouTube Channel Subscribers" height="30px" src="https://img.shields.io/youtube/channel/subscribers/UCaYr5yxgOyk599Mnb3TGh-g?label=tapaScript English Subs&style=social"> <br/>
-<img alt="YouTube Channel Subscribers" height="30px" src="https://img.shields.io/youtube/channel/subscribers/UCKaF0yTK_-SIAgOzgjdsOXw?label=tapaScript Bangla Subs&style=social"> <br/>
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCaYr5yxgOyk599Mnb3TGh-g?label=tapaScript)
+
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCKaF0yTK_-SIAgOzgjdsOXw?label=tapaScript%20Bangla)
 
 [![Watch the video](https://img.youtube.com/vi/90BgcWNRFMk/0.jpg)](https://www.youtube.com/watch?v=90BgcWNRFMk)
 
