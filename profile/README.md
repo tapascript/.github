@@ -18,7 +18,7 @@ Join me on YouTube, where I pour years of gathered wisdom into empowering you. T
  
   
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=YouTube&logoColor=white)](https://www.youtube.com/@tapasadhikary)
-  [![Website](https://img.shields.io/badge/Website-72e3ed)](https://www.tapasadhikary.com/)
+  [![Website](https://img.shields.io/badge/Website-72e3ed)](https://www.tapascript.io/)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=Twitter&logoColor=white)](https://twitter.com/tapasadhikary)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tapasadhikary/)
   [![Discord](https://img.shields.io/badge/Discord-4e5152?logo=Discord&logoColor=white)](https://discord.com/invite/YzUe4DbNAz)
