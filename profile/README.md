@@ -25,8 +25,9 @@ Join me on YouTube, where I pour years of gathered wisdom into empowering you. T
   [![Static Badge](https://img.shields.io/badge/Facebook-288dc7?logo=Facebook&color=288dc7)](https://www.facebook.com/tapascript)
   [![Static Badge](https://img.shields.io/badge/Channel-fff?logo=Whatsapp)](https://whatsapp.com/channel/0029VaD6TMXICVfrYVJsO21M)
 
-<img alt="YouTube Channel Subscribers" height="30px" src="https://img.shields.io/youtube/channel/subscribers/UCaYr5yxgOyk599Mnb3TGh-g?label=tapaScript English Subs&style=social"> <br/>
-<img alt="YouTube Channel Subscribers" height="30px" src="https://img.shields.io/youtube/channel/subscribers/UCKaF0yTK_-SIAgOzgjdsOXw?label=tapaScript Bangla Subs&style=social"> <br/>
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCaYr5yxgOyk599Mnb3TGh-g)
+
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCKaF0yTK_-SIAgOzgjdsOXw)
 
 [![Watch the video](https://img.youtube.com/vi/90BgcWNRFMk/0.jpg)](https://www.youtube.com/watch?v=90BgcWNRFMk)
 
@@ -37,9 +38,10 @@ Join me on YouTube, where I pour years of gathered wisdom into empowering you. T
 Check out my latest videos:
 
 <!-- latest-videos -->
-* [Code a Real App with JavaScript &amp; Tailwind – LIVE 👩‍💻 🧑‍💻](https://www.youtube.com/watch?v=Ub1a28GYMuA)
-* [Day 27: How Your Async Code Works | JavaScript Event Loop Simplified! 🤩](https://www.youtube.com/watch?v=4IYcwOfW3BM)
-* [🚀 Launching tapaScript Website – The Ultimate Dev Learning Hub](https://www.youtube.com/watch?v=2RsLUJInStw)
-* [Day 26: 6 Common Mistakes with JavaScript Promises &amp; Async Code 🤩](https://www.youtube.com/watch?v=c_zcXUz1neo)
-* [Day 25: JavaScript fetch() Explained Like Never Before  🤩](https://www.youtube.com/watch?v=G3oPZSvrO9w)
+
+- [Code a Real App with JavaScript &amp; Tailwind – LIVE 👩‍💻 🧑‍💻](https://www.youtube.com/watch?v=Ub1a28GYMuA)
+- [Day 27: How Your Async Code Works | JavaScript Event Loop Simplified! 🤩](https://www.youtube.com/watch?v=4IYcwOfW3BM)
+- [🚀 Launching tapaScript Website – The Ultimate Dev Learning Hub](https://www.youtube.com/watch?v=2RsLUJInStw)
+- [Day 26: 6 Common Mistakes with JavaScript Promises &amp; Async Code 🤩](https://www.youtube.com/watch?v=c_zcXUz1neo)
+- [Day 25: JavaScript fetch() Explained Like Never Before 🤩](https://www.youtube.com/watch?v=G3oPZSvrO9w)
 <!-- latest-videos-end -->
