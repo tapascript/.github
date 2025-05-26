@@ -25,9 +25,9 @@ Join me on YouTube, where I pour years of gathered wisdom into empowering you. T
   [![Static Badge](https://img.shields.io/badge/Facebook-288dc7?logo=Facebook&color=288dc7)](https://www.facebook.com/tapascript)
   [![Static Badge](https://img.shields.io/badge/Channel-fff?logo=Whatsapp)](https://whatsapp.com/channel/0029VaD6TMXICVfrYVJsO21M)
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCaYr5yxgOyk599Mnb3TGh-g)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCaYr5yxgOyk599Mnb3TGh-g?label=tapaScript)
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCKaF0yTK_-SIAgOzgjdsOXw)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCKaF0yTK_-SIAgOzgjdsOXw?label=tapaScript%20Bangla)
 
 [![Watch the video](https://img.youtube.com/vi/90BgcWNRFMk/0.jpg)](https://www.youtube.com/watch?v=90BgcWNRFMk)
 
