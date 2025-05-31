@@ -42,5 +42,5 @@ Check out my latest videos:
 * [Day 28: Build a Country App with Asynchronous JavaScript &amp; TailwindCSS 🤩](https://www.youtube.com/watch?v=jXS0VURNqxA)
 * [Code a Real App with JavaScript &amp; Tailwind – LIVE 👩‍💻 🧑‍💻](https://www.youtube.com/watch?v=Ub1a28GYMuA)
 * [Day 27: How Your Async Code Works | JavaScript Event Loop Simplified! 🤩](https://www.youtube.com/watch?v=4IYcwOfW3BM)
-* [🚀 Launching tapaScript Website – The Ultimate Dev Learning Hub](https://www.youtube.com/watch?v=2RsLUJInStw)
+* [Day 26: 6 Common Mistakes with JavaScript Promises &amp; Async Code 🤩](https://www.youtube.com/watch?v=c_zcXUz1neo)
 <!-- latest-videos-end -->
