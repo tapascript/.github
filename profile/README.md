@@ -38,9 +38,9 @@ Join me on YouTube, where I pour years of gathered wisdom into empowering you. T
 Check out my latest videos:
 
 <!-- latest-videos -->
+* [Day 29: Object Oriented Programming (OOP) Explained with Real-Life Analogies 🤩](https://www.youtube.com/watch?v=oRQOiyO-kHg)
 * [AI Won’t Steal Your Job… But This Might! Let&#39;s Talk Facts 🤖](https://www.youtube.com/watch?v=jGw2dbeRODw)
 * [Day 28: Build a Country App with Asynchronous JavaScript &amp; TailwindCSS 🤩](https://www.youtube.com/watch?v=jXS0VURNqxA)
 * [Code a Real App with JavaScript &amp; Tailwind – LIVE 👩‍💻 🧑‍💻](https://www.youtube.com/watch?v=Ub1a28GYMuA)
 * [Day 27: How Your Async Code Works | JavaScript Event Loop Simplified! 🤩](https://www.youtube.com/watch?v=4IYcwOfW3BM)
-* [🚀 Launching tapaScript Website – The Ultimate Dev Learning Hub](https://www.youtube.com/watch?v=2RsLUJInStw)
 <!-- latest-videos-end -->
