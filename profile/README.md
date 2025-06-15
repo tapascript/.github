@@ -38,9 +38,9 @@ Join me on YouTube, where I pour years of gathered wisdom into empowering you. T
 Check out my latest videos:
 
 <!-- latest-videos -->
+* [Tech Careers &amp; Mentorship ft. Ankush Dharkar | Real Dev Squad](https://www.youtube.com/watch?v=gbKj765gEko)
 * [Day 33: JavaScript Map, Set, WeakMap, WeakSet - When &amp; Why to Use Them! 🤩](https://www.youtube.com/watch?v=kzuvppEWm88)
 * [React Loves Functions, So Why Bother with OOP in 2025?](https://www.youtube.com/watch?v=m9BZ6HRYhzw)
 * [Day 30: From Zero to OOP Hero with JavaScript ES6 Classes 🤩](https://www.youtube.com/watch?v=kG5t34ciG9w)
 * [Day 29: Object Oriented Programming (OOP) Explained with Real-Life Analogies 🤩](https://www.youtube.com/watch?v=oRQOiyO-kHg)
-* [AI Won’t Steal Your Job… But This Might! Let&#39;s Talk Facts 🤖](https://www.youtube.com/watch?v=jGw2dbeRODw)
 <!-- latest-videos-end -->
