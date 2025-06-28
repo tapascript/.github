@@ -42,5 +42,5 @@ Check out my latest videos:
 * [Day 34: Build a Full Library App in JavaScript – OOP, ES6 Modules &amp; Tailwind CSS 🤩](https://www.youtube.com/watch?v=DXO8tiGH18Y)
 * [Tech Careers &amp; Mentorship ft. Ankush Dharkar | Real Dev Squad](https://www.youtube.com/watch?v=gbKj765gEko)
 * [Day 33: JavaScript Map, Set, WeakMap, WeakSet - When &amp; Why to Use Them! 🤩](https://www.youtube.com/watch?v=kzuvppEWm88)
-* [Day 30: From Zero to OOP Hero with JavaScript ES6 Classes 🤩](https://www.youtube.com/watch?v=kG5t34ciG9w)
+* [React Loves Functions, So Why Bother with OOP in 2025?](https://www.youtube.com/watch?v=m9BZ6HRYhzw)
 <!-- latest-videos-end -->
