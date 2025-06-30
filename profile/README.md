@@ -38,9 +38,9 @@ Join me on YouTube, where I pour years of gathered wisdom into empowering you. T
 Check out my latest videos:
 
 <!-- latest-videos -->
+* [I Built a Princess Finder App with AI and React! 🤖👑 | Fun ML Project](https://www.youtube.com/watch?v=sA7aQxk3JTk)
 * [Day 35: JavaScript Debugging Secrets Revealed by Expert 🤩](https://www.youtube.com/watch?v=wjM89QIL5As)
 * [Day 34: Build a Full Library App in JavaScript – OOP, ES6 Modules &amp; Tailwind CSS 🤩](https://www.youtube.com/watch?v=DXO8tiGH18Y)
 * [Tech Careers &amp; Mentorship ft. Ankush Dharkar | Real Dev Squad](https://www.youtube.com/watch?v=gbKj765gEko)
 * [Day 33: JavaScript Map, Set, WeakMap, WeakSet - When &amp; Why to Use Them! 🤩](https://www.youtube.com/watch?v=kzuvppEWm88)
-* [React Loves Functions, So Why Bother with OOP in 2025?](https://www.youtube.com/watch?v=m9BZ6HRYhzw)
 <!-- latest-videos-end -->
