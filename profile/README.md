@@ -38,9 +38,82 @@ Join me on YouTube, where I pour years of gathered wisdom into empowering you. T
 Check out my latest videos:
 
 <!-- latest-videos -->
-* [Day 36: Master JavaScript Performance — Debouncing, Throttling, Memoization Explained 🤩](https://www.youtube.com/watch?v=RnQPMARiq18)
-* [I Built a Princess Finder App with AI and React! 🤖👑 | Fun ML Project](https://www.youtube.com/watch?v=sA7aQxk3JTk)
-* [Day 35: JavaScript Debugging Secrets Revealed by Expert 🤩](https://www.youtube.com/watch?v=wjM89QIL5As)
-* [Day 34: Build a Full Library App in JavaScript – OOP, ES6 Modules &amp; Tailwind CSS 🤩](https://www.youtube.com/watch?v=DXO8tiGH18Y)
-* [Tech Careers &amp; Mentorship ft. Ankush Dharkar | Real Dev Squad](https://www.youtube.com/watch?v=gbKj765gEko)
+<table border="0">
+  
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=RnQPMARiq18" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/RnQPMARiq18/mqdefault.jpg" alt="Day 36: Master JavaScript Performance — Debouncing, Throttling, Memoization Explained 🤩">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=RnQPMARiq18" target="_blank">
+        <strong>Day 36: Master JavaScript Performance — Debouncing, Throttling, Memoization Explained 🤩</strong>
+      </a>
+      <br/>
+      <p>In Day 36 of our JavaScript series, we dive deep into JavaScript performance optimization techniques that every developer must ......</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=sA7aQxk3JTk" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/sA7aQxk3JTk/mqdefault.jpg" alt="I Built a Princess Finder App with AI and React! 🤖👑 | Fun ML Project">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=sA7aQxk3JTk" target="_blank">
+        <strong>I Built a Princess Finder App with AI and React! 🤖👑 | Fun ML Project</strong>
+      </a>
+      <br/>
+      <p>Ever imagined an AI app that can tell which Disney Princess you are? ✨ In this video, I walk you through my fun project ......</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=wjM89QIL5As" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/wjM89QIL5As/mqdefault.jpg" alt="Day 35: JavaScript Debugging Secrets Revealed by Expert 🤩">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=wjM89QIL5As" target="_blank">
+        <strong>Day 35: JavaScript Debugging Secrets Revealed by Expert 🤩</strong>
+      </a>
+      <br/>
+      <p>In this session, we dive deep into real-world JavaScript problems and fix broken code step-by-step using debugging techniques ......</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=DXO8tiGH18Y" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/DXO8tiGH18Y/mqdefault.jpg" alt="Day 34: Build a Full Library App in JavaScript – OOP, ES6 Modules &amp; Tailwind CSS 🤩">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=DXO8tiGH18Y" target="_blank">
+        <strong>Day 34: Build a Full Library App in JavaScript – OOP, ES6 Modules &amp; Tailwind CSS 🤩</strong>
+      </a>
+      <br/>
+      <p>In this video, we'll build a fully functional Library Management System using modern JavaScript with OOP principles like ......</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=gbKj765gEko" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/gbKj765gEko/mqdefault.jpg" alt="Tech Careers &amp; Mentorship ft. Ankush Dharkar | Real Dev Squad">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=gbKj765gEko" target="_blank">
+        <strong>Tech Careers &amp; Mentorship ft. Ankush Dharkar | Real Dev Squad</strong>
+      </a>
+      <br/>
+      <p>In this episode of tapaScript Lab, we sit down with Ankush Dharkar — founder of Real Dev Squad and JS TS Guild, and a former ......</p>
+    </td>
+  </tr>
+  
+</table>
 <!-- latest-videos-end -->
