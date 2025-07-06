@@ -72,21 +72,6 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=wjM89QIL5As" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/wjM89QIL5As/mqdefault.jpg" alt="Day 35: JavaScript Debugging Secrets Revealed by Expert 🤩">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=wjM89QIL5As" target="_blank">
-        <strong>Day 35: JavaScript Debugging Secrets Revealed by Expert 🤩</strong>
-      </a>
-      <br/>
-      <p>In this session, we dive deep into real-world JavaScript problems and fix broken code step-by-step using debugging techniques ......</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=DXO8tiGH18Y" target="_blank">
         <img width="150" src="https://img.youtube.com/vi/DXO8tiGH18Y/mqdefault.jpg" alt="Day 34: Build a Full Library App in JavaScript – OOP, ES6 Modules &amp; Tailwind CSS 🤩">
       </a>
@@ -112,6 +97,21 @@ Check out my latest videos:
       </a>
       <br/>
       <p>In this episode of tapaScript Lab, we sit down with Ankush Dharkar — founder of Real Dev Squad and JS TS Guild, and a former ......</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=kzuvppEWm88" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/kzuvppEWm88/mqdefault.jpg" alt="Day 33: JavaScript Map, Set, WeakMap, WeakSet - When &amp; Why to Use Them! 🤩">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=kzuvppEWm88" target="_blank">
+        <strong>Day 33: JavaScript Map, Set, WeakMap, WeakSet - When &amp; Why to Use Them! 🤩</strong>
+      </a>
+      <br/>
+      <p>In this video, we take a deep dive into JavaScript Collections—Map, Set, WeakMap, and WeakSet. Whether you're a beginner or ......</p>
     </td>
   </tr>
   
