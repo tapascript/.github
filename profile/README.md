@@ -102,16 +102,16 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=gbKj765gEko" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/gbKj765gEko/mqdefault.jpg" alt="Tech Careers &amp; Mentorship ft. Ankush Dharkar | Real Dev Squad">
+      <a href="https://www.youtube.com/watch?v=kzuvppEWm88" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/kzuvppEWm88/mqdefault.jpg" alt="Day 33: JavaScript Map, Set, WeakMap, WeakSet - When &amp; Why to Use Them! 🤩">
       </a>
     </td>
     <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=gbKj765gEko" target="_blank">
-        <strong>Tech Careers &amp; Mentorship ft. Ankush Dharkar | Real Dev Squad</strong>
+      <a href="https://www.youtube.com/watch?v=kzuvppEWm88" target="_blank">
+        <strong>Day 33: JavaScript Map, Set, WeakMap, WeakSet - When &amp; Why to Use Them! 🤩</strong>
       </a>
       <br/>
-      <p>In this episode of tapaScript Lab, we sit down with Ankush Dharkar — founder of Real Dev Squad and JS TS Guild, and a former ......</p>
+      <p>In this video, we take a deep dive into JavaScript Collections—Map, Set, WeakMap, and WeakSet. Whether you're a beginner or ......</p>
     </td>
   </tr>
   
