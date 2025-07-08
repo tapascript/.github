@@ -40,6 +40,21 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=Ffpd8RkEXlY" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/Ffpd8RkEXlY/mqdefault.jpg" alt="Day 37: JavaScript Web APIs Explained – Geolocation, Clipboard, Notifications, Playground, &amp; More! 🤩">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=Ffpd8RkEXlY" target="_blank">
+        <strong>Day 37: JavaScript Web APIs Explained – Geolocation, Clipboard, Notifications, Playground, &amp; More! 🤩</strong>
+      </a>
+      <br/>
+      <p>Unlock the true power of JavaScript with Web APIs! In this Day 37 video of our series, we dive deep into JavaScript Web APIs ......</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=RnQPMARiq18" target="_blank">
         <img width="150" src="https://img.youtube.com/vi/RnQPMARiq18/mqdefault.jpg" alt="Day 36: Master JavaScript Performance — Debouncing, Throttling, Memoization Explained 🤩">
       </a>
@@ -95,21 +110,6 @@ Check out my latest videos:
       </a>
       <br/>
       <p>In this video, we'll build a fully functional Library Management System using modern JavaScript with OOP principles like ......</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=gbKj765gEko" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/gbKj765gEko/mqdefault.jpg" alt="Tech Careers &amp; Mentorship ft. Ankush Dharkar | Real Dev Squad">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=gbKj765gEko" target="_blank">
-        <strong>Tech Careers &amp; Mentorship ft. Ankush Dharkar | Real Dev Squad</strong>
-      </a>
-      <br/>
-      <p>In this episode of tapaScript Lab, we sit down with Ankush Dharkar — founder of Real Dev Squad and JS TS Guild, and a former ......</p>
     </td>
   </tr>
   
