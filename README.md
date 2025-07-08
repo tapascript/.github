@@ -70,6 +70,21 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=sA7aQxk3JTk" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/sA7aQxk3JTk/mqdefault.jpg" alt="I Built a Princess Finder App with AI and React! 🤖👑 | Fun ML Project">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=sA7aQxk3JTk" target="_blank">
+        <strong>I Built a Princess Finder App with AI and React! 🤖👑 | Fun ML Project</strong>
+      </a>
+      <br/>
+      <p>Ever imagined an AI app that can tell which Disney Princess you are? ✨ In this video, I walk you through my fun project ......</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=wjM89QIL5As" target="_blank">
         <img width="150" src="https://img.youtube.com/vi/wjM89QIL5As/mqdefault.jpg" alt="Day 35: JavaScript Debugging Secrets Revealed by Expert 🤩">
       </a>
@@ -95,21 +110,6 @@ Check out my latest videos:
       </a>
       <br/>
       <p>In this video, we'll build a fully functional Library Management System using modern JavaScript with OOP principles like ......</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=gbKj765gEko" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/gbKj765gEko/mqdefault.jpg" alt="Tech Careers &amp; Mentorship ft. Ankush Dharkar | Real Dev Squad">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=gbKj765gEko" target="_blank">
-        <strong>Tech Careers &amp; Mentorship ft. Ankush Dharkar | Real Dev Squad</strong>
-      </a>
-      <br/>
-      <p>In this episode of tapaScript Lab, we sit down with Ankush Dharkar — founder of Real Dev Squad and JS TS Guild, and a former ......</p>
     </td>
   </tr>
   
