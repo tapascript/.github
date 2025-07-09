@@ -100,16 +100,16 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=DXO8tiGH18Y" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/DXO8tiGH18Y/mqdefault.jpg" alt="Day 34: Build a Full Library App in JavaScript – OOP, ES6 Modules &amp; Tailwind CSS 🤩">
+      <a href="https://www.youtube.com/watch?v=gbKj765gEko" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/gbKj765gEko/mqdefault.jpg" alt="Tech Careers &amp; Mentorship ft. Ankush Dharkar | Real Dev Squad">
       </a>
     </td>
     <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=DXO8tiGH18Y" target="_blank">
-        <strong>Day 34: Build a Full Library App in JavaScript – OOP, ES6 Modules &amp; Tailwind CSS 🤩</strong>
+      <a href="https://www.youtube.com/watch?v=gbKj765gEko" target="_blank">
+        <strong>Tech Careers &amp; Mentorship ft. Ankush Dharkar | Real Dev Squad</strong>
       </a>
       <br/>
-      <p>In this video, we'll build a fully functional Library Management System using modern JavaScript with OOP principles like ......</p>
+      <p>In this episode of tapaScript Lab, we sit down with Ankush Dharkar — founder of Real Dev Squad and JS TS Guild, and a former ......</p>
     </td>
   </tr>
   
