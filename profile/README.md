@@ -72,6 +72,21 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=RnQPMARiq18" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/RnQPMARiq18/mqdefault.jpg" alt="Day 36: Master JavaScript Performance — Debouncing, Throttling, Memoization Explained 🤩">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=RnQPMARiq18" target="_blank">
+        <strong>Day 36: Master JavaScript Performance — Debouncing, Throttling, Memoization Explained 🤩</strong>
+      </a>
+      <br/>
+      <p>In Day 36 of our JavaScript series, we dive deep into JavaScript performance optimization techniques that every developer must ......</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=sA7aQxk3JTk" target="_blank">
         <img width="150" src="https://img.youtube.com/vi/sA7aQxk3JTk/mqdefault.jpg" alt="I Built a Princess Finder App with AI and React! 🤖👑 | Fun ML Project">
       </a>
@@ -97,21 +112,6 @@ Check out my latest videos:
       </a>
       <br/>
       <p>In this session, we dive deep into real-world JavaScript problems and fix broken code step-by-step using debugging techniques ......</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=DXO8tiGH18Y" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/DXO8tiGH18Y/mqdefault.jpg" alt="Day 34: Build a Full Library App in JavaScript – OOP, ES6 Modules &amp; Tailwind CSS 🤩">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=DXO8tiGH18Y" target="_blank">
-        <strong>Day 34: Build a Full Library App in JavaScript – OOP, ES6 Modules &amp; Tailwind CSS 🤩</strong>
-      </a>
-      <br/>
-      <p>In this video, we'll build a fully functional Library Management System using modern JavaScript with OOP principles like ......</p>
     </td>
   </tr>
   
