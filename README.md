@@ -40,6 +40,21 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=ysC8Wqo6cjE" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/ysC8Wqo6cjE/mqdefault.jpg" alt="The #1 Git Mistake You&#39;re Making with package-lock.json and yarn.lock">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=ysC8Wqo6cjE" target="_blank">
+        <strong>The #1 Git Mistake You&#39;re Making with package-lock.json and yarn.lock</strong>
+      </a>
+      <br/>
+      <p>In this short but essential video, we break down the truth about lockfiles in JavaScript and Node.js projects. You'll learn: ✓ Why ......</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=Ffpd8RkEXlY" target="_blank">
         <img width="150" src="https://img.youtube.com/vi/Ffpd8RkEXlY/mqdefault.jpg" alt="Day 37: JavaScript Web APIs Explained – Geolocation, Clipboard, Notifications, Playground, &amp; More! 🤩">
       </a>
@@ -95,21 +110,6 @@ Check out my latest videos:
       </a>
       <br/>
       <p>In this session, we dive deep into real-world JavaScript problems and fix broken code step-by-step using debugging techniques ......</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=DXO8tiGH18Y" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/DXO8tiGH18Y/mqdefault.jpg" alt="Day 34: Build a Full Library App in JavaScript – OOP, ES6 Modules &amp; Tailwind CSS 🤩">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=DXO8tiGH18Y" target="_blank">
-        <strong>Day 34: Build a Full Library App in JavaScript – OOP, ES6 Modules &amp; Tailwind CSS 🤩</strong>
-      </a>
-      <br/>
-      <p>In this video, we'll build a fully functional Library Management System using modern JavaScript with OOP principles like ......</p>
     </td>
   </tr>
   
