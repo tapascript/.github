@@ -42,6 +42,21 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=0uFqZLy4dok" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/0uFqZLy4dok/mqdefault.jpg" alt="Can You Solve These 6 JavaScript Interview Puzzles? 🔥💡">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=0uFqZLy4dok" target="_blank">
+        <strong>Can You Solve These 6 JavaScript Interview Puzzles? 🔥💡</strong>
+      </a>
+      <br/>
+      <p>Think you're ready for your next JavaScript interview? Here are 6 real-world coding challenges often asked at top tech companies ......</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=ysC8Wqo6cjE" target="_blank">
         <img width="150" src="https://img.youtube.com/vi/ysC8Wqo6cjE/mqdefault.jpg" alt="The #1 Git Mistake You&#39;re Making with package-lock.json and yarn.lock">
       </a>
@@ -97,21 +112,6 @@ Check out my latest videos:
       </a>
       <br/>
       <p>Ever imagined an AI app that can tell which Disney Princess you are? ✨ In this video, I walk you through my fun project ......</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=wjM89QIL5As" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/wjM89QIL5As/mqdefault.jpg" alt="Day 35: JavaScript Debugging Secrets Revealed by Expert 🤩">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=wjM89QIL5As" target="_blank">
-        <strong>Day 35: JavaScript Debugging Secrets Revealed by Expert 🤩</strong>
-      </a>
-      <br/>
-      <p>In this session, we dive deep into real-world JavaScript problems and fix broken code step-by-step using debugging techniques ......</p>
     </td>
   </tr>
   
