@@ -40,6 +40,21 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=w-ZCIbEU-0A" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/w-ZCIbEU-0A/mqdefault.jpg" alt="Day 38: JavaScript Memory Management &amp; Garbage Collection Explained 🤩">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=w-ZCIbEU-0A" target="_blank">
+        <strong>Day 38: JavaScript Memory Management &amp; Garbage Collection Explained 🤩</strong>
+      </a>
+      <br/>
+      <p>What really happens to memory in your JavaScript app? In this Day 38 video, we dive deep into the world of JavaScript Memory ......</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=0uFqZLy4dok" target="_blank">
         <img width="150" src="https://img.youtube.com/vi/0uFqZLy4dok/mqdefault.jpg" alt="Can You Solve These 6 JavaScript Interview Puzzles? 🔥💡">
       </a>
@@ -95,21 +110,6 @@ Check out my latest videos:
       </a>
       <br/>
       <p>In Day 36 of our JavaScript series, we dive deep into JavaScript performance optimization techniques that every developer must ......</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=sA7aQxk3JTk" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/sA7aQxk3JTk/mqdefault.jpg" alt="I Built a Princess Finder App with AI and React! 🤖👑 | Fun ML Project">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=sA7aQxk3JTk" target="_blank">
-        <strong>I Built a Princess Finder App with AI and React! 🤖👑 | Fun ML Project</strong>
-      </a>
-      <br/>
-      <p>Ever imagined an AI app that can tell which Disney Princess you are? ✨ In this video, I walk you through my fun project ......</p>
     </td>
   </tr>
   
