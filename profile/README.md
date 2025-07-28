@@ -42,6 +42,21 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=aCJUoYWwAj8" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/aCJUoYWwAj8/mqdefault.jpg" alt="JavaScript Interview Preparation Guide (By a 20-Year Industry Veteran)">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=aCJUoYWwAj8" target="_blank">
+        <strong>JavaScript Interview Preparation Guide (By a 20-Year Industry Veteran)</strong>
+      </a>
+      <br/>
+      <p>Want to crack your next JavaScript or Web Developer interview? Hear it straight from the other side of the table — from someone ......</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=w-ZCIbEU-0A" target="_blank">
         <img width="150" src="https://img.youtube.com/vi/w-ZCIbEU-0A/mqdefault.jpg" alt="Day 38: JavaScript Memory Management &amp; Garbage Collection Explained 🤩">
       </a>
@@ -97,21 +112,6 @@ Check out my latest videos:
       </a>
       <br/>
       <p>Unlock the true power of JavaScript with Web APIs! In this Day 37 video of our series, we dive deep into JavaScript Web APIs ......</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=RnQPMARiq18" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/RnQPMARiq18/mqdefault.jpg" alt="Day 36: Master JavaScript Performance — Debouncing, Throttling, Memoization Explained 🤩">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=RnQPMARiq18" target="_blank">
-        <strong>Day 36: Master JavaScript Performance — Debouncing, Throttling, Memoization Explained 🤩</strong>
-      </a>
-      <br/>
-      <p>In Day 36 of our JavaScript series, we dive deep into JavaScript performance optimization techniques that every developer must ......</p>
     </td>
   </tr>
   
