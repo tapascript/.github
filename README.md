@@ -41,12 +41,12 @@ Check out my latest videos:
   <tr>
     <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=aCJUoYWwAj8" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/aCJUoYWwAj8/mqdefault.jpg" alt="JavaScript Interview Preparation Guide (By a 20-Year Industry Veteran)">
+        <img width="150" src="https://img.youtube.com/vi/aCJUoYWwAj8/mqdefault.jpg" alt="Day 39: JavaScript Interview Preparation Guide (By a 20-Year Industry Veteran)">
       </a>
     </td>
     <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=aCJUoYWwAj8" target="_blank">
-        <strong>JavaScript Interview Preparation Guide (By a 20-Year Industry Veteran)</strong>
+        <strong>Day 39: JavaScript Interview Preparation Guide (By a 20-Year Industry Veteran)</strong>
       </a>
       <br/>
       <p>Want to crack your next JavaScript or Web Developer interview? Hear it straight from the other side of the table — from someone ......</p>
