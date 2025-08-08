@@ -40,6 +40,21 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=ITNaVrDk9G0" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/ITNaVrDk9G0/mqdefault.jpg" alt="Day 40: Master JavaScript with This Real-World Expense Splitter App (Full Guide)">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=ITNaVrDk9G0" target="_blank">
+        <strong>Day 40: Master JavaScript with This Real-World Expense Splitter App (Full Guide)</strong>
+      </a>
+      <br/>
+      <p>Splitter — The ultimate JavaScript final project that brings together everything you've learned about JS, built from scratch by a ......</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=aCJUoYWwAj8" target="_blank">
         <img width="150" src="https://img.youtube.com/vi/aCJUoYWwAj8/mqdefault.jpg" alt="Day 39: JavaScript Interview Preparation Guide (By a 20-Year Industry Veteran)">
       </a>
@@ -95,21 +110,6 @@ Check out my latest videos:
       </a>
       <br/>
       <p>In this short but essential video, we break down the truth about lockfiles in JavaScript and Node.js projects. You'll learn: ✓ Why ......</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=Ffpd8RkEXlY" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/Ffpd8RkEXlY/mqdefault.jpg" alt="Day 37: JavaScript Web APIs Explained – Geolocation, Clipboard, Notifications, Playground, &amp; More! 🤩">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=Ffpd8RkEXlY" target="_blank">
-        <strong>Day 37: JavaScript Web APIs Explained – Geolocation, Clipboard, Notifications, Playground, &amp; More! 🤩</strong>
-      </a>
-      <br/>
-      <p>Unlock the true power of JavaScript with Web APIs! In this Day 37 video of our series, we dive deep into JavaScript Web APIs ......</p>
     </td>
   </tr>
   
