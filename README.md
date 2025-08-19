@@ -40,6 +40,21 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=ID86VfmkOUk" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/ID86VfmkOUk/mqdefault.jpg" alt="10 React Tricks That Make You Look Like a Senior Developer">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=ID86VfmkOUk" target="_blank">
+        <strong>10 React Tricks That Make You Look Like a Senior Developer</strong>
+      </a>
+      <br/>
+      <p>Want to write React code like a senior developer? In this video, I'll share 10 powerful React tricks that will instantly make your ......</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=ITNaVrDk9G0" target="_blank">
         <img width="150" src="https://img.youtube.com/vi/ITNaVrDk9G0/mqdefault.jpg" alt="Day 40: Master JavaScript with This Real-World Expense Splitter App (Full Guide)">
       </a>
@@ -95,21 +110,6 @@ Check out my latest videos:
       </a>
       <br/>
       <p>Think you're ready for your next JavaScript interview? Here are 6 real-world coding challenges often asked at top tech companies ......</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=ysC8Wqo6cjE" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/ysC8Wqo6cjE/mqdefault.jpg" alt="The #1 Git Mistake You&#39;re Making with package-lock.json and yarn.lock">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=ysC8Wqo6cjE" target="_blank">
-        <strong>The #1 Git Mistake You&#39;re Making with package-lock.json and yarn.lock</strong>
-      </a>
-      <br/>
-      <p>In this short but essential video, we break down the truth about lockfiles in JavaScript and Node.js projects. You'll learn: ✓ Why ......</p>
     </td>
   </tr>
   
