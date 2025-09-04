@@ -42,6 +42,21 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=KnhK9BeDpdI" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/KnhK9BeDpdI/mqdefault.jpg" alt="Build an AI Code Explainer with React 19 (Step-by-Step Tutorial)">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=KnhK9BeDpdI" target="_blank">
+        <strong>Build an AI Code Explainer with React 19 (Step-by-Step Tutorial)</strong>
+      </a>
+      <br/>
+      <p>Want to learn how to combine React 19 and AI LLMs to build something truly useful? In this tutorial, we'll create an AI-powered ......</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=ID86VfmkOUk" target="_blank">
         <img width="150" src="https://img.youtube.com/vi/ID86VfmkOUk/mqdefault.jpg" alt="10 React Tricks That Make You Look Like a Senior Developer">
       </a>
@@ -97,21 +112,6 @@ Check out my latest videos:
       </a>
       <br/>
       <p>What really happens to memory in your JavaScript app? In this Day 38 video, we dive deep into the world of JavaScript Memory ......</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=0uFqZLy4dok" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/0uFqZLy4dok/mqdefault.jpg" alt="Can You Solve These 6 JavaScript Interview Puzzles? 🔥💡">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=0uFqZLy4dok" target="_blank">
-        <strong>Can You Solve These 6 JavaScript Interview Puzzles? 🔥💡</strong>
-      </a>
-      <br/>
-      <p>Think you're ready for your next JavaScript interview? Here are 6 real-world coding challenges often asked at top tech companies ......</p>
     </td>
   </tr>
   
