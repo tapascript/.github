@@ -42,6 +42,21 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=OWi31QoHqNk" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/OWi31QoHqNk/mqdefault.jpg" alt="Day 0: Why React Needs Design Patterns + 10-Min Crash Course">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=OWi31QoHqNk" target="_blank">
+        <strong>Day 0: Why React Needs Design Patterns + 10-Min Crash Course</strong>
+      </a>
+      <br/>
+      <p>Welcome to Day 0 of “15 Days of React Design Patterns” In this kickoff episode, we'll cover why React needs design patterns ......</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=KnhK9BeDpdI" target="_blank">
         <img width="150" src="https://img.youtube.com/vi/KnhK9BeDpdI/mqdefault.jpg" alt="Build an AI Code Explainer with React 19 (Step-by-Step Tutorial)">
       </a>
@@ -97,21 +112,6 @@ Check out my latest videos:
       </a>
       <br/>
       <p>Want to crack your next JavaScript or Web Developer interview? Hear it straight from the other side of the table — from someone ......</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=w-ZCIbEU-0A" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/w-ZCIbEU-0A/mqdefault.jpg" alt="Day 38: JavaScript Memory Management &amp; Garbage Collection Explained 🤩">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=w-ZCIbEU-0A" target="_blank">
-        <strong>Day 38: JavaScript Memory Management &amp; Garbage Collection Explained 🤩</strong>
-      </a>
-      <br/>
-      <p>What really happens to memory in your JavaScript app? In this Day 38 video, we dive deep into the world of JavaScript Memory ......</p>
     </td>
   </tr>
   
