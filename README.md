@@ -40,6 +40,21 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=1UHbhikwg-s" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/1UHbhikwg-s/mqdefault.jpg" alt="Day 01: React Container-Presenter Pattern | Code Smell to Clean Code">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=1UHbhikwg-s" target="_blank">
+        <strong>Day 01: React Container-Presenter Pattern | Code Smell to Clean Code</strong>
+      </a>
+      <br/>
+      <p>Welcome to Day 01 of “15 Days of React Design Patterns” In this session, we dive deep into the Container–Presenter Pattern, ......</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=OWi31QoHqNk" target="_blank">
         <img width="150" src="https://img.youtube.com/vi/OWi31QoHqNk/mqdefault.jpg" alt="Day 0: Why React Needs Design Patterns + 10-Min Crash Course">
       </a>
@@ -95,21 +110,6 @@ Check out my latest videos:
       </a>
       <br/>
       <p>Splitter — The ultimate JavaScript final project that brings together everything you've learned about JS, built from scratch by a ......</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=aCJUoYWwAj8" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/aCJUoYWwAj8/mqdefault.jpg" alt="Day 39: JavaScript Interview Preparation Guide (By a 20-Year Industry Veteran)">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=aCJUoYWwAj8" target="_blank">
-        <strong>Day 39: JavaScript Interview Preparation Guide (By a 20-Year Industry Veteran)</strong>
-      </a>
-      <br/>
-      <p>Want to crack your next JavaScript or Web Developer interview? Hear it straight from the other side of the table — from someone ......</p>
     </td>
   </tr>
   
