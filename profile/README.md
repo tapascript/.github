@@ -102,16 +102,16 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=aCJUoYWwAj8" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/aCJUoYWwAj8/mqdefault.jpg" alt="Day 39: JavaScript Interview Preparation Guide (By a 20-Year Industry Veteran)">
+      <a href="https://www.youtube.com/watch?v=w-ZCIbEU-0A" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/w-ZCIbEU-0A/mqdefault.jpg" alt="Day 38: JavaScript Memory Management &amp; Garbage Collection Explained 🤩">
       </a>
     </td>
     <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=aCJUoYWwAj8" target="_blank">
-        <strong>Day 39: JavaScript Interview Preparation Guide (By a 20-Year Industry Veteran)</strong>
+      <a href="https://www.youtube.com/watch?v=w-ZCIbEU-0A" target="_blank">
+        <strong>Day 38: JavaScript Memory Management &amp; Garbage Collection Explained 🤩</strong>
       </a>
       <br/>
-      <p>Want to crack your next JavaScript or Web Developer interview? Hear it straight from the other side of the table — from someone ......</p>
+      <p>What really happens to memory in your JavaScript app? In this Day 38 video, we dive deep into the world of JavaScript Memory ......</p>
     </td>
   </tr>
   
