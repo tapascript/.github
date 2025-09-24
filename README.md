@@ -40,6 +40,21 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=jPMCouXondI" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/jPMCouXondI/mqdefault.jpg" alt="Day 02: React Design Patterns || Controlled &amp; Uncontrolled Forms">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=jPMCouXondI" target="_blank">
+        <strong>Day 02: React Design Patterns || Controlled &amp; Uncontrolled Forms</strong>
+      </a>
+      <br/>
+      <p>Welcome to Day 02 of React Design Patterns! In this session, we delve into one of the most important concepts every React ......</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=1UHbhikwg-s" target="_blank">
         <img width="150" src="https://img.youtube.com/vi/1UHbhikwg-s/mqdefault.jpg" alt="Day 01: React Container-Presenter Pattern | Code Smell to Clean Code">
       </a>
@@ -95,21 +110,6 @@ Check out my latest videos:
       </a>
       <br/>
       <p>Want to write React code like a senior developer? In this video, I'll share 10 powerful React tricks that will instantly make your ......</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=ITNaVrDk9G0" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/ITNaVrDk9G0/mqdefault.jpg" alt="Day 40: Master JavaScript with This Real-World Expense Splitter App (Full Guide)">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=ITNaVrDk9G0" target="_blank">
-        <strong>Day 40: Master JavaScript with This Real-World Expense Splitter App (Full Guide)</strong>
-      </a>
-      <br/>
-      <p>Splitter — The ultimate JavaScript final project that brings together everything you've learned about JS, built from scratch by a ......</p>
     </td>
   </tr>
   
