@@ -72,21 +72,6 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=OWi31QoHqNk" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/OWi31QoHqNk/mqdefault.jpg" alt="Day 0: Why React Needs Design Patterns + 10-Min Crash Course">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=OWi31QoHqNk" target="_blank">
-        <strong>Day 0: Why React Needs Design Patterns + 10-Min Crash Course</strong>
-      </a>
-      <br/>
-      <p>Welcome to Day 0 of “15 Days of React Design Patterns” In this kickoff episode, we'll cover why React needs design patterns ......</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=KnhK9BeDpdI" target="_blank">
         <img width="150" src="https://img.youtube.com/vi/KnhK9BeDpdI/mqdefault.jpg" alt="Build an AI Code Explainer with React 19 (Step-by-Step Tutorial)">
       </a>
@@ -112,6 +97,21 @@ Check out my latest videos:
       </a>
       <br/>
       <p>Want to write React code like a senior developer? In this video, I'll share 10 powerful React tricks that will instantly make your ......</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=ITNaVrDk9G0" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/ITNaVrDk9G0/mqdefault.jpg" alt="Day 40: Master JavaScript with This Real-World Expense Splitter App (Full Guide)">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=ITNaVrDk9G0" target="_blank">
+        <strong>Day 40: Master JavaScript with This Real-World Expense Splitter App (Full Guide)</strong>
+      </a>
+      <br/>
+      <p>Splitter — The ultimate JavaScript final project that brings together everything you've learned about JS, built from scratch by a ......</p>
     </td>
   </tr>
   
