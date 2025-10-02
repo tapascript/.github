@@ -42,6 +42,21 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=LglWulOqh6k" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/LglWulOqh6k/mqdefault.jpg" alt="Day 03: Mastering Compound Components Design Pattern in React">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=LglWulOqh6k" target="_blank">
+        <strong>Day 03: Mastering Compound Components Design Pattern in React</strong>
+      </a>
+      <br/>
+      <p>Welcome to Day 03 of 15 Days of React Design Patterns – Clean Code Made Easy! In this session, we dive deep into one of the ......</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=jPMCouXondI" target="_blank">
         <img width="150" src="https://img.youtube.com/vi/jPMCouXondI/mqdefault.jpg" alt="Day 02: React Design Patterns || Controlled &amp; Uncontrolled Forms">
       </a>
@@ -97,21 +112,6 @@ Check out my latest videos:
       </a>
       <br/>
       <p>Want to learn how to combine React 19 and AI LLMs to build something truly useful? In this tutorial, we'll create an AI-powered ......</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=ID86VfmkOUk" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/ID86VfmkOUk/mqdefault.jpg" alt="10 React Tricks That Make You Look Like a Senior Developer">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=ID86VfmkOUk" target="_blank">
-        <strong>10 React Tricks That Make You Look Like a Senior Developer</strong>
-      </a>
-      <br/>
-      <p>Want to write React code like a senior developer? In this video, I'll share 10 powerful React tricks that will instantly make your ......</p>
     </td>
   </tr>
   
