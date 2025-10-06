@@ -42,6 +42,21 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=_CDnddrVMyo" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/_CDnddrVMyo/mqdefault.jpg" alt="40 Days of JavaScript Badge Unlocked! 🎖️ Here’s How to Get Yours">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=_CDnddrVMyo" target="_blank">
+        <strong>40 Days of JavaScript Badge Unlocked! 🎖️ Here’s How to Get Yours</strong>
+      </a>
+      <br/>
+      <p>If you've completed the 40 Days of JavaScript journey, it's time to claim your official completion badge! In this video, I'll show ......</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=LglWulOqh6k" target="_blank">
         <img width="150" src="https://img.youtube.com/vi/LglWulOqh6k/mqdefault.jpg" alt="Day 03: Mastering Compound Components Design Pattern in React">
       </a>
@@ -97,21 +112,6 @@ Check out my latest videos:
       </a>
       <br/>
       <p>Welcome to Day 0 of “15 Days of React Design Patterns” In this kickoff episode, we'll cover why React needs design patterns ......</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=KnhK9BeDpdI" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/KnhK9BeDpdI/mqdefault.jpg" alt="Build an AI Code Explainer with React 19 (Step-by-Step Tutorial)">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=KnhK9BeDpdI" target="_blank">
-        <strong>Build an AI Code Explainer with React 19 (Step-by-Step Tutorial)</strong>
-      </a>
-      <br/>
-      <p>Want to learn how to combine React 19 and AI LLMs to build something truly useful? In this tutorial, we'll create an AI-powered ......</p>
     </td>
   </tr>
   
