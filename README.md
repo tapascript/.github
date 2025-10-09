@@ -40,6 +40,21 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=tIdJj0n1mg4" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/tIdJj0n1mg4/mqdefault.jpg" alt="Day 04: Master the Render Props Pattern in React - Share Logic Without Duplication">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=tIdJj0n1mg4" target="_blank">
+        <strong>Day 04: Master the Render Props Pattern in React - Share Logic Without Duplication</strong>
+      </a>
+      <br/>
+      <p>Welcome to Day 04 of the React Design Patterns Series! In this session, we uncover one of React's most powerful (and historical) ......</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=_CDnddrVMyo" target="_blank">
         <img width="150" src="https://img.youtube.com/vi/_CDnddrVMyo/mqdefault.jpg" alt="40 Days of JavaScript Badge Unlocked! 🎖️ Here’s How to Get Yours">
       </a>
@@ -95,21 +110,6 @@ Check out my latest videos:
       </a>
       <br/>
       <p>Welcome to Day 01 of “15 Days of React Design Patterns” In this session, we dive deep into the Container–Presenter Pattern, ......</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=OWi31QoHqNk" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/OWi31QoHqNk/mqdefault.jpg" alt="Day 0: Why React Needs Design Patterns + 10-Min Crash Course">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=OWi31QoHqNk" target="_blank">
-        <strong>Day 0: Why React Needs Design Patterns + 10-Min Crash Course</strong>
-      </a>
-      <br/>
-      <p>Welcome to Day 0 of “15 Days of React Design Patterns” In this kickoff episode, we'll cover why React needs design patterns ......</p>
     </td>
   </tr>
   
