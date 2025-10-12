@@ -100,16 +100,16 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=OWi31QoHqNk" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/OWi31QoHqNk/mqdefault.jpg" alt="Day 0: Why React Needs Design Patterns + 10-Min Crash Course">
+      <a href="https://www.youtube.com/watch?v=1UHbhikwg-s" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/1UHbhikwg-s/mqdefault.jpg" alt="Day 01: React Container-Presenter Pattern | Code Smell to Clean Code">
       </a>
     </td>
     <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=OWi31QoHqNk" target="_blank">
-        <strong>Day 0: Why React Needs Design Patterns + 10-Min Crash Course</strong>
+      <a href="https://www.youtube.com/watch?v=1UHbhikwg-s" target="_blank">
+        <strong>Day 01: React Container-Presenter Pattern | Code Smell to Clean Code</strong>
       </a>
       <br/>
-      <p>Welcome to Day 0 of “15 Days of React Design Patterns” In this kickoff episode, we'll cover why React needs design patterns ......</p>
+      <p>Welcome to Day 01 of “15 Days of React Design Patterns” In this session, we dive deep into the Container–Presenter Pattern, ......</p>
     </td>
   </tr>
   
