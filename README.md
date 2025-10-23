@@ -40,6 +40,21 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=spDQ4oCKSPY" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/spDQ4oCKSPY/mqdefault.jpg" alt="Day 05: Master Higher Order Functions &amp; Components in React">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=spDQ4oCKSPY" target="_blank">
+        <strong>Day 05: Master Higher Order Functions &amp; Components in React</strong>
+      </a>
+      <br/>
+      <p>Welcome to Day 05 of 15 Days of React Design Patterns – Clean Code Made Easy! In this session, we'll dive deep into one of ......</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=tIdJj0n1mg4" target="_blank">
         <img width="150" src="https://img.youtube.com/vi/tIdJj0n1mg4/mqdefault.jpg" alt="Day 04: Master the Render Props Pattern in React - Share Logic Without Duplication">
       </a>
@@ -95,21 +110,6 @@ Check out my latest videos:
       </a>
       <br/>
       <p>Welcome to Day 02 of React Design Patterns! In this session, we delve into one of the most important concepts every React ......</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=OWi31QoHqNk" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/OWi31QoHqNk/mqdefault.jpg" alt="Day 0: Why React Needs Design Patterns + 10-Min Crash Course">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=OWi31QoHqNk" target="_blank">
-        <strong>Day 0: Why React Needs Design Patterns + 10-Min Crash Course</strong>
-      </a>
-      <br/>
-      <p>Welcome to Day 0 of “15 Days of React Design Patterns” In this kickoff episode, we'll cover why React needs design patterns ......</p>
     </td>
   </tr>
   
