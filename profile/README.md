@@ -42,6 +42,21 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=fhwvqTry_Vg" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/fhwvqTry_Vg/mqdefault.jpg" alt="Day 06: MASTER React Custom Hook Pattern with Real-World Examples">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=fhwvqTry_Vg" target="_blank">
+        <strong>Day 06: MASTER React Custom Hook Pattern with Real-World Examples</strong>
+      </a>
+      <br/>
+      <p>Welcome to Day 06 of 15 Days of React Design Patterns – Clean Code Made Easy! In this session, Learn how to build your own ......</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=spDQ4oCKSPY" target="_blank">
         <img width="150" src="https://img.youtube.com/vi/spDQ4oCKSPY/mqdefault.jpg" alt="Day 05: Master Higher Order Functions &amp; Components in React">
       </a>
@@ -97,21 +112,6 @@ Check out my latest videos:
       </a>
       <br/>
       <p>Welcome to Day 03 of 15 Days of React Design Patterns – Clean Code Made Easy! In this session, we dive deep into one of the ......</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=jPMCouXondI" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/jPMCouXondI/mqdefault.jpg" alt="Day 02: React Design Patterns || Controlled &amp; Uncontrolled Forms">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=jPMCouXondI" target="_blank">
-        <strong>Day 02: React Design Patterns || Controlled &amp; Uncontrolled Forms</strong>
-      </a>
-      <br/>
-      <p>Welcome to Day 02 of React Design Patterns! In this session, we delve into one of the most important concepts every React ......</p>
     </td>
   </tr>
   
