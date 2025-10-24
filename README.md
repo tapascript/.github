@@ -40,6 +40,21 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=spDQ4oCKSPY" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/spDQ4oCKSPY/mqdefault.jpg" alt="Day 05: Master Higher Order Functions &amp; Components in React">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=spDQ4oCKSPY" target="_blank">
+        <strong>Day 05: Master Higher Order Functions &amp; Components in React</strong>
+      </a>
+      <br/>
+      <p>Welcome to Day 05 of 15 Days of React Design Patterns – Clean Code Made Easy! In this session, we'll dive deep into one of ......</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=tIdJj0n1mg4" target="_blank">
         <img width="150" src="https://img.youtube.com/vi/tIdJj0n1mg4/mqdefault.jpg" alt="Day 04: Master the Render Props Pattern in React - Share Logic Without Duplication">
       </a>
@@ -70,46 +85,31 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=aCJUoYWwAj8" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/aCJUoYWwAj8/mqdefault.jpg" alt="Day 39: JavaScript Interview Preparation Guide (By a 20-Year Industry Veteran)">
+      <a href="https://www.youtube.com/watch?v=LglWulOqh6k" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/LglWulOqh6k/mqdefault.jpg" alt="Day 03: Mastering Compound Components Design Pattern in React">
       </a>
     </td>
     <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=aCJUoYWwAj8" target="_blank">
-        <strong>Day 39: JavaScript Interview Preparation Guide (By a 20-Year Industry Veteran)</strong>
+      <a href="https://www.youtube.com/watch?v=LglWulOqh6k" target="_blank">
+        <strong>Day 03: Mastering Compound Components Design Pattern in React</strong>
       </a>
       <br/>
-      <p>Want to crack your next JavaScript or Web Developer interview? Hear it straight from the other side of the table — from someone ......</p>
+      <p>Welcome to Day 03 of 15 Days of React Design Patterns – Clean Code Made Easy! In this session, we dive deep into one of the ......</p>
     </td>
   </tr>
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=w-ZCIbEU-0A" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/w-ZCIbEU-0A/mqdefault.jpg" alt="Day 38: JavaScript Memory Management &amp; Garbage Collection Explained 🤩">
+      <a href="https://www.youtube.com/watch?v=jPMCouXondI" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/jPMCouXondI/mqdefault.jpg" alt="Day 02: React Design Patterns || Controlled &amp; Uncontrolled Forms">
       </a>
     </td>
     <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=w-ZCIbEU-0A" target="_blank">
-        <strong>Day 38: JavaScript Memory Management &amp; Garbage Collection Explained 🤩</strong>
+      <a href="https://www.youtube.com/watch?v=jPMCouXondI" target="_blank">
+        <strong>Day 02: React Design Patterns || Controlled &amp; Uncontrolled Forms</strong>
       </a>
       <br/>
-      <p>What really happens to memory in your JavaScript app? In this Day 38 video, we dive deep into the world of JavaScript Memory ......</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=Ffpd8RkEXlY" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/Ffpd8RkEXlY/mqdefault.jpg" alt="Day 37: JavaScript Web APIs Explained – Geolocation, Clipboard, Notifications, Playground, &amp; More! 🤩">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=Ffpd8RkEXlY" target="_blank">
-        <strong>Day 37: JavaScript Web APIs Explained – Geolocation, Clipboard, Notifications, Playground, &amp; More! 🤩</strong>
-      </a>
-      <br/>
-      <p>Unlock the true power of JavaScript with Web APIs! In this Day 37 video of our series, we dive deep into JavaScript Web APIs ......</p>
+      <p>Welcome to Day 02 of React Design Patterns! In this session, we delve into one of the most important concepts every React ......</p>
     </td>
   </tr>
   
