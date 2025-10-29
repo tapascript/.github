@@ -42,6 +42,21 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=POWMosrdamI" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/POWMosrdamI/mqdefault.jpg" alt="Day 07: Master the Provider Pattern in React || Context Made Simple!">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=POWMosrdamI" target="_blank">
+        <strong>Day 07: Master the Provider Pattern in React || Context Made Simple!</strong>
+      </a>
+      <br/>
+      <p>Welcome to Day 07 of our React Design Patterns Series! Today, we're diving deep into the Provider Pattern — one of the most ......</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=fhwvqTry_Vg" target="_blank">
         <img width="150" src="https://img.youtube.com/vi/fhwvqTry_Vg/mqdefault.jpg" alt="Day 06: MASTER React Custom Hook Pattern with Real-World Examples">
       </a>
@@ -52,6 +67,21 @@ Check out my latest videos:
       </a>
       <br/>
       <p>Welcome to Day 06 of 15 Days of React Design Patterns – Clean Code Made Easy! In this session, Learn how to build your own ......</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=spDQ4oCKSPY" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/spDQ4oCKSPY/mqdefault.jpg" alt="Day 05: Master Higher Order Functions &amp; Components in React">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=spDQ4oCKSPY" target="_blank">
+        <strong>Day 05: Master Higher Order Functions &amp; Components in React</strong>
+      </a>
+      <br/>
+      <p>Welcome to Day 05 of 15 Days of React Design Patterns – Clean Code Made Easy! In this session, we'll dive deep into one of ......</p>
     </td>
   </tr>
   
@@ -82,36 +112,6 @@ Check out my latest videos:
       </a>
       <br/>
       <p>If you've completed the 40 Days of JavaScript journey, it's time to claim your official completion badge! In this video, I'll show ......</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=aCJUoYWwAj8" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/aCJUoYWwAj8/mqdefault.jpg" alt="Day 39: JavaScript Interview Preparation Guide (By a 20-Year Industry Veteran)">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=aCJUoYWwAj8" target="_blank">
-        <strong>Day 39: JavaScript Interview Preparation Guide (By a 20-Year Industry Veteran)</strong>
-      </a>
-      <br/>
-      <p>Want to crack your next JavaScript or Web Developer interview? Hear it straight from the other side of the table — from someone ......</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=w-ZCIbEU-0A" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/w-ZCIbEU-0A/mqdefault.jpg" alt="Day 38: JavaScript Memory Management &amp; Garbage Collection Explained 🤩">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=w-ZCIbEU-0A" target="_blank">
-        <strong>Day 38: JavaScript Memory Management &amp; Garbage Collection Explained 🤩</strong>
-      </a>
-      <br/>
-      <p>What really happens to memory in your JavaScript app? In this Day 38 video, we dive deep into the world of JavaScript Memory ......</p>
     </td>
   </tr>
   
