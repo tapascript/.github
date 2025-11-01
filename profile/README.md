@@ -72,6 +72,21 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=spDQ4oCKSPY" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/spDQ4oCKSPY/mqdefault.jpg" alt="Day 05: Master Higher Order Functions &amp; Components in React">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=spDQ4oCKSPY" target="_blank">
+        <strong>Day 05: Master Higher Order Functions &amp; Components in React</strong>
+      </a>
+      <br/>
+      <p>Welcome to Day 05 of 15 Days of React Design Patterns – Clean Code Made Easy! In this session, we'll dive deep into one of ......</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=tIdJj0n1mg4" target="_blank">
         <img width="150" src="https://img.youtube.com/vi/tIdJj0n1mg4/mqdefault.jpg" alt="Day 04: Master the Render Props Pattern in React - Share Logic Without Duplication">
       </a>
@@ -97,21 +112,6 @@ Check out my latest videos:
       </a>
       <br/>
       <p>If you've completed the 40 Days of JavaScript journey, it's time to claim your official completion badge! In this video, I'll show ......</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=LglWulOqh6k" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/LglWulOqh6k/mqdefault.jpg" alt="Day 03: Mastering Compound Components Design Pattern in React">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=LglWulOqh6k" target="_blank">
-        <strong>Day 03: Mastering Compound Components Design Pattern in React</strong>
-      </a>
-      <br/>
-      <p>Welcome to Day 03 of 15 Days of React Design Patterns – Clean Code Made Easy! In this session, we dive deep into one of the ......</p>
     </td>
   </tr>
   
