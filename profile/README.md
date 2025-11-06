@@ -43,12 +43,12 @@ Check out my latest videos:
   <tr>
     <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=POWMosrdamI" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/POWMosrdamI/mqdefault.jpg" alt="Day 07: Master the Provider Pattern in React || Context Made Simple!">
+        <img width="150" src="https://img.youtube.com/vi/POWMosrdamI/mqdefault.jpg" alt="MASTER the Provider Pattern in React || Context Made Simple! || Day 07">
       </a>
     </td>
     <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=POWMosrdamI" target="_blank">
-        <strong>Day 07: Master the Provider Pattern in React || Context Made Simple!</strong>
+        <strong>MASTER the Provider Pattern in React || Context Made Simple! || Day 07</strong>
       </a>
       <br/>
       <p>Welcome to Day 07 of our React Design Patterns Series! Today, we're diving deep into the Provider Pattern — one of the most ......</p>
@@ -58,12 +58,12 @@ Check out my latest videos:
   <tr>
     <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=fhwvqTry_Vg" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/fhwvqTry_Vg/mqdefault.jpg" alt="Day 06: MASTER React Custom Hook Pattern with Real-World Examples">
+        <img width="150" src="https://img.youtube.com/vi/fhwvqTry_Vg/mqdefault.jpg" alt="MASTER React Custom Hook Pattern with Real-World Examples || Day 06">
       </a>
     </td>
     <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=fhwvqTry_Vg" target="_blank">
-        <strong>Day 06: MASTER React Custom Hook Pattern with Real-World Examples</strong>
+        <strong>MASTER React Custom Hook Pattern with Real-World Examples || Day 06</strong>
       </a>
       <br/>
       <p>Welcome to Day 06 of 15 Days of React Design Patterns – Clean Code Made Easy! In this session, Learn how to build your own ......</p>
@@ -73,12 +73,12 @@ Check out my latest videos:
   <tr>
     <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=spDQ4oCKSPY" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/spDQ4oCKSPY/mqdefault.jpg" alt="Day 05: Master Higher Order Functions &amp; Components in React">
+        <img width="150" src="https://img.youtube.com/vi/spDQ4oCKSPY/mqdefault.jpg" alt="Master Higher Order Functions &amp; Components in React || Day 05">
       </a>
     </td>
     <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=spDQ4oCKSPY" target="_blank">
-        <strong>Day 05: Master Higher Order Functions &amp; Components in React</strong>
+        <strong>Master Higher Order Functions &amp; Components in React || Day 05</strong>
       </a>
       <br/>
       <p>Welcome to Day 05 of 15 Days of React Design Patterns – Clean Code Made Easy! In this session, we'll dive deep into one of ......</p>
@@ -88,12 +88,12 @@ Check out my latest videos:
   <tr>
     <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=tIdJj0n1mg4" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/tIdJj0n1mg4/mqdefault.jpg" alt="Day 04: Master the Render Props Pattern in React - Share Logic Without Duplication">
+        <img width="150" src="https://img.youtube.com/vi/tIdJj0n1mg4/mqdefault.jpg" alt="Master the Render Props Pattern in React - Share Logic Without Duplication || Day 04">
       </a>
     </td>
     <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=tIdJj0n1mg4" target="_blank">
-        <strong>Day 04: Master the Render Props Pattern in React - Share Logic Without Duplication</strong>
+        <strong>Master the Render Props Pattern in React - Share Logic Without Duplication || Day 04</strong>
       </a>
       <br/>
       <p>Welcome to Day 04 of the React Design Patterns Series! In this session, we uncover one of React's most powerful (and historical) ......</p>
