@@ -42,6 +42,21 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=x03yX-yNxas" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/x03yX-yNxas/mqdefault.jpg" alt="MASTER Optimistic UI Pattern in React 19 || useOptimistic Hook || Day 08">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=x03yX-yNxas" target="_blank">
+        <strong>MASTER Optimistic UI Pattern in React 19 || useOptimistic Hook || Day 08</strong>
+      </a>
+      <br/>
+      <p>In this video, we'll uncover one of the most powerful and user-experience-boosting patterns in modern React — the Optimistic UI ......</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=POWMosrdamI" target="_blank">
         <img width="150" src="https://img.youtube.com/vi/POWMosrdamI/mqdefault.jpg" alt="MASTER the Provider Pattern in React || Context Made Simple! || Day 07">
       </a>
@@ -97,21 +112,6 @@ Check out my latest videos:
       </a>
       <br/>
       <p>Welcome to Day 04 of the React Design Patterns Series! In this session, we uncover one of React's most powerful (and historical) ......</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=_CDnddrVMyo" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/_CDnddrVMyo/mqdefault.jpg" alt="40 Days of JavaScript Badge Unlocked! 🎖️ Here’s How to Get Yours">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=_CDnddrVMyo" target="_blank">
-        <strong>40 Days of JavaScript Badge Unlocked! 🎖️ Here’s How to Get Yours</strong>
-      </a>
-      <br/>
-      <p>If you've completed the 40 Days of JavaScript journey, it's time to claim your official completion badge! In this video, I'll show ......</p>
     </td>
   </tr>
   
