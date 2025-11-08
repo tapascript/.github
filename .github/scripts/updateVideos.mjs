@@ -39,7 +39,7 @@ const fetchLatestVideos = async (retries = 3, delay = 1000) => {
         maxResults,
       });
 
-      const videos = response.data.items.map((item) => ({
+      let videos = response.data.items.map((item) => ({
         title: item.snippet.title,
         videoId: item.id.videoId,
         thumbnail: item.snippet.thumbnails.medium.url,
