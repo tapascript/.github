@@ -19,6 +19,9 @@ const youtube = google.youtube({
 
 // Retry logic
 const fetchLatestVideos = async (retries = 3, delay = 1000) => {
+  log(`CHANNEL 1: ${channelId}`);
+  log(`CHANNEL 2: ${channelIdBangla}`);
+
   for (let attempt = 0; attempt < retries; attempt++) {
     try {
       log(`Fetching latest ${maxResults} videos from channels...`);
