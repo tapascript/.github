@@ -21,37 +21,44 @@ const youtube = google.youtube({
 const fetchLatestVideos = async (retries = 3, delay = 1000) => {
   for (let attempt = 0; attempt < retries; attempt++) {
     try {
-      log(`Fetching latest ${maxResults} videos from channel...`);
+      log(`Fetching latest ${maxResults} videos from channels...`);
 
-      const response = await youtube.search.list({
-        part: "snippet",
-        channelId,
-        order: "date",
-        type: "video",
-        maxResults,
-      });
+      const [response, responseBangla] = await Promise.all[
+        (youtube.search.list({
+          part: "snippet",
+          channelId,
+          order: "date",
+          type: "video",
+          maxResults,
+        }),
+        youtube.search.list({
+          part: "snippet",
+          channelId: channelIdBangla,
+          order: "date",
+          type: "video",
+          maxResults,
+        }))
+      ];
 
-      const responseBangla = await youtube.search.list({
-        part: "snippet",
-        channelIdBangla,
-        order: "date",
-        type: "video",
-        maxResults,
-      });
-
-      let videos = response.data.items.map((item) => ({
+      const videosEnglish = response.data.items.map((item) => ({
         title: item.snippet.title,
         videoId: item.id.videoId,
         thumbnail: item.snippet.thumbnails.medium.url,
         description: item.snippet.description,
+        publishedAt: item.snippet.publishedAt,
       }));
 
-      videos = responseBangla.data.items.map((item) => ({
+      const videosBangla = responseBangla.data.items.map((item) => ({
         title: item.snippet.title,
         videoId: item.id.videoId,
         thumbnail: item.snippet.thumbnails.medium.url,
         description: item.snippet.description,
+        publishedAt: item.snippet.publishedAt,
       }));
+
+      const videos = [...videosEnglish, ...videosBangla]
+        .sort((a, b) => new Date(a.publishedAt) - new Date(b.publishedAt))
+        .slice(0, 6);
 
       return videos;
     } catch (error) {
