@@ -42,46 +42,16 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=yIWcecU42HQ" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/yIWcecU42HQ/mqdefault.jpg" alt="How To Come Out of TUTORIAL HELL? কেন ১০০টা টিউটোরিয়াল দেখেও উন্নতি হয় না?">
+      <a href="https://www.youtube.com/watch?v=x03yX-yNxas" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/x03yX-yNxas/mqdefault.jpg" alt="MASTER Optimistic UI Pattern in React 19 || useOptimistic Hook || Day 08">
       </a>
     </td>
     <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=yIWcecU42HQ" target="_blank">
-        <strong>How To Come Out of TUTORIAL HELL? কেন ১০০টা টিউটোরিয়াল দেখেও উন্নতি হয় না?</strong>
+      <a href="https://www.youtube.com/watch?v=x03yX-yNxas" target="_blank">
+        <strong>MASTER Optimistic UI Pattern in React 19 || useOptimistic Hook || Day 08</strong>
       </a>
       <br/>
-      <p>কেন ১০০টা টিউটোরিয়াল দেখেও আপনি developer হিসেবে আগান না? Because you're stuck ......</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=fhwvqTry_Vg" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/fhwvqTry_Vg/mqdefault.jpg" alt="MASTER React Custom Hook Pattern with Real-World Examples || Day 06">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=fhwvqTry_Vg" target="_blank">
-        <strong>MASTER React Custom Hook Pattern with Real-World Examples || Day 06</strong>
-      </a>
-      <br/>
-      <p>Welcome to Day 06 of 15 Days of React Design Patterns – Clean Code Made Easy! In this session, Learn how to build your own ......</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=0QAkojFdSmE" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/0QAkojFdSmE/mqdefault.jpg" alt="আপনার কোড কি Smelly? 😅 | Fix Code Smell &amp; Write Clean Code in JavaScript">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=0QAkojFdSmE" target="_blank">
-        <strong>আপনার কোড কি Smelly? 😅 | Fix Code Smell &amp; Write Clean Code in JavaScript</strong>
-      </a>
-      <br/>
-      <p>আপনার কোড কি Smelly? এই ভিডিওতে আমরা শিখব Code Smell মানে আসলে কী, কেন ......</p>
+      <p>In this video, we'll uncover one of the most powerful and user-experience-boosting patterns in modern React — the Optimistic UI ......</p>
     </td>
   </tr>
   
@@ -102,6 +72,21 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=fhwvqTry_Vg" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/fhwvqTry_Vg/mqdefault.jpg" alt="MASTER React Custom Hook Pattern with Real-World Examples || Day 06">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=fhwvqTry_Vg" target="_blank">
+        <strong>MASTER React Custom Hook Pattern with Real-World Examples || Day 06</strong>
+      </a>
+      <br/>
+      <p>Welcome to Day 06 of 15 Days of React Design Patterns – Clean Code Made Easy! In this session, Learn how to build your own ......</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=TqhfLDb-uQ8" target="_blank">
         <img width="150" src="https://img.youtube.com/vi/TqhfLDb-uQ8/mqdefault.jpg" alt="Logic Building Crash Course 🔥 | Code বুঝবেন, মুখস্থ না! 💻 (Beginner to Pro)">
       </a>
@@ -117,16 +102,31 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=x03yX-yNxas" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/x03yX-yNxas/mqdefault.jpg" alt="MASTER Optimistic UI Pattern in React 19 || useOptimistic Hook || Day 08">
+      <a href="https://www.youtube.com/watch?v=0QAkojFdSmE" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/0QAkojFdSmE/mqdefault.jpg" alt="আপনার কোড কি Smelly? 😅 | Fix Code Smell &amp; Write Clean Code in JavaScript">
       </a>
     </td>
     <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=x03yX-yNxas" target="_blank">
-        <strong>MASTER Optimistic UI Pattern in React 19 || useOptimistic Hook || Day 08</strong>
+      <a href="https://www.youtube.com/watch?v=0QAkojFdSmE" target="_blank">
+        <strong>আপনার কোড কি Smelly? 😅 | Fix Code Smell &amp; Write Clean Code in JavaScript</strong>
       </a>
       <br/>
-      <p>In this video, we'll uncover one of the most powerful and user-experience-boosting patterns in modern React — the Optimistic UI ......</p>
+      <p>আপনার কোড কি Smelly? এই ভিডিওতে আমরা শিখব Code Smell মানে আসলে কী, কেন ......</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=yIWcecU42HQ" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/yIWcecU42HQ/mqdefault.jpg" alt="How To Come Out of TUTORIAL HELL? কেন ১০০টা টিউটোরিয়াল দেখেও উন্নতি হয় না?">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=yIWcecU42HQ" target="_blank">
+        <strong>How To Come Out of TUTORIAL HELL? কেন ১০০টা টিউটোরিয়াল দেখেও উন্নতি হয় না?</strong>
+      </a>
+      <br/>
+      <p>কেন ১০০টা টিউটোরিয়াল দেখেও আপনি developer হিসেবে আগান না? Because you're stuck ......</p>
     </td>
   </tr>
   
