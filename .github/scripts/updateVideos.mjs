@@ -8,7 +8,8 @@ const errorLog = (msg) => console.error(`[YT ERROR] ${msg}`);
 // Env vars
 const apiKey = process.env.YOUTUBE_API_KEY;
 const channelId = process.env.YOUTUBE_CHANNEL_ID;
-const maxResults = 5;
+const channelIdBangla = process.env.YOUTUBE_CHANNEL_ID_BANGLA;
+const maxResults = 3;
 
 // YouTube client
 const youtube = google.youtube({
@@ -30,7 +31,22 @@ const fetchLatestVideos = async (retries = 3, delay = 1000) => {
         maxResults,
       });
 
+      const responseBangla = await youtube.search.list({
+        part: "snippet",
+        channelIdBangla,
+        order: "date",
+        type: "video",
+        maxResults,
+      });
+
       const videos = response.data.items.map((item) => ({
+        title: item.snippet.title,
+        videoId: item.id.videoId,
+        thumbnail: item.snippet.thumbnails.medium.url,
+        description: item.snippet.description,
+      }));
+
+      videos = responseBangla.data.items.map((item) => ({
         title: item.snippet.title,
         videoId: item.id.videoId,
         thumbnail: item.snippet.thumbnails.medium.url,
