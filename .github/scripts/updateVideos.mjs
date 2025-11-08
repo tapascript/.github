@@ -19,21 +19,9 @@ const youtube = google.youtube({
 
 // Retry logic
 const fetchLatestVideos = async (retries = 3, delay = 1000) => {
-  // log(`CHANNEL 1: ${channelId}`);
-  // log(`CHANNEL 2: ${channelIdBangla}`);
-
   for (let attempt = 0; attempt < retries; attempt++) {
     try {
       log(`Fetching latest ${maxResults} videos from channels...`);
-
-      // log(`API Key present: ${!!apiKey}`);
-      // log(`Channel IDs: ${channelId} | ${channelIdBangla}`);
-
-      if (!channelId || !channelIdBangla) {
-        throw new Error(
-          `Missing channel IDs: channelId=${channelId}, channelIdBangla=${channelIdBangla}`
-        );
-      }
 
       const promises = [];
 
@@ -67,23 +55,6 @@ const fetchLatestVideos = async (retries = 3, delay = 1000) => {
 
       const [response, responseBangla] = await Promise.all(promises);
 
-      // const [response, responseBangla] = await Promise.all[
-      //   (youtube.search.list({
-      //     part: "snippet",
-      //     channelId,
-      //     order: "date",
-      //     type: "video",
-      //     maxResults,
-      //   }),
-      //   youtube.search.list({
-      //     part: "snippet",
-      //     channelId: channelIdBangla,
-      //     order: "date",
-      //     type: "video",
-      //     maxResults,
-      //   }))
-      // ];
-
       const videosEnglish = response.data.items.map((item) => ({
         title: item.snippet.title,
         videoId: item.id.videoId,
@@ -102,8 +73,7 @@ const fetchLatestVideos = async (retries = 3, delay = 1000) => {
 
       const videos = [...videosEnglish, ...videosBangla]
         .sort((a, b) => new Date(a.publishedAt) - new Date(b.publishedAt))
-        .reverse()
-        .slice(0, 6);
+        .reverse();
 
       return videos;
     } catch (error) {
