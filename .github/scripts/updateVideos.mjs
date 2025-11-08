@@ -100,9 +100,10 @@ const fetchLatestVideos = async (retries = 3, delay = 1000) => {
         publishedAt: item.snippet.publishedAt,
       }));
 
-      const videos = [...videosEnglish, ...videosBangla];
-      // .sort((a, b) => new Date(a.publishedAt) - new Date(b.publishedAt))
-      // .slice(0, 6);
+      const videos = [...videosEnglish, ...videosBangla]
+        .sort((a, b) => new Date(a.publishedAt) - new Date(b.publishedAt))
+        .reverse()
+        .slice(0, 6);
 
       return videos;
     } catch (error) {
