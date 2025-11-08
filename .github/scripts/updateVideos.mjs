@@ -26,22 +26,63 @@ const fetchLatestVideos = async (retries = 3, delay = 1000) => {
     try {
       log(`Fetching latest ${maxResults} videos from channels...`);
 
-      const [response, responseBangla] = await Promise.all[
-        (youtube.search.list({
-          part: "snippet",
-          channelId,
-          order: "date",
-          type: "video",
-          maxResults,
-        }),
-        youtube.search.list({
-          part: "snippet",
-          channelId: channelIdBangla,
-          order: "date",
-          type: "video",
-          maxResults,
-        }))
-      ];
+      log(`API Key present: ${!!apiKey}`);
+      log(`Channel IDs: ${channelId} | ${channelIdBangla}`);
+
+      if (!channelId || !channelIdBangla) {
+        throw new Error(
+          `Missing channel IDs: channelId=${channelId}, channelIdBangla=${channelIdBangla}`
+        );
+      }
+
+      const promises = [];
+
+      if (channelId) {
+        promises.push(
+          youtube.search.list({
+            part: "snippet",
+            channelId,
+            order: "date",
+            type: "video",
+            maxResults,
+          })
+        );
+      }
+
+      if (channelIdBangla) {
+        promises.push(
+          youtube.search.list({
+            part: "snippet",
+            channelId: channelIdBangla,
+            order: "date",
+            type: "video",
+            maxResults,
+          })
+        );
+      }
+
+      if (promises.length === 0) {
+        throw new Error("No valid channel IDs found in environment variables.");
+      }
+
+      const [response, responseBangla] = await Promise.all(promises);
+
+      // const [response, responseBangla] = await Promise.all[
+      //   (youtube.search.list({
+      //     part: "snippet",
+      //     channelId,
+      //     order: "date",
+      //     type: "video",
+      //     maxResults,
+      //   }),
+      //   youtube.search.list({
+      //     part: "snippet",
+      //     channelId: channelIdBangla,
+      //     order: "date",
+      //     type: "video",
+      //     maxResults,
+      //   }))
+      // ];
 
       const videosEnglish = response.data.items.map((item) => ({
         title: item.snippet.title,
