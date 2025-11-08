@@ -55,36 +55,6 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=POWMosrdamI" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/POWMosrdamI/mqdefault.jpg" alt="MASTER the Provider Pattern in React || Context Made Simple! || Day 07">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=POWMosrdamI" target="_blank">
-        <strong>MASTER the Provider Pattern in React || Context Made Simple! || Day 07</strong>
-      </a>
-      <br/>
-      <p>Welcome to Day 07 of our React Design Patterns Series! Today, we're diving deep into the Provider Pattern — one of the most ......</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=fhwvqTry_Vg" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/fhwvqTry_Vg/mqdefault.jpg" alt="MASTER React Custom Hook Pattern with Real-World Examples || Day 06">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=fhwvqTry_Vg" target="_blank">
-        <strong>MASTER React Custom Hook Pattern with Real-World Examples || Day 06</strong>
-      </a>
-      <br/>
-      <p>Welcome to Day 06 of 15 Days of React Design Patterns – Clean Code Made Easy! In this session, Learn how to build your own ......</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=TqhfLDb-uQ8" target="_blank">
         <img width="150" src="https://img.youtube.com/vi/TqhfLDb-uQ8/mqdefault.jpg" alt="Logic Building Crash Course 🔥 | Code বুঝবেন, মুখস্থ না! 💻 (Beginner to Pro)">
       </a>
@@ -100,6 +70,21 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=POWMosrdamI" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/POWMosrdamI/mqdefault.jpg" alt="MASTER the Provider Pattern in React || Context Made Simple! || Day 07">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=POWMosrdamI" target="_blank">
+        <strong>MASTER the Provider Pattern in React || Context Made Simple! || Day 07</strong>
+      </a>
+      <br/>
+      <p>Welcome to Day 07 of our React Design Patterns Series! Today, we're diving deep into the Provider Pattern — one of the most ......</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=0QAkojFdSmE" target="_blank">
         <img width="150" src="https://img.youtube.com/vi/0QAkojFdSmE/mqdefault.jpg" alt="আপনার কোড কি Smelly? 😅 | Fix Code Smell &amp; Write Clean Code in JavaScript">
       </a>
@@ -110,6 +95,21 @@ Check out my latest videos:
       </a>
       <br/>
       <p>আপনার কোড কি Smelly? এই ভিডিওতে আমরা শিখব Code Smell মানে আসলে কী, কেন ......</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=fhwvqTry_Vg" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/fhwvqTry_Vg/mqdefault.jpg" alt="MASTER React Custom Hook Pattern with Real-World Examples || Day 06">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=fhwvqTry_Vg" target="_blank">
+        <strong>MASTER React Custom Hook Pattern with Real-World Examples || Day 06</strong>
+      </a>
+      <br/>
+      <p>Welcome to Day 06 of 15 Days of React Design Patterns – Clean Code Made Easy! In this session, Learn how to build your own ......</p>
     </td>
   </tr>
   
