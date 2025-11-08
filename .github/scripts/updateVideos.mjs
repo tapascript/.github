@@ -19,15 +19,15 @@ const youtube = google.youtube({
 
 // Retry logic
 const fetchLatestVideos = async (retries = 3, delay = 1000) => {
-  log(`CHANNEL 1: ${channelId}`);
-  log(`CHANNEL 2: ${channelIdBangla}`);
+  // log(`CHANNEL 1: ${channelId}`);
+  // log(`CHANNEL 2: ${channelIdBangla}`);
 
   for (let attempt = 0; attempt < retries; attempt++) {
     try {
       log(`Fetching latest ${maxResults} videos from channels...`);
 
-      log(`API Key present: ${!!apiKey}`);
-      log(`Channel IDs: ${channelId} | ${channelIdBangla}`);
+      // log(`API Key present: ${!!apiKey}`);
+      // log(`Channel IDs: ${channelId} | ${channelIdBangla}`);
 
       if (!channelId || !channelIdBangla) {
         throw new Error(
@@ -100,9 +100,9 @@ const fetchLatestVideos = async (retries = 3, delay = 1000) => {
         publishedAt: item.snippet.publishedAt,
       }));
 
-      const videos = [...videosEnglish, ...videosBangla]
-        .sort((a, b) => new Date(a.publishedAt) - new Date(b.publishedAt))
-        .slice(0, 6);
+      const videos = [...videosEnglish, ...videosBangla];
+      // .sort((a, b) => new Date(a.publishedAt) - new Date(b.publishedAt))
+      // .slice(0, 6);
 
       return videos;
     } catch (error) {
