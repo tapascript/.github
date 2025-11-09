@@ -57,6 +57,21 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=TqhfLDb-uQ8" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/TqhfLDb-uQ8/mqdefault.jpg" alt="Logic Building Crash Course 🔥 | Code বুঝবেন, মুখস্থ না! 💻 (Beginner to Pro)">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=TqhfLDb-uQ8" target="_blank">
+        <strong>Logic Building Crash Course 🔥 | Code বুঝবেন, মুখস্থ না! 💻 (Beginner to Pro)</strong>
+      </a>
+      <br/>
+      <p>কোড লিখতে পারেন, কিন্তু বুঝে লিখতে পারেন না? এই ভিডিওটা আপনার জন্য!...</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=POWMosrdamI" target="_blank">
         <img width="150" src="https://img.youtube.com/vi/POWMosrdamI/mqdefault.jpg" alt="MASTER the Provider Pattern in React || Context Made Simple! || Day 07">
       </a>
@@ -67,6 +82,21 @@ Check out my latest videos:
       </a>
       <br/>
       <p>Welcome to Day 07 of our React Design Patterns Series! Today, we're diving deep into the Provider Pattern — one of the most ......</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=0QAkojFdSmE" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/0QAkojFdSmE/mqdefault.jpg" alt="আপনার কোড কি Smelly? 😅 | Fix Code Smell &amp; Write Clean Code in JavaScript">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=0QAkojFdSmE" target="_blank">
+        <strong>আপনার কোড কি Smelly? 😅 | Fix Code Smell &amp; Write Clean Code in JavaScript</strong>
+      </a>
+      <br/>
+      <p>আপনার কোড কি Smelly? এই ভিডিওতে আমরা শিখব Code Smell মানে আসলে কী, কেন ......</p>
     </td>
   </tr>
   
@@ -87,31 +117,16 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=spDQ4oCKSPY" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/spDQ4oCKSPY/mqdefault.jpg" alt="Master Higher Order Functions &amp; Components in React || Day 05">
+      <a href="https://www.youtube.com/watch?v=yIWcecU42HQ" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/yIWcecU42HQ/mqdefault.jpg" alt="How To Come Out of TUTORIAL HELL? কেন ১০০টা টিউটোরিয়াল দেখেও উন্নতি হয় না?">
       </a>
     </td>
     <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=spDQ4oCKSPY" target="_blank">
-        <strong>Master Higher Order Functions &amp; Components in React || Day 05</strong>
+      <a href="https://www.youtube.com/watch?v=yIWcecU42HQ" target="_blank">
+        <strong>How To Come Out of TUTORIAL HELL? কেন ১০০টা টিউটোরিয়াল দেখেও উন্নতি হয় না?</strong>
       </a>
       <br/>
-      <p>Welcome to Day 05 of 15 Days of React Design Patterns – Clean Code Made Easy! In this session, we'll dive deep into one of ......</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=tIdJj0n1mg4" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/tIdJj0n1mg4/mqdefault.jpg" alt="Master the Render Props Pattern in React - Share Logic Without Duplication || Day 04">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=tIdJj0n1mg4" target="_blank">
-        <strong>Master the Render Props Pattern in React - Share Logic Without Duplication || Day 04</strong>
-      </a>
-      <br/>
-      <p>Welcome to Day 04 of the React Design Patterns Series! In this session, we uncover one of React's most powerful (and historical) ......</p>
+      <p>কেন ১০০টা টিউটোরিয়াল দেখেও আপনি developer হিসেবে আগান না? Because you're stuck ......</p>
     </td>
   </tr>
   

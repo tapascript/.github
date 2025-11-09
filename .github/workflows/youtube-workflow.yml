@@ -16,7 +16,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "18"
+          node-version: "20"
 
       - name: Install dependencies
         run: |
@@ -28,6 +28,7 @@ jobs:
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           YOUTUBE_CHANNEL_ID: ${{ secrets.YOUTUBE_CHANNEL_ID }}
+          YOUTUBE_CHANNEL_ID_BANGLA: ${{ secrets.YOUTUBE_CHANNEL_ID_BANGLA }}
 
       - name: Commit and push changes
         run: |
@@ -42,7 +43,7 @@ jobs:
           else
             git commit -m "Update latest videos"
             
-            git pull origin main
+            git pull --rebase origin main
             
             git push
           fi

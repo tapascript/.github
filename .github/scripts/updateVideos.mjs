@@ -8,7 +8,8 @@ const errorLog = (msg) => console.error(`[YT ERROR] ${msg}`);
 // Env vars
 const apiKey = process.env.YOUTUBE_API_KEY;
 const channelId = process.env.YOUTUBE_CHANNEL_ID;
-const maxResults = 5;
+const channelIdBangla = process.env.YOUTUBE_CHANNEL_ID_BANGLA;
+const maxResults = 3;
 
 // YouTube client
 const youtube = google.youtube({
@@ -20,22 +21,59 @@ const youtube = google.youtube({
 const fetchLatestVideos = async (retries = 3, delay = 1000) => {
   for (let attempt = 0; attempt < retries; attempt++) {
     try {
-      log(`Fetching latest ${maxResults} videos from channel...`);
+      log(`Fetching latest ${maxResults} videos from channels...`);
 
-      const response = await youtube.search.list({
-        part: "snippet",
-        channelId,
-        order: "date",
-        type: "video",
-        maxResults,
-      });
+      const promises = [];
 
-      const videos = response.data.items.map((item) => ({
+      if (channelId) {
+        promises.push(
+          youtube.search.list({
+            part: "snippet",
+            channelId,
+            order: "date",
+            type: "video",
+            maxResults,
+          })
+        );
+      }
+
+      if (channelIdBangla) {
+        promises.push(
+          youtube.search.list({
+            part: "snippet",
+            channelId: channelIdBangla,
+            order: "date",
+            type: "video",
+            maxResults,
+          })
+        );
+      }
+
+      if (promises.length === 0) {
+        throw new Error("No valid channel IDs found in environment variables.");
+      }
+
+      const [response, responseBangla] = await Promise.all(promises);
+
+      const videosEnglish = response.data.items.map((item) => ({
         title: item.snippet.title,
         videoId: item.id.videoId,
         thumbnail: item.snippet.thumbnails.medium.url,
         description: item.snippet.description,
+        publishedAt: item.snippet.publishedAt,
       }));
+
+      const videosBangla = responseBangla.data.items.map((item) => ({
+        title: item.snippet.title,
+        videoId: item.id.videoId,
+        thumbnail: item.snippet.thumbnails.medium.url,
+        description: item.snippet.description,
+        publishedAt: item.snippet.publishedAt,
+      }));
+
+      const videos = [...videosEnglish, ...videosBangla]
+        .sort((a, b) => new Date(a.publishedAt) - new Date(b.publishedAt))
+        .reverse();
 
       return videos;
     } catch (error) {
