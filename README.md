@@ -40,6 +40,21 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=EMehCyZjHR8" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/EMehCyZjHR8/mqdefault.jpg" alt="আমি কেন আগের মতো ভিডিও করি না — এবার খুলে বলি। You Can NOT Miss It. ❤️">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=EMehCyZjHR8" target="_blank">
+        <strong>আমি কেন আগের মতো ভিডিও করি না — এবার খুলে বলি। You Can NOT Miss It. ❤️</strong>
+      </a>
+      <br/>
+      <p>এই ভিডিওটার পর হয়তো আপনিও ভাববেন… It's not what you think! এই ভিডিওটা আমি ......</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=x03yX-yNxas" target="_blank">
         <img width="150" src="https://img.youtube.com/vi/x03yX-yNxas/mqdefault.jpg" alt="MASTER Optimistic UI Pattern in React 19 || useOptimistic Hook || Day 08">
       </a>
@@ -110,21 +125,6 @@ Check out my latest videos:
       </a>
       <br/>
       <p>Welcome to Day 06 of 15 Days of React Design Patterns – Clean Code Made Easy! In this session, Learn how to build your own ......</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=yIWcecU42HQ" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/yIWcecU42HQ/mqdefault.jpg" alt="How To Come Out of TUTORIAL HELL? কেন ১০০টা টিউটোরিয়াল দেখেও উন্নতি হয় না?">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=yIWcecU42HQ" target="_blank">
-        <strong>How To Come Out of TUTORIAL HELL? কেন ১০০টা টিউটোরিয়াল দেখেও উন্নতি হয় না?</strong>
-      </a>
-      <br/>
-      <p>কেন ১০০টা টিউটোরিয়াল দেখেও আপনি developer হিসেবে আগান না? Because you're stuck ......</p>
     </td>
   </tr>
   
