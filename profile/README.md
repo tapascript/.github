@@ -42,21 +42,6 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=vZswuz3NTgs" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/vZswuz3NTgs/mqdefault.jpg" alt="React State Reducer Pattern Explained: Build Powerful &amp; Reusable State Logic">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=vZswuz3NTgs" target="_blank">
-        <strong>React State Reducer Pattern Explained: Build Powerful &amp; Reusable State Logic</strong>
-      </a>
-      <br/>
-      <p>Learn the State Reducer Pattern in React — a powerful way to build flexible, reusable, and controlled components! In this video ......</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=EMehCyZjHR8" target="_blank">
         <img width="150" src="https://img.youtube.com/vi/EMehCyZjHR8/mqdefault.jpg" alt="আমি কেন আগের মতো ভিডিও করি না — এবার খুলে বলি। You Can NOT Miss It. ❤️">
       </a>
@@ -127,6 +112,21 @@ Check out my latest videos:
       </a>
       <br/>
       <p>আপনার কোড কি Smelly? এই ভিডিওতে আমরা শিখব Code Smell মানে আসলে কী, কেন ......</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=fhwvqTry_Vg" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/fhwvqTry_Vg/mqdefault.jpg" alt="MASTER React Custom Hook Pattern with Real-World Examples || Day 06">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=fhwvqTry_Vg" target="_blank">
+        <strong>MASTER React Custom Hook Pattern with Real-World Examples || Day 06</strong>
+      </a>
+      <br/>
+      <p>Welcome to Day 06 of 15 Days of React Design Patterns – Clean Code Made Easy! In this session, Learn how to build your own ......</p>
     </td>
   </tr>
   
