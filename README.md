@@ -40,6 +40,21 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=IGK3Bv7EuEc" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/IGK3Bv7EuEc/mqdefault.jpg" alt="Big-O Notation Crash Course (Bangla): Time &amp; Space Complexity 🔥">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=IGK3Bv7EuEc" target="_blank">
+        <strong>Big-O Notation Crash Course (Bangla): Time &amp; Space Complexity 🔥</strong>
+      </a>
+      <br/>
+      <p>Big-O Notation & Time–Space Complexity finally explained in Bangla, with real examples, visuals, code walkthroughs, and a full ......</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=vZswuz3NTgs" target="_blank">
         <img width="150" src="https://img.youtube.com/vi/vZswuz3NTgs/mqdefault.jpg" alt="React State Reducer Pattern Explained: Build Powerful &amp; Reusable State Logic">
       </a>
@@ -110,21 +125,6 @@ Check out my latest videos:
       </a>
       <br/>
       <p>Welcome to Day 07 of our React Design Patterns Series! Today, we're diving deep into the Provider Pattern — one of the most ......</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=0QAkojFdSmE" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/0QAkojFdSmE/mqdefault.jpg" alt="আপনার কোড কি Smelly? 😅 | Fix Code Smell &amp; Write Clean Code in JavaScript">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=0QAkojFdSmE" target="_blank">
-        <strong>আপনার কোড কি Smelly? 😅 | Fix Code Smell &amp; Write Clean Code in JavaScript</strong>
-      </a>
-      <br/>
-      <p>আপনার কোড কি Smelly? এই ভিডিওতে আমরা শিখব Code Smell মানে আসলে কী, কেন ......</p>
     </td>
   </tr>
   
