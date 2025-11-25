@@ -42,6 +42,21 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=ociC3llkLHk" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/ociC3llkLHk/mqdefault.jpg" alt="Pub-Sub vs Observer in React — Deep Dive, Architecture &amp; Working Demo">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=ociC3llkLHk" target="_blank">
+        <strong>Pub-Sub vs Observer in React — Deep Dive, Architecture &amp; Working Demo</strong>
+      </a>
+      <br/>
+      <p>In this video, you will learn the Pub-Sub (Publish–Subscribe) Design Pattern in React with real-world architecture, clean code, and ......</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=IGK3Bv7EuEc" target="_blank">
         <img width="150" src="https://img.youtube.com/vi/IGK3Bv7EuEc/mqdefault.jpg" alt="Big-O Notation Crash Course (Bangla): Time &amp; Space Complexity 🔥">
       </a>
@@ -112,21 +127,6 @@ Check out my latest videos:
       </a>
       <br/>
       <p>কোড লিখতে পারেন, কিন্তু বুঝে লিখতে পারেন না? এই ভিডিওটা আপনার জন্য!...</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=POWMosrdamI" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/POWMosrdamI/mqdefault.jpg" alt="MASTER the Provider Pattern in React || Context Made Simple! || Day 07">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=POWMosrdamI" target="_blank">
-        <strong>MASTER the Provider Pattern in React || Context Made Simple! || Day 07</strong>
-      </a>
-      <br/>
-      <p>Welcome to Day 07 of our React Design Patterns Series! Today, we're diving deep into the Provider Pattern — one of the most ......</p>
     </td>
   </tr>
   
