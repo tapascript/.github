@@ -38,6 +38,7 @@ Join me on YouTube, where I pour years of gathered wisdom into empowering you. T
 Check out my latest videos:
 
 <!-- latest-videos -->
+
 <table border="0">
   
   <tr>
@@ -54,7 +55,6 @@ Check out my latest videos:
       <p>Welcome Developers! এই ভিডিওতে আপনি শিখবেন Top 10 JavaScript Code Snippets যেগুলো আপনার ......</p>
     </td>
   </tr>
-  
   <tr>
     <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=ociC3llkLHk" target="_blank">
@@ -69,7 +69,6 @@ Check out my latest videos:
       <p>In this video, you will learn the Pub-Sub (Publish–Subscribe) Design Pattern in React with real-world architecture, clean code, and ......</p>
     </td>
   </tr>
-  
   <tr>
     <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=IGK3Bv7EuEc" target="_blank">
@@ -84,7 +83,6 @@ Check out my latest videos:
       <p>Big-O Notation & Time–Space Complexity finally explained in Bangla, with real examples, visuals, code walkthroughs, and a full ......</p>
     </td>
   </tr>
-  
   <tr>
     <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=vZswuz3NTgs" target="_blank">
@@ -99,7 +97,6 @@ Check out my latest videos:
       <p>Learn the State Reducer Pattern in React — a powerful way to build flexible, reusable, and controlled components! In this video ......</p>
     </td>
   </tr>
-  
   <tr>
     <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=EMehCyZjHR8" target="_blank">
@@ -114,7 +111,6 @@ Check out my latest videos:
       <p>এই ভিডিওটার পর হয়তো আপনিও ভাববেন… It's not what you think! এই ভিডিওটা আমি ......</p>
     </td>
   </tr>
-  
   <tr>
     <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=x03yX-yNxas" target="_blank">
@@ -129,6 +125,6 @@ Check out my latest videos:
       <p>In this video, we'll uncover one of the most powerful and user-experience-boosting patterns in modern React — the Optimistic UI ......</p>
     </td>
   </tr>
-  
 </table>
+
 <!-- latest-videos-end -->

@@ -104,12 +104,16 @@ const updateReadme = async (videos, readmePath) => {
 
     const startTag = "<!-- latest-videos -->";
     const endTag = "<!-- latest-videos-end -->";
-    const startIdx = readmeContent.indexOf(startTag) + startTag.length;
-    const endIdx = readmeContent.indexOf(endTag);
 
-    if (startIdx === -1 || endIdx === -1) {
+    const start = readmeContent.indexOf(startTag);
+    const end = readmeContent.indexOf(endTag);
+
+    if (start === -1 || end === -1) {
       throw new Error("Start or end tags not found in README.");
     }
+
+    const before = readmeContent.slice(0, start + startTag.length);
+    const after = readmeContent.slice(end);
 
     const videosMarkdown = `
 <table border="0">
@@ -135,19 +139,21 @@ const updateReadme = async (videos, readmePath) => {
       <br/>
       <p>${video.description?.replace(/\n/g, " ").slice(0, 300).trim()}...</p>
     </td>
-  </tr>
-  `
+  </tr>`
     )
     .join("")}
 </table>
 `;
 
-    readmeContent = `${readmeContent.substring(
-      0,
-      startIdx
-    )}\n${videosMarkdown.trim()}\n${readmeContent.substring(endIdx)}`;
+    const newContent = `
+${before}
 
-    await fs.writeFile(readmePath, readmeContent, "utf-8");
+${videosMarkdown.trim()}
+
+${after}
+`.trim();
+
+    await fs.writeFile(readmePath, newContent, "utf-8");
     log("✅ README successfully updated with latest videos.");
   } catch (error) {
     errorLog("Error updating README: " + error.message);
