@@ -40,6 +40,21 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=ax2BryZwkMQ" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/ax2BryZwkMQ/mqdefault.jpg" alt="এই 10 JavaScript Snippets জানলে কোডিং হবে 10X Faster! (Bangla Tutorial) 🔥">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=ax2BryZwkMQ" target="_blank">
+        <strong>এই 10 JavaScript Snippets জানলে কোডিং হবে 10X Faster! (Bangla Tutorial) 🔥</strong>
+      </a>
+      <br/>
+      <p>Welcome Developers! এই ভিডিওতে আপনি শিখবেন Top 10 JavaScript Code Snippets যেগুলো আপনার ......</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=ociC3llkLHk" target="_blank">
         <img width="150" src="https://img.youtube.com/vi/ociC3llkLHk/mqdefault.jpg" alt="Pub-Sub vs Observer in React — Deep Dive, Architecture &amp; Working Demo">
       </a>
@@ -110,21 +125,6 @@ Check out my latest videos:
       </a>
       <br/>
       <p>In this video, we'll uncover one of the most powerful and user-experience-boosting patterns in modern React — the Optimistic UI ......</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=TqhfLDb-uQ8" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/TqhfLDb-uQ8/mqdefault.jpg" alt="Logic Building Crash Course 🔥 | Code বুঝবেন, মুখস্থ না! 💻 (Beginner to Pro)">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=TqhfLDb-uQ8" target="_blank">
-        <strong>Logic Building Crash Course 🔥 | Code বুঝবেন, মুখস্থ না! 💻 (Beginner to Pro)</strong>
-      </a>
-      <br/>
-      <p>কোড লিখতে পারেন, কিন্তু বুঝে লিখতে পারেন না? এই ভিডিওটা আপনার জন্য!...</p>
     </td>
   </tr>
   
