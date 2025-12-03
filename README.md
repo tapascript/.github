@@ -40,6 +40,21 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=G8Mk6lsSOcw" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/G8Mk6lsSOcw/mqdefault.jpg" alt="The Ultimate React Performance Guide (Part 1): Stop Useless Re-Renders!">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=G8Mk6lsSOcw" target="_blank">
+        <strong>The Ultimate React Performance Guide (Part 1): Stop Useless Re-Renders!</strong>
+      </a>
+      <br/>
+      <p>Welcome to Part 1 of the React Performance Mastery Series! In this video, we break down the core fundamentals every React ......</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=ax2BryZwkMQ" target="_blank">
         <img width="150" src="https://img.youtube.com/vi/ax2BryZwkMQ/mqdefault.jpg" alt="এই 10 JavaScript Snippets জানলে কোডিং হবে 10X Faster! (Bangla Tutorial) 🔥">
       </a>
@@ -110,21 +125,6 @@ Check out my latest videos:
       </a>
       <br/>
       <p>এই ভিডিওটার পর হয়তো আপনিও ভাববেন… It's not what you think! এই ভিডিওটা আমি ......</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=x03yX-yNxas" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/x03yX-yNxas/mqdefault.jpg" alt="MASTER Optimistic UI Pattern in React 19 || useOptimistic Hook || Day 08">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=x03yX-yNxas" target="_blank">
-        <strong>MASTER Optimistic UI Pattern in React 19 || useOptimistic Hook || Day 08</strong>
-      </a>
-      <br/>
-      <p>In this video, we'll uncover one of the most powerful and user-experience-boosting patterns in modern React — the Optimistic UI ......</p>
     </td>
   </tr>
   
