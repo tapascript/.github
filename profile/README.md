@@ -43,6 +43,20 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=kHcc9lCbzLk" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/kHcc9lCbzLk/mqdefault.jpg" alt="Software Industry-তে কোন English লাগে? (Developer English Guide) 🔥">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=kHcc9lCbzLk" target="_blank">
+        <strong>Software Industry-তে কোন English লাগে? (Developer English Guide) 🔥</strong>
+      </a>
+      <br/>
+      <p>Developers… English-এ দুর্বল? Interview-এ আটকে যাচ্ছেন? Documentation পড়তে কষ্ট হয়?...</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=G8Mk6lsSOcw" target="_blank">
         <img width="150" src="https://img.youtube.com/vi/G8Mk6lsSOcw/mqdefault.jpg" alt="The Ultimate React Performance Guide (Part 1): Stop Useless Re-Renders!">
       </a>
@@ -109,20 +123,6 @@ Check out my latest videos:
       </a>
       <br/>
       <p>Learn the State Reducer Pattern in React — a powerful way to build flexible, reusable, and controlled components! In this video ......</p>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=EMehCyZjHR8" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/EMehCyZjHR8/mqdefault.jpg" alt="আমি কেন আগের মতো ভিডিও করি না — এবার খুলে বলি। You Can NOT Miss It. ❤️">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=EMehCyZjHR8" target="_blank">
-        <strong>আমি কেন আগের মতো ভিডিও করি না — এবার খুলে বলি। You Can NOT Miss It. ❤️</strong>
-      </a>
-      <br/>
-      <p>এই ভিডিওটার পর হয়তো আপনিও ভাববেন… It's not what you think! এই ভিডিওটা আমি ......</p>
     </td>
   </tr>
 </table>
