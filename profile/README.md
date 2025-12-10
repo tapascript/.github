@@ -42,6 +42,21 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=HJFDXKkz67M" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/HJFDXKkz67M/mqdefault.jpg" alt="The Ultimate React Performance Guide (Part 2): Advanced Optimizations">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=HJFDXKkz67M" target="_blank">
+        <strong>The Ultimate React Performance Guide (Part 2): Advanced Optimizations</strong>
+      </a>
+      <br/>
+      <p>Welcome to Part 2 of The Ultimate React Performance Guide. During this advanced session, we go beyond memoization and ......</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=kHcc9lCbzLk" target="_blank">
         <img width="150" src="https://img.youtube.com/vi/kHcc9lCbzLk/mqdefault.jpg" alt="Software Industry-তে কোন English লাগে? (Developer English Guide) 🔥">
       </a>
@@ -112,21 +127,6 @@ Check out my latest videos:
       </a>
       <br/>
       <p>Big-O Notation & Time–Space Complexity finally explained in Bangla, with real examples, visuals, code walkthroughs, and a full ......</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=vZswuz3NTgs" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/vZswuz3NTgs/mqdefault.jpg" alt="React State Reducer Pattern Explained: Build Powerful &amp; Reusable State Logic">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=vZswuz3NTgs" target="_blank">
-        <strong>React State Reducer Pattern Explained: Build Powerful &amp; Reusable State Logic</strong>
-      </a>
-      <br/>
-      <p>Learn the State Reducer Pattern in React — a powerful way to build flexible, reusable, and controlled components! In this video ......</p>
     </td>
   </tr>
   
