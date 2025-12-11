@@ -36,6 +36,7 @@ Join me on YouTube, where I pour years of gathered wisdom into empowering you. T
 Check out my latest videos:
 
 <!-- latest-videos -->
+
 <table border="0">
   
   <tr>
@@ -52,7 +53,6 @@ Check out my latest videos:
       <p>Welcome to Part 2 of The Ultimate React Performance Guide. During this advanced session, we go beyond memoization and ......</p>
     </td>
   </tr>
-  
   <tr>
     <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=kHcc9lCbzLk" target="_blank">
@@ -67,7 +67,6 @@ Check out my latest videos:
       <p>Developers… English-এ দুর্বল? Interview-এ আটকে যাচ্ছেন? Documentation পড়তে কষ্ট হয়?...</p>
     </td>
   </tr>
-  
   <tr>
     <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=G8Mk6lsSOcw" target="_blank">
@@ -82,7 +81,6 @@ Check out my latest videos:
       <p>Welcome to Part 1 of the React Performance Mastery Series! In this video, we break down the core fundamentals every React ......</p>
     </td>
   </tr>
-  
   <tr>
     <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=ax2BryZwkMQ" target="_blank">
@@ -97,7 +95,6 @@ Check out my latest videos:
       <p>Welcome Developers! এই ভিডিওতে আপনি শিখবেন Top 10 JavaScript Code Snippets যেগুলো আপনার ......</p>
     </td>
   </tr>
-  
   <tr>
     <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=ociC3llkLHk" target="_blank">
@@ -112,7 +109,6 @@ Check out my latest videos:
       <p>In this video, you will learn the Pub-Sub (Publish–Subscribe) Design Pattern in React with real-world architecture, clean code, and ......</p>
     </td>
   </tr>
-  
   <tr>
     <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=IGK3Bv7EuEc" target="_blank">
@@ -127,6 +123,6 @@ Check out my latest videos:
       <p>Big-O Notation & Time–Space Complexity finally explained in Bangla, with real examples, visuals, code walkthroughs, and a full ......</p>
     </td>
   </tr>
-  
 </table>
+
 <!-- latest-videos-end -->
