@@ -43,6 +43,20 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=V2OWRUn_cvM" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/V2OWRUn_cvM/mqdefault.jpg" alt="This JavaScript Error Means You’re Actually Learning 🔥">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=V2OWRUn_cvM" target="_blank">
+        <strong>This JavaScript Error Means You’re Actually Learning 🔥</strong>
+      </a>
+      <br/>
+      <p>Are you feeling scared and panicked seeing JavaScript Errors? Don't panic. This is actually a GOOD sign. In this short, you'll ......</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=HJFDXKkz67M" target="_blank">
         <img width="150" src="https://img.youtube.com/vi/HJFDXKkz67M/mqdefault.jpg" alt="The Ultimate React Performance Guide (Part 2): Advanced Optimizations">
       </a>
@@ -109,20 +123,6 @@ Check out my latest videos:
       </a>
       <br/>
       <p>In this video, you will learn the Pub-Sub (Publish–Subscribe) Design Pattern in React with real-world architecture, clean code, and ......</p>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=IGK3Bv7EuEc" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/IGK3Bv7EuEc/mqdefault.jpg" alt="Big-O Notation Crash Course (Bangla): Time &amp; Space Complexity 🔥">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=IGK3Bv7EuEc" target="_blank">
-        <strong>Big-O Notation Crash Course (Bangla): Time &amp; Space Complexity 🔥</strong>
-      </a>
-      <br/>
-      <p>Big-O Notation & Time–Space Complexity finally explained in Bangla, with real examples, visuals, code walkthroughs, and a full ......</p>
     </td>
   </tr>
 </table>
