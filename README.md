@@ -55,6 +55,20 @@ Check out my latest videos:
   </tr>
   <tr>
     <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=WQ3Ucc8Mj7s" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/WQ3Ucc8Mj7s/mqdefault.jpg" alt="🔴 LIVE: Big Changes Coming to tapaScript in 2026 👀">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=WQ3Ucc8Mj7s" target="_blank">
+        <strong>🔴 LIVE: Big Changes Coming to tapaScript in 2026 👀</strong>
+      </a>
+      <br/>
+      <p>2026 is going to be a major turning point for tapaScript, and this LIVE is where I share it first, unfiltered, and directly with YOU....</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=_LBgDy0j-Os" target="_blank">
         <img width="150" src="https://img.youtube.com/vi/_LBgDy0j-Os/mqdefault.jpg" alt="React Slot Pattern Explained: The Cleanest Way to Build Flexible Components">
       </a>
@@ -79,20 +93,6 @@ Check out my latest videos:
       </a>
       <br/>
       <p>Are you feeling scared and panicked seeing JavaScript Errors? Don't panic. This is actually a GOOD sign. In this short, you'll ......</p>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=HJFDXKkz67M" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/HJFDXKkz67M/mqdefault.jpg" alt="The Ultimate React Performance Guide (Part 2): Advanced Optimizations">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=HJFDXKkz67M" target="_blank">
-        <strong>The Ultimate React Performance Guide (Part 2): Advanced Optimizations</strong>
-      </a>
-      <br/>
-      <p>Welcome to Part 2 of The Ultimate React Performance Guide. During this advanced session, we go beyond memoization and ......</p>
     </td>
   </tr>
   <tr>
