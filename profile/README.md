@@ -43,20 +43,6 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=tfZ85e9N8RA" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/tfZ85e9N8RA/mqdefault.jpg" alt="One React Pattern That Makes Your App Instantly Scalable 🔥">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=tfZ85e9N8RA" target="_blank">
-        <strong>One React Pattern That Makes Your App Instantly Scalable 🔥</strong>
-      </a>
-      <br/>
-      <p>Most React apps don't fail because of bad UI; they fail because of messy logic, too many if/else, and unscalable hooks....</p>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=WQ3Ucc8Mj7s" target="_blank">
         <img width="150" src="https://img.youtube.com/vi/WQ3Ucc8Mj7s/mqdefault.jpg" alt="🔴 LIVE: Big Changes Coming to tapaScript in 2026 👀">
       </a>
@@ -67,6 +53,20 @@ Check out my latest videos:
       </a>
       <br/>
       <p>2026 is going to be a major turning point for tapaScript, and this LIVE is where I share it first, unfiltered, and directly with YOU....</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=tfZ85e9N8RA" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/tfZ85e9N8RA/mqdefault.jpg" alt="One React Pattern That Makes Your App Instantly Scalable 🔥">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=tfZ85e9N8RA" target="_blank">
+        <strong>One React Pattern That Makes Your App Instantly Scalable 🔥</strong>
+      </a>
+      <br/>
+      <p>Most React apps don't fail because of bad UI; they fail because of messy logic, too many if/else, and unscalable hooks....</p>
     </td>
   </tr>
   <tr>
