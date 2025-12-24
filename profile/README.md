@@ -43,6 +43,20 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=25IKfl9jR7A" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/25IKfl9jR7A/mqdefault.jpg" alt="One React Pattern That Instantly Cleans Up Messy Components 🔥">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=25IKfl9jR7A" target="_blank">
+        <strong>One React Pattern That Instantly Cleans Up Messy Components 🔥</strong>
+      </a>
+      <br/>
+      <p>Are your React components filled with too many hooks, business logic, permission checks, and feature flags? Do your ......</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=WQ3Ucc8Mj7s" target="_blank">
         <img width="150" src="https://img.youtube.com/vi/WQ3Ucc8Mj7s/mqdefault.jpg" alt="🔴 LIVE: Big Changes Coming to tapaScript in 2026 👀">
       </a>
@@ -67,20 +81,6 @@ Check out my latest videos:
       </a>
       <br/>
       <p>Most React apps don't fail because of bad UI; they fail because of messy logic, too many if/else, and unscalable hooks....</p>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=_LBgDy0j-Os" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/_LBgDy0j-Os/mqdefault.jpg" alt="React Slot Pattern Explained: The Cleanest Way to Build Flexible Components">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=_LBgDy0j-Os" target="_blank">
-        <strong>React Slot Pattern Explained: The Cleanest Way to Build Flexible Components</strong>
-      </a>
-      <br/>
-      <p>Welcome to one of the cleanest and most powerful UI design techniques in React — the Slot Pattern. If you're tired of prop drilling, ......</p>
     </td>
   </tr>
   <tr>
