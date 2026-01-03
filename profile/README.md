@@ -29,7 +29,7 @@ Join me on YouTube, where I pour years of gathered wisdom into empowering you. T
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCKaF0yTK_-SIAgOzgjdsOXw?label=tapaScript%20Bangla)
 
-[![Watch the video](https://img.youtube.com/vi/90BgcWNRFMk/0.jpg)](https://www.youtube.com/watch?v=90BgcWNRFMk)
+[![Watch the video](https://img.youtube.com/vi/WQ3Ucc8Mj7s/0.jpg)](https://www.youtube.com/watch?v=WQ3Ucc8Mj7s)
 
 </div>
 
