@@ -41,6 +41,20 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=z2VnpJ6st-4" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/z2VnpJ6st-4/mqdefault.jpg" alt="React useEffect Debugging: Avoid The Common Gotchas That Break Your Apps">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=z2VnpJ6st-4" target="_blank">
+        <strong>React useEffect Debugging: Avoid The Common Gotchas That Break Your Apps</strong>
+      </a>
+      <br/>
+      <p>Dealing with **useEffect** headaches? ‍ Debugging React apps is one thing, but tracking down those sneaky **useEffect ......</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=75jfPqBUNRE" target="_blank">
         <img width="150" src="https://img.youtube.com/vi/75jfPqBUNRE/mqdefault.jpg" alt="Debug React Like a Senior Engineer (Real Bugs, Real Tools) 🔥">
       </a>
@@ -65,20 +79,6 @@ Check out my latest videos:
       </a>
       <br/>
       <p>Your current debugging method is slowing you down. Click to watch now and unlock the pro-level workflow that top developers ......</p>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=wr_4M7dnREQ" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/wr_4M7dnREQ/mqdefault.jpg" alt="Frontend Architecture, Accessibility &amp; Impact: The ESSENTIAL Strategy w/ Aparajita Verma">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=wr_4M7dnREQ" target="_blank">
-        <strong>Frontend Architecture, Accessibility &amp; Impact: The ESSENTIAL Strategy w/ Aparajita Verma</strong>
-      </a>
-      <br/>
-      <p>What's one thing you're changing about your frontend stack after watching this? Drop a comment and let us know! And if you're ......</p>
     </td>
   </tr>
   <tr>
