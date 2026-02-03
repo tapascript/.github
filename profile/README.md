@@ -125,6 +125,314 @@ Check out my latest videos:
       <p>Welcome Developers! এই ভিডিওতে আপনি শিখবেন Top 10 JavaScript Code Snippets যেগুলো আপনার ......</p>
     </td>
   </tr>
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=IGK3Bv7EuEc" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/IGK3Bv7EuEc/mqdefault.jpg" alt="Big-O Notation Crash Course (Bangla): Time &amp; Space Complexity 🔥">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=IGK3Bv7EuEc" target="_blank">
+        <strong>Big-O Notation Crash Course (Bangla): Time &amp; Space Complexity 🔥</strong>
+      </a>
+      <br/>
+      <p>Big-O Notation & Time–Space Complexity finally explained in Bangla, with real examples, visuals, code walkthroughs, and a full ......</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=EMehCyZjHR8" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/EMehCyZjHR8/mqdefault.jpg" alt="আমি কেন আগের মতো ভিডিও করি না — এবার খুলে বলি। You Can NOT Miss It. ❤️">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=EMehCyZjHR8" target="_blank">
+        <strong>আমি কেন আগের মতো ভিডিও করি না — এবার খুলে বলি। You Can NOT Miss It. ❤️</strong>
+      </a>
+      <br/>
+      <p>এই ভিডিওটার পর হয়তো আপনিও ভাববেন… It's not what you think! এই ভিডিওটা আমি ......</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=TqhfLDb-uQ8" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/TqhfLDb-uQ8/mqdefault.jpg" alt="Logic Building Crash Course 🔥 | Code বুঝবেন, মুখস্থ না! 💻 (Beginner to Pro)">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=TqhfLDb-uQ8" target="_blank">
+        <strong>Logic Building Crash Course 🔥 | Code বুঝবেন, মুখস্থ না! 💻 (Beginner to Pro)</strong>
+      </a>
+      <br/>
+      <p>কোড লিখতে পারেন, কিন্তু বুঝে লিখতে পারেন না? এই ভিডিওটা আপনার জন্য!...</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=0QAkojFdSmE" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/0QAkojFdSmE/mqdefault.jpg" alt="আপনার কোড কি Smelly? 😅 | Fix Code Smell &amp; Write Clean Code in JavaScript">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=0QAkojFdSmE" target="_blank">
+        <strong>আপনার কোড কি Smelly? 😅 | Fix Code Smell &amp; Write Clean Code in JavaScript</strong>
+      </a>
+      <br/>
+      <p>আপনার কোড কি Smelly? এই ভিডিওতে আমরা শিখব Code Smell মানে আসলে কী, কেন ......</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=yIWcecU42HQ" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/yIWcecU42HQ/mqdefault.jpg" alt="How To Come Out of TUTORIAL HELL? কেন ১০০টা টিউটোরিয়াল দেখেও উন্নতি হয় না?">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=yIWcecU42HQ" target="_blank">
+        <strong>How To Come Out of TUTORIAL HELL? কেন ১০০টা টিউটোরিয়াল দেখেও উন্নতি হয় না?</strong>
+      </a>
+      <br/>
+      <p>কেন ১০০টা টিউটোরিয়াল দেখেও আপনি developer হিসেবে আগান না? Because you're stuck ......</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=XPHahjbNy2c" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/XPHahjbNy2c/mqdefault.jpg" alt="২০০ দিন পর আবার ফিরলাম || এবার ভিন্নভাবে 🔥 - Tapascript Bangla Comeback">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=XPHahjbNy2c" target="_blank">
+        <strong>২০০ দিন পর আবার ফিরলাম || এবার ভিন্নভাবে 🔥 - Tapascript Bangla Comeback</strong>
+      </a>
+      <br/>
+      <p>২০০ দিন পর Tapascript Bangla-তে ফিরে এলাম ❤️ এইবার শুধু JavaScript বা React শেখানোর ......</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=WgwL4NLAxEg" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/WgwL4NLAxEg/mqdefault.jpg" alt="MASTER React useEffect Hook With Examples and Usages">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=WgwL4NLAxEg" target="_blank">
+        <strong>MASTER React useEffect Hook With Examples and Usages</strong>
+      </a>
+      <br/>
+      <p>SUBSCRIBE: https://www.youtube.com/@tapascript-bangla - Subscribe to tapaScript English: ......</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=BOk1NqAOEJ4" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/BOk1NqAOEJ4/mqdefault.jpg" alt="MASTERING Immutable State Update in React With Project">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=BOk1NqAOEJ4" target="_blank">
+        <strong>MASTERING Immutable State Update in React With Project</strong>
+      </a>
+      <br/>
+      <p>SUBSCRIBE: https://www.youtube.com/@tapascript-bangla - Subscribe to tapaScript English: ......</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=MHxltS0XXlU" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/MHxltS0XXlU/mqdefault.jpg" alt="MASTERING Event Handling in React With Examples">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=MHxltS0XXlU" target="_blank">
+        <strong>MASTERING Event Handling in React With Examples</strong>
+      </a>
+      <br/>
+      <p>SUBSCRIBE: https://www.youtube.com/@tapascript-bangla - Subscribe to tapaScript English: ......</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=dubKZBIjS7k" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/dubKZBIjS7k/mqdefault.jpg" alt="Master GitHub Like A Pro in 2025">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=dubKZBIjS7k" target="_blank">
+        <strong>Master GitHub Like A Pro in 2025</strong>
+      </a>
+      <br/>
+      <p>Learn all about GitHub as a beginner in Bangla. You will learn what GitHub is, how to create a repository, clone, fork, upstream, ......</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=bcpz73hbt8c" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/bcpz73hbt8c/mqdefault.jpg" alt="Master Git Like A Pro in 2025">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=bcpz73hbt8c" target="_blank">
+        <strong>Master Git Like A Pro in 2025</strong>
+      </a>
+      <br/>
+      <p>Learn all about Git as a beginner in Bangla. You will learn what Git is, how to start, and commands for staging, commit, branching, ......</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=q-vuInloJvQ" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/q-vuInloJvQ/mqdefault.jpg" alt="Interview Questions You Must Know as a Beginner To React">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=q-vuInloJvQ" target="_blank">
+        <strong>Interview Questions You Must Know as a Beginner To React</strong>
+      </a>
+      <br/>
+      <p>Alright, React এ হাতেখড়ি সিরিজের ৬ টা ভিডিও শেষ, ৪ টা টাস্ক শেষ। আমরা আলোচনা ......</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=X07QLNsm1kE" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/X07QLNsm1kE/mqdefault.jpg" alt="How to Install, Upgrade, and Use Tailwind CSS 4.0 With React">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=X07QLNsm1kE" target="_blank">
+        <strong>How to Install, Upgrade, and Use Tailwind CSS 4.0 With React</strong>
+      </a>
+      <br/>
+      <p>SUBSCRIBE: https://www.youtube.com/@tapascript-bangla - Subscribe to tapaScript English: ......</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=fPBW7Pn6O38" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/fPBW7Pn6O38/mqdefault.jpg" alt="Mastering JSX in React With Code and Use cases">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=fPBW7Pn6O38" target="_blank">
+        <strong>Mastering JSX in React With Code and Use cases</strong>
+      </a>
+      <br/>
+      <p>SUBSCRIBE: https://www.youtube.com/@tapascript-bangla - Subscribe to tapaScript English: ......</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=oB2qBjMiDpE" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/oB2qBjMiDpE/mqdefault.jpg" alt="How To Identify State and Props in Your React App Like A Pro">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=oB2qBjMiDpE" target="_blank">
+        <strong>How To Identify State and Props in Your React App Like A Pro</strong>
+      </a>
+      <br/>
+      <p>SUBSCRIBE: https://www.youtube.com/@tapascript-bangla - Subscribe to tapaScript English: ......</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=Byy41AxCK88" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/Byy41AxCK88/mqdefault.jpg" alt="Thinking In React: Master Components Like A Pro">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=Byy41AxCK88" target="_blank">
+        <strong>Thinking In React: Master Components Like A Pro</strong>
+      </a>
+      <br/>
+      <p>Don't forget to SUBSCRIBE: https://www.youtube.com/@tapascript-bangla - Subscribe to tapaScript English: ......</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=9PZ4uymTAz0" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/9PZ4uymTAz0/mqdefault.jpg" alt="React Code Environment - What You Need to Know NOW">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=9PZ4uymTAz0" target="_blank">
+        <strong>React Code Environment - What You Need to Know NOW</strong>
+      </a>
+      <br/>
+      <p>Don't forget to SUBSCRIBE: https://www.youtube.com/@tapascript-bangla - Subscribe to tapaScript English: ......</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=JSLTS3dfHKU" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/JSLTS3dfHKU/mqdefault.jpg" alt="Jumping Into React From JavaScript: Why to Learn React?">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=JSLTS3dfHKU" target="_blank">
+        <strong>Jumping Into React From JavaScript: Why to Learn React?</strong>
+      </a>
+      <br/>
+      <p>Don't forget to SUBSCRIBE: https://www.youtube.com/@tapascript-bangla - Subscribe to tapaScript English: ......</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=azj_VtnOV4Q" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/azj_VtnOV4Q/mqdefault.jpg" alt="Unlocking 2025: My Plans for tapaScript Bangla and Beyond">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=azj_VtnOV4Q" target="_blank">
+        <strong>Unlocking 2025: My Plans for tapaScript Bangla and Beyond</strong>
+      </a>
+      <br/>
+      <p>Don't forget to SUBSCRIBE: https://www.youtube.com/@tapascript-bangla - Subscribe to tapaScript English: ......</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=GkaW02FjkmY" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/GkaW02FjkmY/mqdefault.jpg" alt="Best JavaScript Array Methods Every Developer Must Master">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=GkaW02FjkmY" target="_blank">
+        <strong>Best JavaScript Array Methods Every Developer Must Master</strong>
+      </a>
+      <br/>
+      <p>Don't forget to SUBSCRIBE: https://www.youtube.com/@tapascript-bangla - Subscribe to tapaScript English: ......</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=mYiqxTBRzcM" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/mYiqxTBRzcM/mqdefault.jpg" alt="React Developers Are Failing Because They Don&#39;t Know THIS!">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=mYiqxTBRzcM" target="_blank">
+        <strong>React Developers Are Failing Because They Don&#39;t Know THIS!</strong>
+      </a>
+      <br/>
+      <p>Don't forget to SUBSCRIBE: https://www.youtube.com/@tapascript-bangla - Subscribe to tapaScript English: ......</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=CERed6QjUbk" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/CERed6QjUbk/mqdefault.jpg" alt="React Machine Coding Interview || Solve Filling The Jug problem">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=CERed6QjUbk" target="_blank">
+        <strong>React Machine Coding Interview || Solve Filling The Jug problem</strong>
+      </a>
+      <br/>
+      <p>Don't forget to SUBSCRIBE: https://www.youtube.com/@tapascript-bangla - Subscribe to tapaScript English: ......</p>
+    </td>
+  </tr>
 </table>
 
 <!-- latest-videos-end -->
