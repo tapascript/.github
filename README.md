@@ -41,6 +41,20 @@ Check out my latest videos:
   
   <tr>
     <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=xQMdwBkpKLc" target="_blank">
+        <img width="150" src="https://img.youtube.com/vi/xQMdwBkpKLc/mqdefault.jpg" alt="Solution Architect Road Map: Cracking Amazon &amp; AI with Neha Sharma">
+      </a>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <a href="https://www.youtube.com/watch?v=xQMdwBkpKLc" target="_blank">
+        <strong>Solution Architect Road Map: Cracking Amazon &amp; AI with Neha Sharma</strong>
+      </a>
+      <br/>
+      <p>The ultimate Solution Architect Road Map is here! Join us for a deep-dive, real talk interview with Neha Sharma, a Solution ......</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=tY8rhkLdr2A" target="_blank">
         <img width="150" src="https://img.youtube.com/vi/tY8rhkLdr2A/mqdefault.jpg" alt="React Suspense: The Pattern That Instantly Fixes Data Fetching Hell 🔥">
       </a>
@@ -69,118 +83,6 @@ Check out my latest videos:
   </tr>
   <tr>
     <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=75jfPqBUNRE" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/75jfPqBUNRE/mqdefault.jpg" alt="Debug React Like a Senior Engineer (Real Bugs, Real Tools) 🔥">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=75jfPqBUNRE" target="_blank">
-        <strong>Debug React Like a Senior Engineer (Real Bugs, Real Tools) 🔥</strong>
-      </a>
-      <br/>
-      <p>Stop debugging React apps the slow way. In this deep dive, you'll learn the *exact* professional debugging strategies that ......</p>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=CnQ2WN601b4" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/CnQ2WN601b4/mqdefault.jpg" alt="Why Most Developers Are Bad at Debugging — Let’s Fix It">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=CnQ2WN601b4" target="_blank">
-        <strong>Why Most Developers Are Bad at Debugging — Let’s Fix It</strong>
-      </a>
-      <br/>
-      <p>Your current debugging method is slowing you down. Click to watch now and unlock the pro-level workflow that top developers ......</p>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=wr_4M7dnREQ" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/wr_4M7dnREQ/mqdefault.jpg" alt="Frontend Architecture, Accessibility &amp; Impact: The ESSENTIAL Strategy w/ Aparajita Verma">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=wr_4M7dnREQ" target="_blank">
-        <strong>Frontend Architecture, Accessibility &amp; Impact: The ESSENTIAL Strategy w/ Aparajita Verma</strong>
-      </a>
-      <br/>
-      <p>What's one thing you're changing about your frontend stack after watching this? Drop a comment and let us know! And if you're ......</p>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=0qxF4jb-eUg" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/0qxF4jb-eUg/mqdefault.jpg" alt="This One React Pattern Can Save Your App From Crashing 🔥">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=0qxF4jb-eUg" target="_blank">
-        <strong>This One React Pattern Can Save Your App From Crashing 🔥</strong>
-      </a>
-      <br/>
-      <p>Learn the SINGLE most important React pattern you need to know to prevent entire app failures and provide a seamless user ......</p>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=25IKfl9jR7A" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/25IKfl9jR7A/mqdefault.jpg" alt="One React Pattern That Instantly Cleans Up Messy Components 🔥">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=25IKfl9jR7A" target="_blank">
-        <strong>One React Pattern That Instantly Cleans Up Messy Components 🔥</strong>
-      </a>
-      <br/>
-      <p>Are your React components filled with too many hooks, business logic, permission checks, and feature flags? Do your ......</p>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=WQ3Ucc8Mj7s" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/WQ3Ucc8Mj7s/mqdefault.jpg" alt="🔴 LIVE: Big Changes Coming to tapaScript in 2026 👀">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=WQ3Ucc8Mj7s" target="_blank">
-        <strong>🔴 LIVE: Big Changes Coming to tapaScript in 2026 👀</strong>
-      </a>
-      <br/>
-      <p>2026 is going to be a major turning point for tapaScript, and this LIVE is where I share it first, unfiltered, and directly with YOU....</p>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=tfZ85e9N8RA" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/tfZ85e9N8RA/mqdefault.jpg" alt="One React Pattern That Makes Your App Instantly Scalable 🔥">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=tfZ85e9N8RA" target="_blank">
-        <strong>One React Pattern That Makes Your App Instantly Scalable 🔥</strong>
-      </a>
-      <br/>
-      <p>Most React apps don't fail because of bad UI; they fail because of messy logic, too many if/else, and unscalable hooks....</p>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=_LBgDy0j-Os" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/_LBgDy0j-Os/mqdefault.jpg" alt="React Slot Pattern Explained: The Cleanest Way to Build Flexible Components">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=_LBgDy0j-Os" target="_blank">
-        <strong>React Slot Pattern Explained: The Cleanest Way to Build Flexible Components</strong>
-      </a>
-      <br/>
-      <p>Welcome to one of the cleanest and most powerful UI design techniques in React — the Slot Pattern. If you're tired of prop drilling, ......</p>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=V2OWRUn_cvM" target="_blank">
         <img width="150" src="https://img.youtube.com/vi/V2OWRUn_cvM/mqdefault.jpg" alt="This JavaScript Error Means You’re Actually Learning 🔥">
       </a>
@@ -191,20 +93,6 @@ Check out my latest videos:
       </a>
       <br/>
       <p>Are you feeling scared and panicked seeing JavaScript Errors? Don't panic. This is actually a GOOD sign. In this short, you'll ......</p>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=HJFDXKkz67M" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/HJFDXKkz67M/mqdefault.jpg" alt="The Ultimate React Performance Guide (Part 2): Advanced Optimizations">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=HJFDXKkz67M" target="_blank">
-        <strong>The Ultimate React Performance Guide (Part 2): Advanced Optimizations</strong>
-      </a>
-      <br/>
-      <p>Welcome to Part 2 of The Ultimate React Performance Guide. During this advanced session, we go beyond memoization and ......</p>
     </td>
   </tr>
   <tr>
@@ -223,20 +111,6 @@ Check out my latest videos:
   </tr>
   <tr>
     <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=G8Mk6lsSOcw" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/G8Mk6lsSOcw/mqdefault.jpg" alt="The Ultimate React Performance Guide (Part 1): Stop Useless Re-Renders!">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=G8Mk6lsSOcw" target="_blank">
-        <strong>The Ultimate React Performance Guide (Part 1): Stop Useless Re-Renders!</strong>
-      </a>
-      <br/>
-      <p>Welcome to Part 1 of the React Performance Mastery Series! In this video, we break down the core fundamentals every React ......</p>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
       <a href="https://www.youtube.com/watch?v=ax2BryZwkMQ" target="_blank">
         <img width="150" src="https://img.youtube.com/vi/ax2BryZwkMQ/mqdefault.jpg" alt="এই 10 JavaScript Snippets জানলে কোডিং হবে 10X Faster! (Bangla Tutorial) 🔥">
       </a>
@@ -247,188 +121,6 @@ Check out my latest videos:
       </a>
       <br/>
       <p>Welcome Developers! এই ভিডিওতে আপনি শিখবেন Top 10 JavaScript Code Snippets যেগুলো আপনার ......</p>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=ociC3llkLHk" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/ociC3llkLHk/mqdefault.jpg" alt="Pub-Sub vs Observer in React — Deep Dive, Architecture &amp; Working Demo">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=ociC3llkLHk" target="_blank">
-        <strong>Pub-Sub vs Observer in React — Deep Dive, Architecture &amp; Working Demo</strong>
-      </a>
-      <br/>
-      <p>In this video, you will learn the Pub-Sub (Publish–Subscribe) Design Pattern in React with real-world architecture, clean code, and ......</p>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=vZswuz3NTgs" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/vZswuz3NTgs/mqdefault.jpg" alt="React State Reducer Pattern Explained: Build Powerful &amp; Reusable State Logic">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=vZswuz3NTgs" target="_blank">
-        <strong>React State Reducer Pattern Explained: Build Powerful &amp; Reusable State Logic</strong>
-      </a>
-      <br/>
-      <p>Learn the State Reducer Pattern in React — a powerful way to build flexible, reusable, and controlled components! In this video ......</p>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=x03yX-yNxas" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/x03yX-yNxas/mqdefault.jpg" alt="MASTER Optimistic UI Pattern in React 19 || useOptimistic Hook || Day 08">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=x03yX-yNxas" target="_blank">
-        <strong>MASTER Optimistic UI Pattern in React 19 || useOptimistic Hook || Day 08</strong>
-      </a>
-      <br/>
-      <p>In this video, we'll uncover one of the most powerful and user-experience-boosting patterns in modern React — the Optimistic UI ......</p>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=POWMosrdamI" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/POWMosrdamI/mqdefault.jpg" alt="MASTER the Provider Pattern in React || Context Made Simple! || Day 07">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=POWMosrdamI" target="_blank">
-        <strong>MASTER the Provider Pattern in React || Context Made Simple! || Day 07</strong>
-      </a>
-      <br/>
-      <p>Welcome to Day 07 of our React Design Patterns Series! Today, we're diving deep into the Provider Pattern — one of the most ......</p>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=fhwvqTry_Vg" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/fhwvqTry_Vg/mqdefault.jpg" alt="MASTER React Custom Hook Pattern with Real-World Examples || Day 06">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=fhwvqTry_Vg" target="_blank">
-        <strong>MASTER React Custom Hook Pattern with Real-World Examples || Day 06</strong>
-      </a>
-      <br/>
-      <p>Welcome to Day 06 of 15 Days of React Design Patterns – Clean Code Made Easy! In this session, Learn how to build your own ......</p>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=spDQ4oCKSPY" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/spDQ4oCKSPY/mqdefault.jpg" alt="Master Higher Order Functions &amp; Components in React || Day 05">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=spDQ4oCKSPY" target="_blank">
-        <strong>Master Higher Order Functions &amp; Components in React || Day 05</strong>
-      </a>
-      <br/>
-      <p>Welcome to Day 05 of 15 Days of React Design Patterns – Clean Code Made Easy! In this session, we'll dive deep into one of ......</p>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=tIdJj0n1mg4" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/tIdJj0n1mg4/mqdefault.jpg" alt="Master the Render Props Pattern in React - Share Logic Without Duplication || Day 04">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=tIdJj0n1mg4" target="_blank">
-        <strong>Master the Render Props Pattern in React - Share Logic Without Duplication || Day 04</strong>
-      </a>
-      <br/>
-      <p>Welcome to Day 04 of the React Design Patterns Series! In this session, we uncover one of React's most powerful (and historical) ......</p>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=_CDnddrVMyo" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/_CDnddrVMyo/mqdefault.jpg" alt="40 Days of JavaScript Badge Unlocked! 🎖️ Here’s How to Get Yours">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=_CDnddrVMyo" target="_blank">
-        <strong>40 Days of JavaScript Badge Unlocked! 🎖️ Here’s How to Get Yours</strong>
-      </a>
-      <br/>
-      <p>If you've completed the 40 Days of JavaScript journey, it's time to claim your official completion badge! In this video, I'll show ......</p>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=LglWulOqh6k" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/LglWulOqh6k/mqdefault.jpg" alt="Mastering Compound Components Design Pattern in React || Day 03">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=LglWulOqh6k" target="_blank">
-        <strong>Mastering Compound Components Design Pattern in React || Day 03</strong>
-      </a>
-      <br/>
-      <p>Welcome to Day 03 of 15 Days of React Design Patterns – Clean Code Made Easy! In this session, we dive deep into one of the ......</p>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=jPMCouXondI" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/jPMCouXondI/mqdefault.jpg" alt="React Design Patterns || Controlled &amp; Uncontrolled Forms || Day 02">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=jPMCouXondI" target="_blank">
-        <strong>React Design Patterns || Controlled &amp; Uncontrolled Forms || Day 02</strong>
-      </a>
-      <br/>
-      <p>Welcome to Day 02 of React Design Patterns! In this session, we delve into one of the most important concepts every React ......</p>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=1UHbhikwg-s" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/1UHbhikwg-s/mqdefault.jpg" alt="MASTER React Container-Presenter Pattern | Code Smell to Clean Code || Day 01">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=1UHbhikwg-s" target="_blank">
-        <strong>MASTER React Container-Presenter Pattern | Code Smell to Clean Code || Day 01</strong>
-      </a>
-      <br/>
-      <p>Welcome to Day 01 of “15 Days of React Design Patterns” In this session, we dive deep into the Container–Presenter Pattern, ......</p>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=OWi31QoHqNk" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/OWi31QoHqNk/mqdefault.jpg" alt="Why React Needs Design Patterns + 10-Min Crash Course">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=OWi31QoHqNk" target="_blank">
-        <strong>Why React Needs Design Patterns + 10-Min Crash Course</strong>
-      </a>
-      <br/>
-      <p>Welcome to Day 0 of “15 Days of React Design Patterns” In this kickoff episode, we'll cover why React needs design patterns ......</p>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=KnhK9BeDpdI" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/KnhK9BeDpdI/mqdefault.jpg" alt="Build an AI Code Explainer with React 19 (Step-by-Step Tutorial)">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=KnhK9BeDpdI" target="_blank">
-        <strong>Build an AI Code Explainer with React 19 (Step-by-Step Tutorial)</strong>
-      </a>
-      <br/>
-      <p>Want to learn how to combine React 19 and AI LLMs to build something truly useful? In this tutorial, we'll create an AI-powered ......</p>
     </td>
   </tr>
 </table>
