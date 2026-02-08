@@ -5,11 +5,14 @@ import fs from "fs/promises";
 const log = (msg) => console.log(`[YT WORKFLOW] ${msg}`);
 const errorLog = (msg) => console.error(`[YT ERROR] ${msg}`);
 
-// Env vars
+// Envs
 const apiKey = process.env.YOUTUBE_API_KEY;
 const channelId = process.env.YOUTUBE_CHANNEL_ID;
 const channelIdBangla = process.env.YOUTUBE_CHANNEL_ID_BANGLA;
-const maxResults = 3;
+
+// Constants
+const VIDEOS_PER_CHANNEL = 3;
+const EXPECTED_CHANNEL_COUNT = 2;
 
 // YouTube client
 const youtube = google.youtube({
@@ -17,80 +20,99 @@ const youtube = google.youtube({
   auth: apiKey,
 });
 
-// Retry logic
+const getUploadsPlaylistId = async (channelId) => {
+  const res = await youtube.channels.list({
+    part: "contentDetails",
+    id: channelId,
+  });
+
+  const playlistId =
+    res.data.items?.[0]?.contentDetails?.relatedPlaylists?.uploads;
+
+  if (!playlistId) {
+    throw new Error(`Could not find uploads playlist for channel ${channelId}`);
+  }
+
+  return playlistId;
+};
+
+const fetchFromUploadsPlaylist = async (playlistId) => {
+  const res = await youtube.playlistItems.list({
+    part: "snippet",
+    playlistId,
+    maxResults: VIDEOS_PER_CHANNEL,
+  });
+
+  return res.data.items.map((item) => ({
+    title: item.snippet.title,
+    videoId: item.snippet.resourceId.videoId,
+    description: item.snippet.description,
+    publishedAt: item.snippet.publishedAt,
+  }));
+};
+
 const fetchLatestVideos = async (retries = 3, delay = 1000) => {
+  if (!apiKey) {
+    throw new Error("YOUTUBE_API_KEY is missing");
+  }
+
+  const channels = [
+    { id: channelId, label: "English" },
+    { id: channelIdBangla, label: "Bangla" },
+  ].filter((c) => c.id);
+
+  // SAFETY ASSERTION
+  if (channels.length !== EXPECTED_CHANNEL_COUNT) {
+    throw new Error(
+      `Expected ${EXPECTED_CHANNEL_COUNT} channels, found ${channels.length}`,
+    );
+  }
+
   for (let attempt = 0; attempt < retries; attempt++) {
     try {
-      log(`Fetching latest ${maxResults} videos from channels...`);
+      log(`Fetching ${VIDEOS_PER_CHANNEL} videos from each channel...`);
 
-      const promises = [];
+      const videosPerChannel = await Promise.all(
+        channels.map(async (channel) => {
+          const playlistId = await getUploadsPlaylistId(channel.id);
+          const videos = await fetchFromUploadsPlaylist(playlistId);
 
-      if (channelId) {
-        promises.push(
-          youtube.search.list({
-            part: "snippet",
-            channelId,
-            order: "date",
-            type: "video",
-            maxResults,
-          })
+          if (videos.length !== VIDEOS_PER_CHANNEL) {
+            throw new Error(
+              `Channel "${channel.label}" returned ${videos.length} videos`,
+            );
+          }
+
+          return videos.map((v) => ({
+            ...v,
+            channel: channel.label,
+          }));
+        }),
+      );
+
+      const videos = videosPerChannel.flat();
+
+      if (videos.length !== EXPECTED_CHANNEL_COUNT * VIDEOS_PER_CHANNEL) {
+        throw new Error(
+          `Expected ${EXPECTED_CHANNEL_COUNT * VIDEOS_PER_CHANNEL} total videos, got ${videos.length}`,
         );
       }
 
-      if (channelIdBangla) {
-        promises.push(
-          youtube.search.list({
-            part: "snippet",
-            channelId: channelIdBangla,
-            order: "date",
-            type: "video",
-            maxResults,
-          })
-        );
-      }
-
-      if (promises.length === 0) {
-        throw new Error("No valid channel IDs found in environment variables.");
-      }
-
-      const [response, responseBangla] = await Promise.all(promises);
-
-      const videosEnglish = response.data.items.map((item) => ({
-        title: item.snippet.title,
-        videoId: item.id.videoId,
-        thumbnail: item.snippet.thumbnails.medium.url,
-        description: item.snippet.description,
-        publishedAt: item.snippet.publishedAt,
-      }));
-
-      const videosBangla = responseBangla.data.items.map((item) => ({
-        title: item.snippet.title,
-        videoId: item.id.videoId,
-        thumbnail: item.snippet.thumbnails.medium.url,
-        description: item.snippet.description,
-        publishedAt: item.snippet.publishedAt,
-      }));
-
-      const videos = [...videosEnglish, ...videosBangla]
-        .sort((a, b) => new Date(a.publishedAt) - new Date(b.publishedAt))
-        .reverse();
-
-      return videos;
+      // sort newest first across both channels
+      return videos.sort(
+        (a, b) => new Date(b.publishedAt) - new Date(a.publishedAt),
+      );
     } catch (error) {
       const status = error?.response?.status;
-      const message = error?.message || "Unknown error";
+      errorLog(`Attempt ${attempt + 1} failed: ${error.message}`);
 
-      errorLog(`Attempt ${attempt + 1} failed: ${message}`);
-
-      if (status === 429 || (status >= 500 && status < 600)) {
-        if (attempt < retries - 1) {
-          log(`Retrying after ${delay}ms...`);
-          await new Promise((res) => setTimeout(res, delay));
-          delay *= 2;
-        } else {
-          errorLog("Max retries reached. Failing.");
-          throw error;
-        }
+      if (
+        attempt < retries - 1 &&
+        (status === 429 || (status >= 500 && status < 600))
+      ) {
+        log(`Retrying in ${delay}ms...`);
+        await new Promise((res) => setTimeout(res, delay));
+        delay *= 2;
       } else {
         throw error;
       }
@@ -99,66 +121,46 @@ const fetchLatestVideos = async (retries = 3, delay = 1000) => {
 };
 
 const updateReadme = async (videos, readmePath) => {
-  try {
-    let readmeContent = await fs.readFile(readmePath, "utf-8");
+  const startTag = "<!-- latest-videos -->";
+  const endTag = "<!-- latest-videos-end -->";
 
-    const startTag = "<!-- latest-videos -->";
-    const endTag = "<!-- latest-videos-end -->";
+  let content = await fs.readFile(readmePath, "utf-8");
 
-    const start = readmeContent.indexOf(startTag);
-    const end = readmeContent.indexOf(endTag);
+  if (!content.includes(startTag) || !content.includes(endTag)) {
+    throw new Error(`Tags missing in ${readmePath}`);
+  }
 
-    if (start === -1 || end === -1) {
-      throw new Error("Start or end tags not found in README.");
-    }
-
-    const before = readmeContent.slice(0, start + startTag.length);
-    const after = readmeContent.slice(end);
-
-    const videosMarkdown = `
-<table border="0">
-  ${videos
-    .map(
-      (video) => `
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=${
-        video.videoId
-      }" target="_blank">
-        <img width="150" src="https://img.youtube.com/vi/${
-          video.videoId
-        }/mqdefault.jpg" alt="${video.title}">
-      </a>
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <a href="https://www.youtube.com/watch?v=${
-        video.videoId
-      }" target="_blank">
-        <strong>${video.title}</strong>
-      </a>
-      <br/>
-      <p>${video.description?.replace(/\n/g, " ").slice(0, 300).trim()}...</p>
-    </td>
-  </tr>`
-    )
-    .join("")}
+  const table = `
+<table>
+${videos
+  .map(
+    (v) => `
+<tr>
+  <td width="160">
+    <a href="https://www.youtube.com/watch?v=${v.videoId}">
+      <img src="https://img.youtube.com/vi/${v.videoId}/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=${v.videoId}">
+      <strong>${v.title}</strong>
+    </a>
+    <br/>
+    ${v.description?.replace(/\n/g, " ").slice(0, 200)}...
+  </td>
+</tr>`,
+  )
+  .join("")}
 </table>
-`;
-
-    const newContent = `
-${before}
-
-${videosMarkdown.trim()}
-
-${after}
 `.trim();
 
-    await fs.writeFile(readmePath, newContent, "utf-8");
-    log("✅ README successfully updated with latest videos.");
-  } catch (error) {
-    errorLog("Error updating README: " + error.message);
-    throw error;
-  }
+  const updated = content.replace(
+    new RegExp(`${startTag}[\\s\\S]*?${endTag}`, "m"),
+    `${startTag}\n\n${table}\n\n${endTag}`,
+  );
+
+  await fs.writeFile(readmePath, updated, "utf-8");
+  log(`Updated ${readmePath}`);
 };
 
 const run = async () => {
