@@ -43,6 +43,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=14exXaROt0w">
+      <img src="https://img.youtube.com/vi/14exXaROt0w/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=14exXaROt0w">
+      <strong>The #1 React Hook Mistake You're Making</strong>
+    </a>
+    <br/>
+    Don't let this data fetching mistake slow down your application! 🛑 You might be using the `useEffect` hook incorrectly for data fetching in **React**. It’s the **#1 React mistake** new and even exper...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=HSVC5-d5sjY">
       <img src="https://img.youtube.com/vi/HSVC5-d5sjY/mqdefault.jpg" width="150"/>
     </a>
@@ -67,20 +81,6 @@ Check out my latest videos:
     </a>
     <br/>
     🚀 The ultimate Solution Architect Road Map is here! Join us for a deep-dive, real talk interview with Neha Sharma, a Solution Architect at Amazon, as she breaks down how to start your career, what it...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=tY8rhkLdr2A">
-      <img src="https://img.youtube.com/vi/tY8rhkLdr2A/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=tY8rhkLdr2A">
-      <strong>React Suspense: The Pattern That Instantly Fixes Data Fetching Hell 🔥</strong>
-    </a>
-    <br/>
-    Tired of the nested loading states and spinners of React data fetching hell? This video reveals the one, powerful React Suspense pattern that Instantly Fixes these issues. I'll show you how Suspense c...
   </td>
 </tr>
 <tr>
