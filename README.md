@@ -41,6 +41,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=AOq9P_H-aaU">
+      <img src="https://img.youtube.com/vi/AOq9P_H-aaU/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=AOq9P_H-aaU">
+      <strong>200+ JOBS APPLIED… NO RESPONSE. WHY?</strong>
+    </a>
+    <br/>
+    Applied to hundreds of jobs and still staring at an empty inbox? You're not alone.  This is the hard truth behind why your applications are getting ignored, and the exact steps you need to take right ...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=14exXaROt0w">
       <img src="https://img.youtube.com/vi/14exXaROt0w/mqdefault.jpg" width="150"/>
     </a>
@@ -65,20 +79,6 @@ Check out my latest videos:
     </a>
     <br/>
     Is your React form component suffering from "100+ Lines" of complexity, making it a maintenance nightmare? In this deep dive, you'll master a combination of patterns and techniques for abstracting all...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=xQMdwBkpKLc">
-      <img src="https://img.youtube.com/vi/xQMdwBkpKLc/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=xQMdwBkpKLc">
-      <strong>Solution Architect Road Map: Cracking Amazon & AI with Neha Sharma</strong>
-    </a>
-    <br/>
-    🚀 The ultimate Solution Architect Road Map is here! Join us for a deep-dive, real talk interview with Neha Sharma, a Solution Architect at Amazon, as she breaks down how to start your career, what it...
   </td>
 </tr>
 <tr>
