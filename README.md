@@ -41,6 +41,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=9-9qWx062N8">
+      <img src="https://img.youtube.com/vi/9-9qWx062N8/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=9-9qWx062N8">
+      <strong>Your React Keys Are WRONG. FIX Them.</strong>
+    </a>
+    <br/>
+    🚨 Your React Keys Are WRONG. FIX Them! 🚨  Are you still using **array index** as keys in your React lists? STOP! This common mistake is causing unexpected component state bugs and leading to poor ap...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=AOq9P_H-aaU">
       <img src="https://img.youtube.com/vi/AOq9P_H-aaU/mqdefault.jpg" width="150"/>
     </a>
@@ -65,20 +79,6 @@ Check out my latest videos:
     </a>
     <br/>
     Don't let this data fetching mistake slow down your application! 🛑 You might be using the `useEffect` hook incorrectly for data fetching in **React**. It’s the **#1 React mistake** new and even exper...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=HSVC5-d5sjY">
-      <img src="https://img.youtube.com/vi/HSVC5-d5sjY/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=HSVC5-d5sjY">
-      <strong>CLEAN REACT FORMS: The Custom Hook Pattern That Cuts 100+ Lines of Code 🔥</strong>
-    </a>
-    <br/>
-    Is your React form component suffering from "100+ Lines" of complexity, making it a maintenance nightmare? In this deep dive, you'll master a combination of patterns and techniques for abstracting all...
   </td>
 </tr>
 <tr>
