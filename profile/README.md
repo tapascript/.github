@@ -43,6 +43,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=ndrPcDNmwFk">
+      <img src="https://img.youtube.com/vi/ndrPcDNmwFk/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=ndrPcDNmwFk">
+      <strong>DEBUGGING HACK: How I Fixed a Production Bug (No Backend Access!) 🪲</strong>
+    </a>
+    <br/>
+    Ever faced a CRITICAL production bug with absolutely ZERO access to the backend? 😱 It’s every developer’s nightmare, but there’s a way out.  In this video, I’m breaking down a "Zero Access" debugging...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=9-9qWx062N8">
       <img src="https://img.youtube.com/vi/9-9qWx062N8/mqdefault.jpg" width="150"/>
     </a>
@@ -67,20 +81,6 @@ Check out my latest videos:
     </a>
     <br/>
     Applied to hundreds of jobs and still staring at an empty inbox? You're not alone.  This is the hard truth behind why your applications are getting ignored, and the exact steps you need to take right ...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=14exXaROt0w">
-      <img src="https://img.youtube.com/vi/14exXaROt0w/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=14exXaROt0w">
-      <strong>The #1 React Hook Mistake You're Making</strong>
-    </a>
-    <br/>
-    Don't let this data fetching mistake slow down your application! 🛑 You might be using the `useEffect` hook incorrectly for data fetching in **React**. It’s the **#1 React mistake** new and even exper...
   </td>
 </tr>
 <tr>
