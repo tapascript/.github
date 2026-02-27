@@ -43,6 +43,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=lPiQClBVYY4">
+      <img src="https://img.youtube.com/vi/lPiQClBVYY4/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=lPiQClBVYY4">
+      <strong>CORS Error? STOP Fixing Your API! 🛑🔥</strong>
+    </a>
+    <br/>
+    If you've ever been stuck on a "Cross-Origin Request Blocked" error, your first instinct is usually to change the backend. But wait! Most of the time, the fix is actually in your frontend code. In thi...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=ndrPcDNmwFk">
       <img src="https://img.youtube.com/vi/ndrPcDNmwFk/mqdefault.jpg" width="150"/>
     </a>
@@ -67,20 +81,6 @@ Check out my latest videos:
     </a>
     <br/>
     🚨 Your React Keys Are WRONG. FIX Them! 🚨  Are you still using **array index** as keys in your React lists? STOP! This common mistake is causing unexpected component state bugs and leading to poor ap...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=AOq9P_H-aaU">
-      <img src="https://img.youtube.com/vi/AOq9P_H-aaU/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=AOq9P_H-aaU">
-      <strong>200+ JOBS APPLIED… NO RESPONSE. WHY?</strong>
-    </a>
-    <br/>
-    Applied to hundreds of jobs and still staring at an empty inbox? You're not alone.  This is the hard truth behind why your applications are getting ignored, and the exact steps you need to take right ...
   </td>
 </tr>
 <tr>
