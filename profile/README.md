@@ -43,6 +43,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=odNXS60QlIU">
+      <img src="https://img.youtube.com/vi/odNXS60QlIU/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=odNXS60QlIU">
+      <strong>TANSTACK START: Why We Needed Another React Framework? 🤔</strong>
+    </a>
+    <br/>
+    Is Next.js getting too complex? 🤯 With the React ecosystem evolving so fast, the last thing we thought we needed was another framework. But TanStack Start is doing things differently.  In this video,...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=lPiQClBVYY4">
       <img src="https://img.youtube.com/vi/lPiQClBVYY4/mqdefault.jpg" width="150"/>
     </a>
@@ -67,20 +81,6 @@ Check out my latest videos:
     </a>
     <br/>
     Ever faced a CRITICAL production bug with absolutely ZERO access to the backend? 😱 It’s every developer’s nightmare, but there’s a way out.  In this video, I’m breaking down a "Zero Access" debugging...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=9-9qWx062N8">
-      <img src="https://img.youtube.com/vi/9-9qWx062N8/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=9-9qWx062N8">
-      <strong>Your React Keys Are WRONG. FIX Them.</strong>
-    </a>
-    <br/>
-    🚨 Your React Keys Are WRONG. FIX Them! 🚨  Are you still using **array index** as keys in your React lists? STOP! This common mistake is causing unexpected component state bugs and leading to poor ap...
   </td>
 </tr>
 <tr>
