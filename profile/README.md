@@ -43,6 +43,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=pI8n1h-mIKI">
+      <img src="https://img.youtube.com/vi/pI8n1h-mIKI/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=pI8n1h-mIKI">
+      <strong>React Hydration Finally Explained Simply! ⚛️✨</strong>
+    </a>
+    <br/>
+    Ever wonder why your React app feels "frozen" for a split second after it loads? 🤔 That’s Hydration!  Most developers use Server-Side Rendering (SSR) but don't actually know what happens when the bro...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=odNXS60QlIU">
       <img src="https://img.youtube.com/vi/odNXS60QlIU/mqdefault.jpg" width="150"/>
     </a>
@@ -67,20 +81,6 @@ Check out my latest videos:
     </a>
     <br/>
     If you've ever been stuck on a "Cross-Origin Request Blocked" error, your first instinct is usually to change the backend. But wait! Most of the time, the fix is actually in your frontend code. In thi...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=ndrPcDNmwFk">
-      <img src="https://img.youtube.com/vi/ndrPcDNmwFk/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=ndrPcDNmwFk">
-      <strong>DEBUGGING HACK: How I Fixed a Production Bug (No Backend Access!) 🪲</strong>
-    </a>
-    <br/>
-    Ever faced a CRITICAL production bug with absolutely ZERO access to the backend? 😱 It’s every developer’s nightmare, but there’s a way out.  In this video, I’m breaking down a "Zero Access" debugging...
   </td>
 </tr>
 <tr>
