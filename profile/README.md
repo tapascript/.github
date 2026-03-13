@@ -43,6 +43,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=EGjiq-JDF3I">
+      <img src="https://img.youtube.com/vi/EGjiq-JDF3I/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=EGjiq-JDF3I">
+      <strong>MASTER JS DATES: The Only Guide You Need ⏰🔥</strong>
+    </a>
+    <br/>
+    MASTER JAVASCRIPT DATES! ⏰ Stop struggling with time zones and messy code. This is the ultimate deep-dive to mastering Date and Time in JavaScript once and for all! 🔥 Get the Source Code & Join the C...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=pI8n1h-mIKI">
       <img src="https://img.youtube.com/vi/pI8n1h-mIKI/mqdefault.jpg" width="150"/>
     </a>
@@ -67,20 +81,6 @@ Check out my latest videos:
     </a>
     <br/>
     Is Next.js getting too complex? 🤯 With the React ecosystem evolving so fast, the last thing we thought we needed was another framework. But TanStack Start is doing things differently.  In this video,...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=lPiQClBVYY4">
-      <img src="https://img.youtube.com/vi/lPiQClBVYY4/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=lPiQClBVYY4">
-      <strong>CORS Error? STOP Fixing Your API! 🛑🔥</strong>
-    </a>
-    <br/>
-    If you've ever been stuck on a "Cross-Origin Request Blocked" error, your first instinct is usually to change the backend. But wait! Most of the time, the fix is actually in your frontend code. In thi...
   </td>
 </tr>
 <tr>
