@@ -41,6 +41,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=ZC9uSZDYq8Q">
+      <img src="https://img.youtube.com/vi/ZC9uSZDYq8Q/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=ZC9uSZDYq8Q">
+      <strong>Micro Frontends… What’s Going On Here? 🤯</strong>
+    </a>
+    <br/>
+    How does Amazon scale its UI? 🤯 Let’s break down Micro Frontends (MFEs) using a shopping mall analogy!  👇 Join the tapaScript community for more! - ⭐ https://www.youtube.com/tapasadhikary  Tired of ...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=EGjiq-JDF3I">
       <img src="https://img.youtube.com/vi/EGjiq-JDF3I/mqdefault.jpg" width="150"/>
     </a>
@@ -65,20 +79,6 @@ Check out my latest videos:
     </a>
     <br/>
     Ever wonder why your React app feels "frozen" for a split second after it loads? 🤔 That’s Hydration!  Most developers use Server-Side Rendering (SSR) but don't actually know what happens when the bro...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=odNXS60QlIU">
-      <img src="https://img.youtube.com/vi/odNXS60QlIU/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=odNXS60QlIU">
-      <strong>TANSTACK START: Why We Needed Another React Framework? 🤔</strong>
-    </a>
-    <br/>
-    Is Next.js getting too complex? 🤯 With the React ecosystem evolving so fast, the last thing we thought we needed was another framework. But TanStack Start is doing things differently.  In this video,...
   </td>
 </tr>
 <tr>
