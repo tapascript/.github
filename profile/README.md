@@ -43,6 +43,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=Y3f1H4xGJ9Q">
+      <img src="https://img.youtube.com/vi/Y3f1H4xGJ9Q/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=Y3f1H4xGJ9Q">
+      <strong>STOP Using Date Libraries! The Native JS Intl API is Better 🔥</strong>
+    </a>
+    <br/>
+    Stop struggling with manual date formatting in JavaScript! 💡 Learn how to use the powerful Intl API to handle complex locales, timezones, and relative time like a pro.  I’ll show you why this native ...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=ZC9uSZDYq8Q">
       <img src="https://img.youtube.com/vi/ZC9uSZDYq8Q/mqdefault.jpg" width="150"/>
     </a>
@@ -67,20 +81,6 @@ Check out my latest videos:
     </a>
     <br/>
     MASTER JAVASCRIPT DATES! ⏰ Stop struggling with time zones and messy code. This is the ultimate deep-dive to mastering Date and Time in JavaScript once and for all! 🔥 Get the Source Code & Join the C...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=pI8n1h-mIKI">
-      <img src="https://img.youtube.com/vi/pI8n1h-mIKI/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=pI8n1h-mIKI">
-      <strong>React Hydration Finally Explained Simply! ⚛️✨</strong>
-    </a>
-    <br/>
-    Ever wonder why your React app feels "frozen" for a split second after it loads? 🤔 That’s Hydration!  Most developers use Server-Side Rendering (SSR) but don't actually know what happens when the bro...
   </td>
 </tr>
 <tr>
