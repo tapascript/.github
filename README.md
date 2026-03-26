@@ -41,6 +41,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=TmcAqw06ZFQ">
+      <img src="https://img.youtube.com/vi/TmcAqw06ZFQ/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=TmcAqw06ZFQ">
+      <strong>Async Won’t Fix This… Here’s Why 😳</strong>
+    </a>
+    <br/>
+    Async is for WAITING, not for WORKING! 💡  Stop blocking your main thread with heavy computations. In 2 minutes, learn the difference between Async calls and Web Workers and why your app’s performance...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=Y3f1H4xGJ9Q">
       <img src="https://img.youtube.com/vi/Y3f1H4xGJ9Q/mqdefault.jpg" width="150"/>
     </a>
@@ -65,20 +79,6 @@ Check out my latest videos:
     </a>
     <br/>
     How does Amazon scale its UI? 🤯 Let’s break down Micro Frontends (MFEs) using a shopping mall analogy!  👇 Join the tapaScript community for more! - ⭐ https://www.youtube.com/tapasadhikary  Tired of ...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=EGjiq-JDF3I">
-      <img src="https://img.youtube.com/vi/EGjiq-JDF3I/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=EGjiq-JDF3I">
-      <strong>MASTER JS DATES: The Only Guide You Need ⏰🔥</strong>
-    </a>
-    <br/>
-    MASTER JAVASCRIPT DATES! ⏰ Stop struggling with time zones and messy code. This is the ultimate deep-dive to mastering Date and Time in JavaScript once and for all! 🔥 Get the Source Code & Join the C...
   </td>
 </tr>
 <tr>
