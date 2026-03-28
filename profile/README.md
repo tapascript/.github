@@ -43,6 +43,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=t2u5dxyQ9Ig">
+      <img src="https://img.youtube.com/vi/t2u5dxyQ9Ig/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=t2u5dxyQ9Ig">
+      <strong>🔴 LIVE: Will AI REPLACE You? (Candid Dev Career Q&A)</strong>
+    </a>
+    <br/>
+    Are AI tools like Claude, ChatGPT, and coding assistants going to replace web developers? Let’s cut through the hype and have a brutally honest conversation about the future of your coding career.  In...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=TmcAqw06ZFQ">
       <img src="https://img.youtube.com/vi/TmcAqw06ZFQ/mqdefault.jpg" width="150"/>
     </a>
@@ -67,20 +81,6 @@ Check out my latest videos:
     </a>
     <br/>
     Stop struggling with manual date formatting in JavaScript! 💡 Learn how to use the powerful Intl API to handle complex locales, timezones, and relative time like a pro.  I’ll show you why this native ...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=ZC9uSZDYq8Q">
-      <img src="https://img.youtube.com/vi/ZC9uSZDYq8Q/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=ZC9uSZDYq8Q">
-      <strong>Micro Frontends… What’s Going On Here? 🤯</strong>
-    </a>
-    <br/>
-    How does Amazon scale its UI? 🤯 Let’s break down Micro Frontends (MFEs) using a shopping mall analogy!  👇 Join the tapaScript community for more! - ⭐ https://www.youtube.com/tapasadhikary  Tired of ...
   </td>
 </tr>
 <tr>
