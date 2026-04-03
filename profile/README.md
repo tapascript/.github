@@ -43,6 +43,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=tLW9RaLTg44">
+      <img src="https://img.youtube.com/vi/tLW9RaLTg44/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=tLW9RaLTg44">
+      <strong>You Don't Understand States, Here is WHY! 😳</strong>
+    </a>
+    <br/>
+    Stop overcomplicating State in React and JavaScript! 💡  Most developers struggle with "State" because they think it's just a React feature. In this Thinking Board session, we strip away the code to u...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=t2u5dxyQ9Ig">
       <img src="https://img.youtube.com/vi/t2u5dxyQ9Ig/mqdefault.jpg" width="150"/>
     </a>
@@ -67,20 +81,6 @@ Check out my latest videos:
     </a>
     <br/>
     Async is for WAITING, not for WORKING! 💡  Stop blocking your main thread with heavy computations. In 2 minutes, learn the difference between Async calls and Web Workers and why your app’s performance...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=Y3f1H4xGJ9Q">
-      <img src="https://img.youtube.com/vi/Y3f1H4xGJ9Q/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=Y3f1H4xGJ9Q">
-      <strong>STOP Using Date Libraries! The Native JS Intl API is Better 🔥</strong>
-    </a>
-    <br/>
-    Stop struggling with manual date formatting in JavaScript! 💡 Learn how to use the powerful Intl API to handle complex locales, timezones, and relative time like a pro.  I’ll show you why this native ...
   </td>
 </tr>
 <tr>
