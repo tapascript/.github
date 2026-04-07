@@ -43,6 +43,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=MZ70HH633xs">
+      <img src="https://img.youtube.com/vi/MZ70HH633xs/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=MZ70HH633xs">
+      <strong>Is the Golden Age of Coding Over? (ft. Sanket Sahu)</strong>
+    </a>
+    <br/>
+    Is the era of traditional software engineering over? With the rise of AI, widespread layoffs, and constant news of job cuts, many developers are wondering whether their skills will remain relevant in ...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=tLW9RaLTg44">
       <img src="https://img.youtube.com/vi/tLW9RaLTg44/mqdefault.jpg" width="150"/>
     </a>
@@ -67,20 +81,6 @@ Check out my latest videos:
     </a>
     <br/>
     Are AI tools like Claude, ChatGPT, and coding assistants going to replace web developers? Let’s cut through the hype and have a brutally honest conversation about the future of your coding career.  In...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=TmcAqw06ZFQ">
-      <img src="https://img.youtube.com/vi/TmcAqw06ZFQ/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=TmcAqw06ZFQ">
-      <strong>Async Won’t Fix This… Here’s Why 😳</strong>
-    </a>
-    <br/>
-    Async is for WAITING, not for WORKING! 💡  Stop blocking your main thread with heavy computations. In 2 minutes, learn the difference between Async calls and Web Workers and why your app’s performance...
   </td>
 </tr>
 <tr>
