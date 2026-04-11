@@ -41,6 +41,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=g4Fi0OIcfUo">
+      <img src="https://img.youtube.com/vi/g4Fi0OIcfUo/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=g4Fi0OIcfUo">
+      <strong>🔴 LIVE: Stop Building JUST CRUD Apps! (Full Stack Q&A)</strong>
+    </a>
+    <br/>
+    Are you stuck in the "CRUD trap"? Building basic Create, Read, Update, and Delete applications is a great way to learn, but it won't make you stand out in the 2026 job market. Let's talk about what co...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=MZ70HH633xs">
       <img src="https://img.youtube.com/vi/MZ70HH633xs/mqdefault.jpg" width="150"/>
     </a>
@@ -65,20 +79,6 @@ Check out my latest videos:
     </a>
     <br/>
     Stop overcomplicating State in React and JavaScript! 💡  Most developers struggle with "State" because they think it's just a React feature. In this Thinking Board session, we strip away the code to u...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=t2u5dxyQ9Ig">
-      <img src="https://img.youtube.com/vi/t2u5dxyQ9Ig/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=t2u5dxyQ9Ig">
-      <strong>🔴 LIVE: Will AI REPLACE You? (Candid Dev Career Q&A)</strong>
-    </a>
-    <br/>
-    Are AI tools like Claude, ChatGPT, and coding assistants going to replace web developers? Let’s cut through the hype and have a brutally honest conversation about the future of your coding career.  In...
   </td>
 </tr>
 <tr>
