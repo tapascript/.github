@@ -41,6 +41,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=rvvfcSIv6MA">
+      <img src="https://img.youtube.com/vi/rvvfcSIv6MA/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=rvvfcSIv6MA">
+      <strong>Still Confused About AI Agents? Watch This 🤯</strong>
+    </a>
+    <br/>
+    Struggling to understand the difference between ChatGPT and AI Agents? 🤖✨  Most people think LLMs like ChatGPT can do everything, but they’re actually just "one-shot" responders. If you ask for a Goa...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=g4Fi0OIcfUo">
       <img src="https://img.youtube.com/vi/g4Fi0OIcfUo/mqdefault.jpg" width="150"/>
     </a>
@@ -65,20 +79,6 @@ Check out my latest videos:
     </a>
     <br/>
     Is the era of traditional software engineering over? With the rise of AI, widespread layoffs, and constant news of job cuts, many developers are wondering whether their skills will remain relevant in ...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=tLW9RaLTg44">
-      <img src="https://img.youtube.com/vi/tLW9RaLTg44/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=tLW9RaLTg44">
-      <strong>You Don't Understand States, Here is WHY! 😳</strong>
-    </a>
-    <br/>
-    Stop overcomplicating State in React and JavaScript! 💡  Most developers struggle with "State" because they think it's just a React feature. In this Thinking Board session, we strip away the code to u...
   </td>
 </tr>
 <tr>
