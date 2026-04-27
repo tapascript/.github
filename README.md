@@ -41,6 +41,34 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=xB0Jo_dmIQw">
+      <img src="https://img.youtube.com/vi/xB0Jo_dmIQw/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=xB0Jo_dmIQw">
+      <strong>Git Cherry-Pick Will Finally Make Sense After This</strong>
+    </a>
+    <br/>
+    Learn how to use the Git Cherry Pick command to easily move specific commits between branches. In this complete Git tutorial, we explain cherry-picking visually so you can avoid merge conflicts and ke...
+  </td>
+</tr>
+<tr>
+  <td width="160">
+    <a href="https://www.youtube.com/watch?v=ZqiokYZ2j3M">
+      <img src="https://img.youtube.com/vi/ZqiokYZ2j3M/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=ZqiokYZ2j3M">
+      <strong>Stop Building Bad RAG! Use THIS Instead 🤯</strong>
+    </a>
+    <br/>
+    Think RAG is dead? Think again. 🛑 While "Vector-only RAG" might be fading, Retrieval-Augmented Generation is actually evolving into something much more powerful.  In this video, we break down why Lar...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=rvvfcSIv6MA">
       <img src="https://img.youtube.com/vi/rvvfcSIv6MA/mqdefault.jpg" width="150"/>
     </a>
@@ -51,34 +79,6 @@ Check out my latest videos:
     </a>
     <br/>
     Struggling to understand the difference between ChatGPT and AI Agents? 🤖✨  Most people think LLMs like ChatGPT can do everything, but they’re actually just "one-shot" responders. If you ask for a Goa...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=g4Fi0OIcfUo">
-      <img src="https://img.youtube.com/vi/g4Fi0OIcfUo/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=g4Fi0OIcfUo">
-      <strong>🔴 LIVE: Stop Building JUST CRUD Apps! (Full Stack Q&A)</strong>
-    </a>
-    <br/>
-    Are you stuck in the "CRUD trap"? Building basic Create, Read, Update, and Delete applications is a great way to learn, but it won't make you stand out in the 2026 job market. Let's talk about what co...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=MZ70HH633xs">
-      <img src="https://img.youtube.com/vi/MZ70HH633xs/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=MZ70HH633xs">
-      <strong>Is the Golden Age of Coding Over? (ft. Sanket Sahu)</strong>
-    </a>
-    <br/>
-    Is the era of traditional software engineering over? With the rise of AI, widespread layoffs, and constant news of job cuts, many developers are wondering whether their skills will remain relevant in ...
   </td>
 </tr>
 <tr>
