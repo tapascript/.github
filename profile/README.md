@@ -43,6 +43,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=tOrscbCLt5o">
+      <img src="https://img.youtube.com/vi/tOrscbCLt5o/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=tOrscbCLt5o">
+      <strong>React 19 Just Killed e.preventDefault()</strong>
+    </a>
+    <br/>
+    Stop writing React forms like it’s 2018. If you’re still manually handling e.preventDefault(), juggling loading states with useState, and wrapping every submission in a messy try-catch block, React 19...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=xB0Jo_dmIQw">
       <img src="https://img.youtube.com/vi/xB0Jo_dmIQw/mqdefault.jpg" width="150"/>
     </a>
@@ -67,20 +81,6 @@ Check out my latest videos:
     </a>
     <br/>
     Think RAG is dead? Think again. 🛑 While "Vector-only RAG" might be fading, Retrieval-Augmented Generation is actually evolving into something much more powerful.  In this video, we break down why Lar...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=rvvfcSIv6MA">
-      <img src="https://img.youtube.com/vi/rvvfcSIv6MA/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=rvvfcSIv6MA">
-      <strong>Still Confused About AI Agents? Watch This 🤯</strong>
-    </a>
-    <br/>
-    Struggling to understand the difference between ChatGPT and AI Agents? 🤖✨  Most people think LLMs like ChatGPT can do everything, but they’re actually just "one-shot" responders. If you ask for a Goa...
   </td>
 </tr>
 <tr>
