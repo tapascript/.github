@@ -43,6 +43,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=sR_LMW15-bM">
+      <img src="https://img.youtube.com/vi/sR_LMW15-bM/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=sR_LMW15-bM">
+      <strong>React to Production: The Complete Vibe Coding to Production Roadmap</strong>
+    </a>
+    <br/>
+    AI can generate a React component in 5 seconds, but it takes an engineer to scale it to 10,000 users. If you are just "vibe coding" your way through full-stack development, you are building a house of...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=tOrscbCLt5o">
       <img src="https://img.youtube.com/vi/tOrscbCLt5o/mqdefault.jpg" width="150"/>
     </a>
@@ -67,20 +81,6 @@ Check out my latest videos:
     </a>
     <br/>
     Learn how to use the Git Cherry Pick command to easily move specific commits between branches. In this complete Git tutorial, we explain cherry-picking visually so you can avoid merge conflicts and ke...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=ZqiokYZ2j3M">
-      <img src="https://img.youtube.com/vi/ZqiokYZ2j3M/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=ZqiokYZ2j3M">
-      <strong>Stop Building Bad RAG! Use THIS Instead 🤯</strong>
-    </a>
-    <br/>
-    Think RAG is dead? Think again. 🛑 While "Vector-only RAG" might be fading, Retrieval-Augmented Generation is actually evolving into something much more powerful.  In this video, we break down why Lar...
   </td>
 </tr>
 <tr>
