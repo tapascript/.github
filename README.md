@@ -41,6 +41,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=yP4k5fsPMqs">
+      <img src="https://img.youtube.com/vi/yP4k5fsPMqs/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=yP4k5fsPMqs">
+      <strong>Full Stack App EP 02: Frontend Setup for React App(Without Framework)</strong>
+    </a>
+    <br/>
+    Stop using basic React templates. Learn how to architect a production-ready frontend from scratch using Vite, Tailwind CSS, and TanStack Router. In this episode, we set up the scalable folder structur...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=sR_LMW15-bM">
       <img src="https://img.youtube.com/vi/sR_LMW15-bM/mqdefault.jpg" width="150"/>
     </a>
@@ -65,20 +79,6 @@ Check out my latest videos:
     </a>
     <br/>
     Stop writing React forms like it’s 2018. If you’re still manually handling e.preventDefault(), juggling loading states with useState, and wrapping every submission in a messy try-catch block, React 19...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=xB0Jo_dmIQw">
-      <img src="https://img.youtube.com/vi/xB0Jo_dmIQw/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=xB0Jo_dmIQw">
-      <strong>Git Cherry-Pick Will Finally Make Sense After This</strong>
-    </a>
-    <br/>
-    Learn how to use the Git Cherry Pick command to easily move specific commits between branches. In this complete Git tutorial, we explain cherry-picking visually so you can avoid merge conflicts and ke...
   </td>
 </tr>
 <tr>
