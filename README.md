@@ -41,6 +41,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=O4ipA69JY6w">
+      <img src="https://img.youtube.com/vi/O4ipA69JY6w/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=O4ipA69JY6w">
+      <strong>Stop Writing React Monoliths (Do This Instead)</strong>
+    </a>
+    <br/>
+    Writing massive, 1000-line React files is the fastest way to destroy your application's scalability. If you want to level up from a beginner to a Senior Architect, you must stop writing component mono...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=yP4k5fsPMqs">
       <img src="https://img.youtube.com/vi/yP4k5fsPMqs/mqdefault.jpg" width="150"/>
     </a>
@@ -65,20 +79,6 @@ Check out my latest videos:
     </a>
     <br/>
     AI can generate a React component in 5 seconds, but it takes an engineer to scale it to 10,000 users. If you are just "vibe coding" your way through full-stack development, you are building a house of...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=tOrscbCLt5o">
-      <img src="https://img.youtube.com/vi/tOrscbCLt5o/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=tOrscbCLt5o">
-      <strong>React 19 Just Killed e.preventDefault()</strong>
-    </a>
-    <br/>
-    Stop writing React forms like it’s 2018. If you’re still manually handling e.preventDefault(), juggling loading states with useState, and wrapping every submission in a messy try-catch block, React 19...
   </td>
 </tr>
 <tr>
