@@ -43,6 +43,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=D7Ww4tFD1GE">
+      <img src="https://img.youtube.com/vi/D7Ww4tFD1GE/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=D7Ww4tFD1GE">
+      <strong>I Was Wrong About React State. You Must Be Doing It Wrong Too</strong>
+    </a>
+    <br/>
+    Stop struggling with React State! In this deep dive, we’re moving beyond the basic syntax to understand how React really manages data. I’ll share why my own mental model of state was "wrong" and how y...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=O4ipA69JY6w">
       <img src="https://img.youtube.com/vi/O4ipA69JY6w/mqdefault.jpg" width="150"/>
     </a>
@@ -67,20 +81,6 @@ Check out my latest videos:
     </a>
     <br/>
     Stop using basic React templates. Learn how to architect a production-ready frontend from scratch using Vite, Tailwind CSS, and TanStack Router. In this episode, we set up the scalable folder structur...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=sR_LMW15-bM">
-      <img src="https://img.youtube.com/vi/sR_LMW15-bM/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=sR_LMW15-bM">
-      <strong>React to Production: The Complete Vibe Coding to Production Roadmap</strong>
-    </a>
-    <br/>
-    AI can generate a React component in 5 seconds, but it takes an engineer to scale it to 10,000 users. If you are just "vibe coding" your way through full-stack development, you are building a house of...
   </td>
 </tr>
 <tr>
