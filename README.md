@@ -41,6 +41,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=p6xX2oFJpAM">
+      <img src="https://img.youtube.com/vi/p6xX2oFJpAM/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=p6xX2oFJpAM">
+      <strong>React useEffect Hook Tutorial (Stop Fetching Data Like This)</strong>
+    </a>
+    <br/>
+    Stop making this common mistake with the React useEffect hook! 🛑 If you are fetching data inside useEffect without a clean-up strategy or error handling, your app is likely prone to memory leaks and ...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=D7Ww4tFD1GE">
       <img src="https://img.youtube.com/vi/D7Ww4tFD1GE/mqdefault.jpg" width="150"/>
     </a>
@@ -65,20 +79,6 @@ Check out my latest videos:
     </a>
     <br/>
     Writing massive, 1000-line React files is the fastest way to destroy your application's scalability. If you want to level up from a beginner to a Senior Architect, you must stop writing component mono...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=yP4k5fsPMqs">
-      <img src="https://img.youtube.com/vi/yP4k5fsPMqs/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=yP4k5fsPMqs">
-      <strong>Full Stack App EP 02: Frontend Setup for React App(Without Framework)</strong>
-    </a>
-    <br/>
-    Stop using basic React templates. Learn how to architect a production-ready frontend from scratch using Vite, Tailwind CSS, and TanStack Router. In this episode, we set up the scalable folder structur...
   </td>
 </tr>
 <tr>
