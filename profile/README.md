@@ -43,6 +43,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=8TajvEhbBCY">
+      <img src="https://img.youtube.com/vi/8TajvEhbBCY/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=8TajvEhbBCY">
+      <strong>The React Kolkata Event LIVE</strong>
+    </a>
+    <br/>
+    ⭐ Subscribe: https://www.youtube.com/tapasadhikary ⭐ Join: https://www.youtube.com/channel/UCaYr5yxgOyk599Mnb3TGh-g/join...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=p6xX2oFJpAM">
       <img src="https://img.youtube.com/vi/p6xX2oFJpAM/mqdefault.jpg" width="150"/>
     </a>
@@ -67,20 +81,6 @@ Check out my latest videos:
     </a>
     <br/>
     Stop struggling with React State! In this deep dive, we’re moving beyond the basic syntax to understand how React really manages data. I’ll share why my own mental model of state was "wrong" and how y...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=O4ipA69JY6w">
-      <img src="https://img.youtube.com/vi/O4ipA69JY6w/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=O4ipA69JY6w">
-      <strong>Stop Writing React Monoliths (Do This Instead)</strong>
-    </a>
-    <br/>
-    Writing massive, 1000-line React files is the fastest way to destroy your application's scalability. If you want to level up from a beginner to a Senior Architect, you must stop writing component mono...
   </td>
 </tr>
 <tr>
