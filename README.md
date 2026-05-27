@@ -41,6 +41,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=NMkUVKue2jk">
+      <img src="https://img.youtube.com/vi/NMkUVKue2jk/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=NMkUVKue2jk">
+      <strong>Asked AI For An Analytics Dashboard: AI Wrote This! 🤯</strong>
+    </a>
+    <br/>
+    Is AI making you a better developer, or just a faster one? In this episode of the Full Stack Journey, I’m putting "Vibe Coding" to the ultimate test. We asked ChatGPT to build a complex Creator Analyt...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=8TajvEhbBCY">
       <img src="https://img.youtube.com/vi/8TajvEhbBCY/mqdefault.jpg" width="150"/>
     </a>
@@ -65,20 +79,6 @@ Check out my latest videos:
     </a>
     <br/>
     Stop making this common mistake with the React useEffect hook! 🛑 If you are fetching data inside useEffect without a clean-up strategy or error handling, your app is likely prone to memory leaks and ...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=D7Ww4tFD1GE">
-      <img src="https://img.youtube.com/vi/D7Ww4tFD1GE/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=D7Ww4tFD1GE">
-      <strong>I Was Wrong About React State. You Must Be Doing It Wrong Too</strong>
-    </a>
-    <br/>
-    Stop struggling with React State! In this deep dive, we’re moving beyond the basic syntax to understand how React really manages data. I’ll share why my own mental model of state was "wrong" and how y...
   </td>
 </tr>
 <tr>
