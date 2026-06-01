@@ -41,6 +41,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=bzLaPo5-NiM">
+      <img src="https://img.youtube.com/vi/bzLaPo5-NiM/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=bzLaPo5-NiM">
+      <strong>Why AI Apps Are So Hard to Debug? 🤯 #ai #observability #debugging</strong>
+    </a>
+    <br/>
+    Why AI Debugging is a Nightmare (And How to Fix It) 🛠️  Traditional software debugging is linear: Input ➡️ Code ➡️ Output. But with AI and LLMs, everything changes.  In this "Thinking Board" session,...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=NMkUVKue2jk">
       <img src="https://img.youtube.com/vi/NMkUVKue2jk/mqdefault.jpg" width="150"/>
     </a>
@@ -65,20 +79,6 @@ Check out my latest videos:
     </a>
     <br/>
     ⭐ Subscribe: https://www.youtube.com/tapasadhikary ⭐ Join: https://www.youtube.com/channel/UCaYr5yxgOyk599Mnb3TGh-g/join...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=p6xX2oFJpAM">
-      <img src="https://img.youtube.com/vi/p6xX2oFJpAM/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=p6xX2oFJpAM">
-      <strong>React useEffect Hook Tutorial (Stop Fetching Data Like This)</strong>
-    </a>
-    <br/>
-    Stop making this common mistake with the React useEffect hook! 🛑 If you are fetching data inside useEffect without a clean-up strategy or error handling, your app is likely prone to memory leaks and ...
   </td>
 </tr>
 <tr>
