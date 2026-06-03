@@ -43,6 +43,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=BPH95vDsnBM">
+      <img src="https://img.youtube.com/vi/BPH95vDsnBM/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=BPH95vDsnBM">
+      <strong>Do You Know This? I Need An Answer 🤖</strong>
+    </a>
+    <br/>
+    আপনার মতামত খুব প্রয়োজন! 🙏  অনেকেই জানতে চান আমি কেন নিয়মিত বাংলা চ্যানেলে ভিডিও দিই না। সত্যি বলতে, অফিস আর ইংলিশ চ্যানেলের কাজের চাপে সময় বের করা খুব কঠিন হয়ে পড়ে। তাই একটা নতুন পরিকল্পনা করেছি:  -...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=bzLaPo5-NiM">
       <img src="https://img.youtube.com/vi/bzLaPo5-NiM/mqdefault.jpg" width="150"/>
     </a>
@@ -109,20 +123,6 @@ Check out my latest videos:
     </a>
     <br/>
     Developers… English-এ দুর্বল? Interview-এ আটকে যাচ্ছেন? Documentation পড়তে কষ্ট হয়? Standup-এ কথা বলতে ভয় লাগে?  You’re not alone — এবং সত্যি কথা হলো: 👉 Fluent English লাগবে না 👉 Fancy grammar লা...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=ax2BryZwkMQ">
-      <img src="https://img.youtube.com/vi/ax2BryZwkMQ/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=ax2BryZwkMQ">
-      <strong>এই 10 JavaScript Snippets জানলে কোডিং হবে 10X Faster! (Bangla Tutorial) 🔥</strong>
-    </a>
-    <br/>
-    Welcome Developers! এই ভিডিওতে আপনি শিখবেন Top 10 JavaScript Code Snippets যেগুলো আপনার coding speed কে 10X Faster করে দেবে।  এগুলো এমন snippets যেগুলো আমি almost daily use করি। Beginner হোক বা senior...
   </td>
 </tr>
 </table>
