@@ -41,6 +41,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=9t1S-M5hmGM">
+      <img src="https://img.youtube.com/vi/9t1S-M5hmGM/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=9t1S-M5hmGM">
+      <strong>AI Code is Messy: Refactoring a React Dashboard to Production Standards</strong>
+    </a>
+    <br/>
+    Stop shipping "spaghetti" AI code. I'm refactoring a real-world AI-generated React dashboard to show you exactly how to implement clean code principles, optimize performance with custom hooks, and fix...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=BPH95vDsnBM">
       <img src="https://img.youtube.com/vi/BPH95vDsnBM/mqdefault.jpg" width="150"/>
     </a>
@@ -79,20 +93,6 @@ Check out my latest videos:
     </a>
     <br/>
     Is AI making you a better developer, or just a faster one? In this episode of the Full Stack Journey, I’m putting "Vibe Coding" to the ultimate test. We asked ChatGPT to build a complex Creator Analyt...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=8TajvEhbBCY">
-      <img src="https://img.youtube.com/vi/8TajvEhbBCY/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=8TajvEhbBCY">
-      <strong>The React Kolkata Event LIVE</strong>
-    </a>
-    <br/>
-    ⭐ Subscribe: https://www.youtube.com/tapasadhikary ⭐ Join: https://www.youtube.com/channel/UCaYr5yxgOyk599Mnb3TGh-g/join...
   </td>
 </tr>
 <tr>
