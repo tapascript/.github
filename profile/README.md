@@ -43,6 +43,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=IjDj1fcBxd0">
+      <img src="https://img.youtube.com/vi/IjDj1fcBxd0/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=IjDj1fcBxd0">
+      <strong>SSR, SSG & ISR Finally Make Sense 🍔 #fullstack #nextjs #codingtips</strong>
+    </a>
+    <br/>
+    Confused between SSR, SSG, and ISR? 🍔 You’re not alone! Most developers mix these up during interviews because they focus on the names rather than on one simple thing: TIMING.  In this video, I break...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=9t1S-M5hmGM">
       <img src="https://img.youtube.com/vi/9t1S-M5hmGM/mqdefault.jpg" width="150"/>
     </a>
@@ -81,20 +95,6 @@ Check out my latest videos:
     </a>
     <br/>
     Why AI Debugging is a Nightmare (And How to Fix It) 🛠️  Traditional software debugging is linear: Input ➡️ Code ➡️ Output. But with AI and LLMs, everything changes.  In this "Thinking Board" session,...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=NMkUVKue2jk">
-      <img src="https://img.youtube.com/vi/NMkUVKue2jk/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=NMkUVKue2jk">
-      <strong>Asked AI For An Analytics Dashboard: AI Wrote This! 🤯</strong>
-    </a>
-    <br/>
-    Is AI making you a better developer, or just a faster one? In this episode of the Full Stack Journey, I’m putting "Vibe Coding" to the ultimate test. We asked ChatGPT to build a complex Creator Analyt...
   </td>
 </tr>
 <tr>
