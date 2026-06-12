@@ -41,6 +41,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=zQoqgClU278">
+      <img src="https://img.youtube.com/vi/zQoqgClU278/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=zQoqgClU278">
+      <strong>Stop Blocking Your UI: The Power of Streaming SSR in React</strong>
+    </a>
+    <br/>
+    Stop making your users wait for slow APIs! In this video, we dive deep into how Streaming SSR and Selective Hydration are revolutionizing React performance in Next.js and TanStack Start.  Are your web...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=IjDj1fcBxd0">
       <img src="https://img.youtube.com/vi/IjDj1fcBxd0/mqdefault.jpg" width="150"/>
     </a>
@@ -79,20 +93,6 @@ Check out my latest videos:
     </a>
     <br/>
     আপনার মতামত খুব প্রয়োজন! 🙏  অনেকেই জানতে চান আমি কেন নিয়মিত বাংলা চ্যানেলে ভিডিও দিই না। সত্যি বলতে, অফিস আর ইংলিশ চ্যানেলের কাজের চাপে সময় বের করা খুব কঠিন হয়ে পড়ে। তাই একটা নতুন পরিকল্পনা করেছি:  -...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=bzLaPo5-NiM">
-      <img src="https://img.youtube.com/vi/bzLaPo5-NiM/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=bzLaPo5-NiM">
-      <strong>Why AI Apps Are So Hard to Debug? 🤯 #ai #observability #debugging</strong>
-    </a>
-    <br/>
-    Why AI Debugging is a Nightmare (And How to Fix It) 🛠️  Traditional software debugging is linear: Input ➡️ Code ➡️ Output. But with AI and LLMs, everything changes.  In this "Thinking Board" session,...
   </td>
 </tr>
 <tr>
