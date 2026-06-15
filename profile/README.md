@@ -43,6 +43,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=ARmOf1suYFI">
+      <img src="https://img.youtube.com/vi/ARmOf1suYFI/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=ARmOf1suYFI">
+      <strong>If SSR Already Built the Page… What Is React Doing? 🤯</strong>
+    </a>
+    <br/>
+    Ever wondered why your React page is visible but "frozen" for a split second? 🤯 Most developers get SSR wrong. Here is what React is actually doing after the page loads!  If the server has already bu...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=zQoqgClU278">
       <img src="https://img.youtube.com/vi/zQoqgClU278/mqdefault.jpg" width="150"/>
     </a>
@@ -67,20 +81,6 @@ Check out my latest videos:
     </a>
     <br/>
     Confused between SSR, SSG, and ISR? 🍔 You’re not alone! Most developers mix these up during interviews because they focus on the names rather than on one simple thing: TIMING.  In this video, I break...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=9t1S-M5hmGM">
-      <img src="https://img.youtube.com/vi/9t1S-M5hmGM/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=9t1S-M5hmGM">
-      <strong>AI Code is Messy: Refactoring a React Dashboard to Production Standards</strong>
-    </a>
-    <br/>
-    Stop shipping "spaghetti" AI code. I'm refactoring a real-world AI-generated React dashboard to show you exactly how to implement clean code principles, optimize performance with custom hooks, and fix...
   </td>
 </tr>
 <tr>
