@@ -41,6 +41,34 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=7odWRs7Z9zc">
+      <img src="https://img.youtube.com/vi/7odWRs7Z9zc/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=7odWRs7Z9zc">
+      <strong>Stop Using useEffect Like This! (React Bangla Tutorial)</strong>
+    </a>
+    <br/>
+    React-এ useEffect ভুলভাবে ব্যবহার করলে আপনার অ্যাপের পারফরম্যান্স মারাত্মকভাবে কমে যেতে পারে! এই ভিডিওতে আমি ৩টি কমন মিস্টেক নিয়ে আলোচনা করেছি যা ইন্টারভিউতে বা বড় প্রোজেক্টে আপনাকে সমস্যায় ফেলতে পারে...
+  </td>
+</tr>
+<tr>
+  <td width="160">
+    <a href="https://www.youtube.com/watch?v=FrysN0Ik7vU">
+      <img src="https://img.youtube.com/vi/FrysN0Ik7vU/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=FrysN0Ik7vU">
+      <strong>How to Stay Relevant as a Developer in the AI Era (ft. Naman Sancheti)</strong>
+    </a>
+    <br/>
+    Join us for a deep dive with Naman Sancheti as he shares his inspiring journey through tech, community building, and how to thrive in the rapidly evolving AI-powered world. Whether you're an aspiring ...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=4TQKBnaIKZI">
       <img src="https://img.youtube.com/vi/4TQKBnaIKZI/mqdefault.jpg" width="150"/>
     </a>
@@ -69,20 +97,6 @@ Check out my latest videos:
 </tr>
 <tr>
   <td width="160">
-    <a href="https://www.youtube.com/watch?v=zQoqgClU278">
-      <img src="https://img.youtube.com/vi/zQoqgClU278/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=zQoqgClU278">
-      <strong>Stop Blocking Your UI: The Power of Streaming SSR in React</strong>
-    </a>
-    <br/>
-    Stop making your users wait for slow APIs! In this video, we dive deep into how Streaming SSR and Selective Hydration are revolutionizing React performance in Next.js and TanStack Start.  Are your web...
-  </td>
-</tr>
-<tr>
-  <td width="160">
     <a href="https://www.youtube.com/watch?v=BPH95vDsnBM">
       <img src="https://img.youtube.com/vi/BPH95vDsnBM/mqdefault.jpg" width="150"/>
     </a>
@@ -107,20 +121,6 @@ Check out my latest videos:
     </a>
     <br/>
     Are you feeling scared and panicked seeing JavaScript Errors?  👉 Don’t panic. This is actually a GOOD sign.  In this short, you’ll learn: - ✅ Why JavaScript errors mean you’re learning correctly - ✅ ...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=kHcc9lCbzLk">
-      <img src="https://img.youtube.com/vi/kHcc9lCbzLk/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=kHcc9lCbzLk">
-      <strong>Software Industry-তে কোন English লাগে? (Developer English Guide) 🔥</strong>
-    </a>
-    <br/>
-    Developers… English-এ দুর্বল? Interview-এ আটকে যাচ্ছেন? Documentation পড়তে কষ্ট হয়? Standup-এ কথা বলতে ভয় লাগে?  You’re not alone — এবং সত্যি কথা হলো: 👉 Fluent English লাগবে না 👉 Fancy grammar লা...
   </td>
 </tr>
 </table>
