@@ -43,6 +43,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=DtYF7rvc5Zs">
+      <img src="https://img.youtube.com/vi/DtYF7rvc5Zs/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=DtYF7rvc5Zs">
+      <strong>The HTTPS Knowledge Most Developers Never Have 🤯</strong>
+    </a>
+    <br/>
+    Think you know how HTTPS works? Think again. Most developers understand the basics, but there’s a critical "HTTPS trick" involving certificates and verification that almost everyone misses.   In this ...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=7odWRs7Z9zc">
       <img src="https://img.youtube.com/vi/7odWRs7Z9zc/mqdefault.jpg" width="150"/>
     </a>
@@ -81,20 +95,6 @@ Check out my latest videos:
     </a>
     <br/>
     Stop fighting with the legacy JavaScript Date object! In this video, we dive deep into why the new Temporal API is the absolute future of date and time handling in JavaScript. We explore the fundament...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=ARmOf1suYFI">
-      <img src="https://img.youtube.com/vi/ARmOf1suYFI/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=ARmOf1suYFI">
-      <strong>If SSR Already Built the Page… What Is React Doing? 🤯</strong>
-    </a>
-    <br/>
-    Ever wondered why your React page is visible but "frozen" for a split second? 🤯 Most developers get SSR wrong. Here is what React is actually doing after the page loads!  If the server has already bu...
   </td>
 </tr>
 <tr>
