@@ -41,6 +41,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=8HjmcxYrnwA">
+      <img src="https://img.youtube.com/vi/8HjmcxYrnwA/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=8HjmcxYrnwA">
+      <strong>Build Production-Grade useFetch Hook (Bangla Tutorial)</strong>
+    </a>
+    <br/>
+    Are you building useFetch hooks that will fail in production? In this deep-dive tutorial, we go beyond the basics to build a robust, production-grade custom hook that senior developers actually use.  ...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=DtYF7rvc5Zs">
       <img src="https://img.youtube.com/vi/DtYF7rvc5Zs/mqdefault.jpg" width="150"/>
     </a>
@@ -107,20 +121,6 @@ Check out my latest videos:
     </a>
     <br/>
     আপনার মতামত খুব প্রয়োজন! 🙏  অনেকেই জানতে চান আমি কেন নিয়মিত বাংলা চ্যানেলে ভিডিও দিই না। সত্যি বলতে, অফিস আর ইংলিশ চ্যানেলের কাজের চাপে সময় বের করা খুব কঠিন হয়ে পড়ে। তাই একটা নতুন পরিকল্পনা করেছি:  -...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=V2OWRUn_cvM">
-      <img src="https://img.youtube.com/vi/V2OWRUn_cvM/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=V2OWRUn_cvM">
-      <strong>This JavaScript Error Means You’re Actually Learning 🔥</strong>
-    </a>
-    <br/>
-    Are you feeling scared and panicked seeing JavaScript Errors?  👉 Don’t panic. This is actually a GOOD sign.  In this short, you’ll learn: - ✅ Why JavaScript errors mean you’re learning correctly - ✅ ...
   </td>
 </tr>
 </table>
