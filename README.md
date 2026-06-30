@@ -41,6 +41,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=9VnPRZ0F7yc">
+      <img src="https://img.youtube.com/vi/9VnPRZ0F7yc/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=9VnPRZ0F7yc">
+      <strong>Master TanStack Router: Loaders, Auth & Type-Safe Routes</strong>
+    </a>
+    <br/>
+    Stop using outdated routing patterns in React! This TanStack Router crash course is the only guide you need to master modern frontend navigation, enterprise-level authentication, and type-safe state m...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=8HjmcxYrnwA">
       <img src="https://img.youtube.com/vi/8HjmcxYrnwA/mqdefault.jpg" width="150"/>
     </a>
@@ -93,20 +107,6 @@ Check out my latest videos:
     </a>
     <br/>
     Join us for a deep dive with Naman Sancheti as he shares his inspiring journey through tech, community building, and how to thrive in the rapidly evolving AI-powered world. Whether you're an aspiring ...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=4TQKBnaIKZI">
-      <img src="https://img.youtube.com/vi/4TQKBnaIKZI/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=4TQKBnaIKZI">
-      <strong>Why You Should Switch to Temporal API | JS Date Fixed 🔥</strong>
-    </a>
-    <br/>
-    Stop fighting with the legacy JavaScript Date object! In this video, we dive deep into why the new Temporal API is the absolute future of date and time handling in JavaScript. We explore the fundament...
   </td>
 </tr>
 <tr>
