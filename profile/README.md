@@ -43,6 +43,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=a_hfhfTgUeQ">
+      <img src="https://img.youtube.com/vi/a_hfhfTgUeQ/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=a_hfhfTgUeQ">
+      <strong>HTTP Forgets Everything… So Why Don’t Websites? 🤯</strong>
+    </a>
+    <br/>
+    If HTTP is stateless, how do websites remember you? In this video, we break down one of the most common web development interview questions: the mystery of how browsers maintain your login session des...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=9VnPRZ0F7yc">
       <img src="https://img.youtube.com/vi/9VnPRZ0F7yc/mqdefault.jpg" width="150"/>
     </a>
@@ -95,20 +109,6 @@ Check out my latest videos:
     </a>
     <br/>
     React-এ useEffect ভুলভাবে ব্যবহার করলে আপনার অ্যাপের পারফরম্যান্স মারাত্মকভাবে কমে যেতে পারে! এই ভিডিওতে আমি ৩টি কমন মিস্টেক নিয়ে আলোচনা করেছি যা ইন্টারভিউতে বা বড় প্রোজেক্টে আপনাকে সমস্যায় ফেলতে পারে...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=FrysN0Ik7vU">
-      <img src="https://img.youtube.com/vi/FrysN0Ik7vU/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=FrysN0Ik7vU">
-      <strong>How to Stay Relevant as a Developer in the AI Era (ft. Naman Sancheti)</strong>
-    </a>
-    <br/>
-    Join us for a deep dive with Naman Sancheti as he shares his inspiring journey through tech, community building, and how to thrive in the rapidly evolving AI-powered world. Whether you're an aspiring ...
   </td>
 </tr>
 <tr>
