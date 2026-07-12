@@ -41,6 +41,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=Hu1dtgK_CkU">
+      <img src="https://img.youtube.com/vi/Hu1dtgK_CkU/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=Hu1dtgK_CkU">
+      <strong>React Query Tutorial 2026 (TanStack v5 + Router)</strong>
+    </a>
+    <br/>
+    Are you still using useEffect to fetch data in React? It’s time to stop. In this complete masterclass, we tear down the standard, bug-prone way of fetching data and replace it with a production-ready ...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=a_hfhfTgUeQ">
       <img src="https://img.youtube.com/vi/a_hfhfTgUeQ/mqdefault.jpg" width="150"/>
     </a>
@@ -79,20 +93,6 @@ Check out my latest videos:
     </a>
     <br/>
     Are you building useFetch hooks that will fail in production? In this deep-dive tutorial, we go beyond the basics to build a robust, production-grade custom hook that senior developers actually use.  ...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=DtYF7rvc5Zs">
-      <img src="https://img.youtube.com/vi/DtYF7rvc5Zs/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=DtYF7rvc5Zs">
-      <strong>The HTTPS Knowledge Most Developers Never Have 🤯</strong>
-    </a>
-    <br/>
-    Think you know how HTTPS works? Think again. Most developers understand the basics, but there’s a critical "HTTPS trick" involving certificates and verification that almost everyone misses.   In this ...
   </td>
 </tr>
 <tr>
