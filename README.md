@@ -41,6 +41,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=tIkR9WgAoxc">
+      <img src="https://img.youtube.com/vi/tIkR9WgAoxc/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=tIkR9WgAoxc">
+      <strong>Why Did HTTP Need a QUERY Method? 🤯</strong>
+    </a>
+    <br/>
+    GET and POST weren’t enough for every HTTP query problem… so HTTP introduced QUERY! 🤯  But why did HTTP need a new QUERY method when POST could already carry complex query data?  In this short, we br...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=Hu1dtgK_CkU">
       <img src="https://img.youtube.com/vi/Hu1dtgK_CkU/mqdefault.jpg" width="150"/>
     </a>
@@ -65,20 +79,6 @@ Check out my latest videos:
     </a>
     <br/>
     If HTTP is stateless, how do websites remember you? In this video, we break down one of the most common web development interview questions: the mystery of how browsers maintain your login session des...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=9VnPRZ0F7yc">
-      <img src="https://img.youtube.com/vi/9VnPRZ0F7yc/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=9VnPRZ0F7yc">
-      <strong>Master TanStack Router: Loaders, Auth & Type-Safe Routes</strong>
-    </a>
-    <br/>
-    Stop using outdated routing patterns in React! This TanStack Router crash course is the only guide you need to master modern frontend navigation, enterprise-level authentication, and type-safe state m...
   </td>
 </tr>
 <tr>
