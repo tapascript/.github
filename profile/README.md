@@ -43,6 +43,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=qSR6UeSKnT0">
+      <img src="https://img.youtube.com/vi/qSR6UeSKnT0/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=qSR6UeSKnT0">
+      <strong>The Ultimate React Form Architecture (TanStack Form + Zod + Shadcn)</strong>
+    </a>
+    <br/>
+    Are your React forms suffering from the sluggish re-render waterfall? Vibe coding gets you to a working demo, but real engineering gets you to production.  In this tapaScript masterclass, we are ditch...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=tIkR9WgAoxc">
       <img src="https://img.youtube.com/vi/tIkR9WgAoxc/mqdefault.jpg" width="150"/>
     </a>
@@ -67,20 +81,6 @@ Check out my latest videos:
     </a>
     <br/>
     Are you still using useEffect to fetch data in React? It’s time to stop. In this complete masterclass, we tear down the standard, bug-prone way of fetching data and replace it with a production-ready ...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=a_hfhfTgUeQ">
-      <img src="https://img.youtube.com/vi/a_hfhfTgUeQ/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=a_hfhfTgUeQ">
-      <strong>HTTP Forgets Everything… So Why Don’t Websites? 🤯</strong>
-    </a>
-    <br/>
-    If HTTP is stateless, how do websites remember you? In this video, we break down one of the most common web development interview questions: the mystery of how browsers maintain your login session des...
   </td>
 </tr>
 <tr>
