@@ -41,6 +41,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=o0qcMwGr-4k">
+      <img src="https://img.youtube.com/vi/o0qcMwGr-4k/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=o0qcMwGr-4k">
+      <strong>One Video. 10 Million Viewers. How? 🤯</strong>
+    </a>
+    <br/>
+    Have you ever wondered how millions of people can watch the same YouTube video at exactly the same time without the internet breaking? 🤯  The answer isn’t one giant supercomputer.  In this Thinking B...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=qSR6UeSKnT0">
       <img src="https://img.youtube.com/vi/qSR6UeSKnT0/mqdefault.jpg" width="150"/>
     </a>
@@ -65,20 +79,6 @@ Check out my latest videos:
     </a>
     <br/>
     GET and POST weren’t enough for every HTTP query problem… so HTTP introduced QUERY! 🤯  But why did HTTP need a new QUERY method when POST could already carry complex query data?  In this short, we br...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=Hu1dtgK_CkU">
-      <img src="https://img.youtube.com/vi/Hu1dtgK_CkU/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=Hu1dtgK_CkU">
-      <strong>React Query Tutorial 2026 (TanStack v5 + Router)</strong>
-    </a>
-    <br/>
-    Are you still using useEffect to fetch data in React? It’s time to stop. In this complete masterclass, we tear down the standard, bug-prone way of fetching data and replace it with a production-ready ...
   </td>
 </tr>
 <tr>
