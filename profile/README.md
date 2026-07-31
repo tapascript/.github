@@ -43,6 +43,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=P83xAK8apLU">
+      <img src="https://img.youtube.com/vi/P83xAK8apLU/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=P83xAK8apLU">
+      <strong>The Pattern Senior Developers Use That Juniors Don't Know</strong>
+    </a>
+    <br/>
+    Stop building slow React apps and start mastering the execution timing patterns that separate senior engineers from the rest. In this deep-dive tutorial, you'll learn how to drastically improve your a...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=o0qcMwGr-4k">
       <img src="https://img.youtube.com/vi/o0qcMwGr-4k/mqdefault.jpg" width="150"/>
     </a>
@@ -67,20 +81,6 @@ Check out my latest videos:
     </a>
     <br/>
     Are your React forms suffering from the sluggish re-render waterfall? Vibe coding gets you to a working demo, but real engineering gets you to production.  In this tapaScript masterclass, we are ditch...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=tIkR9WgAoxc">
-      <img src="https://img.youtube.com/vi/tIkR9WgAoxc/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=tIkR9WgAoxc">
-      <strong>Why Did HTTP Need a QUERY Method? 🤯</strong>
-    </a>
-    <br/>
-    GET and POST weren’t enough for every HTTP query problem… so HTTP introduced QUERY! 🤯  But why did HTTP need a new QUERY method when POST could already carry complex query data?  In this short, we br...
   </td>
 </tr>
 <tr>
