@@ -41,6 +41,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=vmmUnI5aec4">
+      <img src="https://img.youtube.com/vi/vmmUnI5aec4/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=vmmUnI5aec4">
+      <strong>Tech for All: Women in Tech, AI & Career (ft. ragTech)</strong>
+    </a>
+    <br/>
+    Is "Tech for All" just a buzzword, or are we making real progress? Join us for a candid conversation with ragTech as we dive deep into the current landscape for women in tech, the real-world impact of...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=P83xAK8apLU">
       <img src="https://img.youtube.com/vi/P83xAK8apLU/mqdefault.jpg" width="150"/>
     </a>
@@ -65,20 +79,6 @@ Check out my latest videos:
     </a>
     <br/>
     Have you ever wondered how millions of people can watch the same YouTube video at exactly the same time without the internet breaking? 🤯  The answer isn’t one giant supercomputer.  In this Thinking B...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=qSR6UeSKnT0">
-      <img src="https://img.youtube.com/vi/qSR6UeSKnT0/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=qSR6UeSKnT0">
-      <strong>The Ultimate React Form Architecture (TanStack Form + Zod + Shadcn)</strong>
-    </a>
-    <br/>
-    Are your React forms suffering from the sluggish re-render waterfall? Vibe coding gets you to a working demo, but real engineering gets you to production.  In this tapaScript masterclass, we are ditch...
   </td>
 </tr>
 <tr>
