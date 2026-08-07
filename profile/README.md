@@ -43,6 +43,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=nhzLVluv1eM">
+      <img src="https://img.youtube.com/vi/nhzLVluv1eM/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=nhzLVluv1eM">
+      <strong>LIVE: Scalable React Patterns For Real World Applications</strong>
+    </a>
+    <br/>
+    Are you tired of shipping sluggish React apps that freeze under heavy data loads? Vibe coding gets you to the demo, but true engineering gets you to production.  In this LIVE masterclass on tapaScript...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=vmmUnI5aec4">
       <img src="https://img.youtube.com/vi/vmmUnI5aec4/mqdefault.jpg" width="150"/>
     </a>
@@ -67,20 +81,6 @@ Check out my latest videos:
     </a>
     <br/>
     Stop building slow React apps and start mastering the execution timing patterns that separate senior engineers from the rest. In this deep-dive tutorial, you'll learn how to drastically improve your a...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=o0qcMwGr-4k">
-      <img src="https://img.youtube.com/vi/o0qcMwGr-4k/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=o0qcMwGr-4k">
-      <strong>One Video. 10 Million Viewers. How? 🤯</strong>
-    </a>
-    <br/>
-    Have you ever wondered how millions of people can watch the same YouTube video at exactly the same time without the internet breaking? 🤯  The answer isn’t one giant supercomputer.  In this Thinking B...
   </td>
 </tr>
 <tr>
