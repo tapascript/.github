@@ -43,6 +43,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=FPVL1kwadjY">
+      <img src="https://img.youtube.com/vi/FPVL1kwadjY/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=FPVL1kwadjY">
+      <strong>Find React Memory Leaks Like a Senior Engineer</strong>
+    </a>
+    <br/>
+    Vibe coding gets you to the demo, but ignoring memory leaks will completely destroy your application in production. Stop guessing and discover the exact Chrome DevTools techniques senior engineers use...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=nhzLVluv1eM">
       <img src="https://img.youtube.com/vi/nhzLVluv1eM/mqdefault.jpg" width="150"/>
     </a>
@@ -67,20 +81,6 @@ Check out my latest videos:
     </a>
     <br/>
     Is "Tech for All" just a buzzword, or are we making real progress? Join us for a candid conversation with ragTech as we dive deep into the current landscape for women in tech, the real-world impact of...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=P83xAK8apLU">
-      <img src="https://img.youtube.com/vi/P83xAK8apLU/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=P83xAK8apLU">
-      <strong>The Pattern Senior Developers Use That Juniors Don't Know</strong>
-    </a>
-    <br/>
-    Stop building slow React apps and start mastering the execution timing patterns that separate senior engineers from the rest. In this deep-dive tutorial, you'll learn how to drastically improve your a...
   </td>
 </tr>
 <tr>
