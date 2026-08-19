@@ -41,6 +41,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=LgxF7M4v82M">
+      <img src="https://img.youtube.com/vi/LgxF7M4v82M/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=LgxF7M4v82M">
+      <strong>How Do You Retry a Payment Without Paying Twice? 🤯</strong>
+    </a>
+    <br/>
+    Your payment succeeded… but your app says it failed. Do you click Pay again? 🤯  What happens when a payment API successfully charges you, but the response gets lost? If the client retries, the server...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=FPVL1kwadjY">
       <img src="https://img.youtube.com/vi/FPVL1kwadjY/mqdefault.jpg" width="150"/>
     </a>
@@ -65,20 +79,6 @@ Check out my latest videos:
     </a>
     <br/>
     Are you tired of shipping sluggish React apps that freeze under heavy data loads? Vibe coding gets you to the demo, but true engineering gets you to production.  In this LIVE masterclass on tapaScript...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=vmmUnI5aec4">
-      <img src="https://img.youtube.com/vi/vmmUnI5aec4/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=vmmUnI5aec4">
-      <strong>Tech for All: Women in Tech, AI & Career (ft. ragTech)</strong>
-    </a>
-    <br/>
-    Is "Tech for All" just a buzzword, or are we making real progress? Join us for a candid conversation with ragTech as we dive deep into the current landscape for women in tech, the real-world impact of...
   </td>
 </tr>
 <tr>
