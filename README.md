@@ -41,6 +41,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=XLTWwOUvrw8">
+      <img src="https://img.youtube.com/vi/XLTWwOUvrw8/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=XLTWwOUvrw8">
+      <strong>This One JavaScript Operator Can Hide Bugs 🤯</strong>
+    </a>
+    <br/>
+    🚨 JavaScript’s optional chaining (?.) can make your bugs disappear, without actually fixing them. If you use ?. everywhere, you might be silently hiding broken API responses and production bugs.  Opt...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=LgxF7M4v82M">
       <img src="https://img.youtube.com/vi/LgxF7M4v82M/mqdefault.jpg" width="150"/>
     </a>
@@ -65,20 +79,6 @@ Check out my latest videos:
     </a>
     <br/>
     Vibe coding gets you to the demo, but ignoring memory leaks will completely destroy your application in production. Stop guessing and discover the exact Chrome DevTools techniques senior engineers use...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=nhzLVluv1eM">
-      <img src="https://img.youtube.com/vi/nhzLVluv1eM/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=nhzLVluv1eM">
-      <strong>LIVE: Scalable React Patterns For Real World Applications</strong>
-    </a>
-    <br/>
-    Are you tired of shipping sluggish React apps that freeze under heavy data loads? Vibe coding gets you to the demo, but true engineering gets you to production.  In this LIVE masterclass on tapaScript...
   </td>
 </tr>
 <tr>
