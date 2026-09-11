@@ -41,6 +41,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=lObnRu9jW20">
+      <img src="https://img.youtube.com/vi/lObnRu9jW20/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=lObnRu9jW20">
+      <strong>AI is Changing Engineering: Here is Your 5-Step Plan</strong>
+    </a>
+    <br/>
+    Is AI really replacing software engineers, or are you just falling behind by not adapting fast enough? In this video, we break down the reality of the developer job market and walk through an actionab...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=XLTWwOUvrw8">
       <img src="https://img.youtube.com/vi/XLTWwOUvrw8/mqdefault.jpg" width="150"/>
     </a>
@@ -65,20 +79,6 @@ Check out my latest videos:
     </a>
     <br/>
     Your payment succeeded… but your app says it failed. Do you click Pay again? 🤯  What happens when a payment API successfully charges you, but the response gets lost? If the client retries, the server...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=FPVL1kwadjY">
-      <img src="https://img.youtube.com/vi/FPVL1kwadjY/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=FPVL1kwadjY">
-      <strong>Find React Memory Leaks Like a Senior Engineer</strong>
-    </a>
-    <br/>
-    Vibe coding gets you to the demo, but ignoring memory leaks will completely destroy your application in production. Stop guessing and discover the exact Chrome DevTools techniques senior engineers use...
   </td>
 </tr>
 <tr>
