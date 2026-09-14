@@ -47,7 +47,7 @@ Check out my latest videos:
   </td>
   <td>
     <a href="https://www.youtube.com/watch?v=lObnRu9jW20">
-      <strong>AI is Changing Engineering: Here is Your 5-Step Plan</strong>
+      <strong>How to Survive the AI Shift in Tech (5-Step Plan)</strong>
     </a>
     <br/>
     Is AI really replacing software engineers, or are you just falling behind by not adapting fast enough? In this video, we break down the reality of the developer job market and walk through an actionab...
