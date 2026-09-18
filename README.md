@@ -41,6 +41,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=uuEOz4NWTsY">
+      <img src="https://img.youtube.com/vi/uuEOz4NWTsY/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=uuEOz4NWTsY">
+      <strong>What Is TypeScript? + Complete Setup | Zero to Advanced #01</strong>
+    </a>
+    <br/>
+    Ever spent hours tracking down a simple runtime bug in JavaScript that broke your entire production app? In this kick-off episode of the TypeScript Masterclass (Zero to Advanced), we break down why Ja...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=lObnRu9jW20">
       <img src="https://img.youtube.com/vi/lObnRu9jW20/mqdefault.jpg" width="150"/>
     </a>
@@ -65,20 +79,6 @@ Check out my latest videos:
     </a>
     <br/>
     🚨 JavaScript’s optional chaining (?.) can make your bugs disappear, without actually fixing them. If you use ?. everywhere, you might be silently hiding broken API responses and production bugs.  Opt...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=LgxF7M4v82M">
-      <img src="https://img.youtube.com/vi/LgxF7M4v82M/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=LgxF7M4v82M">
-      <strong>How Do You Retry a Payment Without Paying Twice? 🤯</strong>
-    </a>
-    <br/>
-    Your payment succeeded… but your app says it failed. Do you click Pay again? 🤯  What happens when a payment API successfully charges you, but the response gets lost? If the client retries, the server...
   </td>
 </tr>
 <tr>
