@@ -41,6 +41,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=Iyfvii1qQ0o">
+      <img src="https://img.youtube.com/vi/Iyfvii1qQ0o/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=Iyfvii1qQ0o">
+      <strong>Why You’re Writing Too Much TypeScript 🤯</strong>
+    </a>
+    <br/>
+    Are you over-annotating your TypeScript code and writing unnecessary boilerplate? In this episode of the TypeScript Masterclass, you’ll learn the exact difference between Type Annotations and Type Inf...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=uuEOz4NWTsY">
       <img src="https://img.youtube.com/vi/uuEOz4NWTsY/mqdefault.jpg" width="150"/>
     </a>
@@ -65,20 +79,6 @@ Check out my latest videos:
     </a>
     <br/>
     Is AI really replacing software engineers, or are you just falling behind by not adapting fast enough? In this video, we break down the reality of the developer job market and walk through an actionab...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=XLTWwOUvrw8">
-      <img src="https://img.youtube.com/vi/XLTWwOUvrw8/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=XLTWwOUvrw8">
-      <strong>This One JavaScript Operator Can Hide Bugs 🤯</strong>
-    </a>
-    <br/>
-    🚨 JavaScript’s optional chaining (?.) can make your bugs disappear, without actually fixing them. If you use ?. everywhere, you might be silently hiding broken API responses and production bugs.  Opt...
   </td>
 </tr>
 <tr>
