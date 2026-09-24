@@ -43,6 +43,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=iCBq40GlA40">
+      <img src="https://img.youtube.com/vi/iCBq40GlA40/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=iCBq40GlA40">
+      <strong>The TypeScript Types Most Developers Get Wrong</strong>
+    </a>
+    <br/>
+    Master TypeScript primitive types and write safer, cleaner code! In this session of the TypeScript Masterclass, we dive deep into base types, from everyday primitives like string, number, and boolean ...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=Iyfvii1qQ0o">
       <img src="https://img.youtube.com/vi/Iyfvii1qQ0o/mqdefault.jpg" width="150"/>
     </a>
@@ -67,20 +81,6 @@ Check out my latest videos:
     </a>
     <br/>
     Ever spent hours tracking down a simple runtime bug in JavaScript that broke your entire production app? In this kick-off episode of the TypeScript Masterclass (Zero to Advanced), we break down why Ja...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=lObnRu9jW20">
-      <img src="https://img.youtube.com/vi/lObnRu9jW20/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=lObnRu9jW20">
-      <strong>How to Survive the AI Shift in Tech (5-Step Plan)</strong>
-    </a>
-    <br/>
-    Is AI really replacing software engineers, or are you just falling behind by not adapting fast enough? In this video, we break down the reality of the developer job market and walk through an actionab...
   </td>
 </tr>
 <tr>
