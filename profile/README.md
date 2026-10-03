@@ -43,6 +43,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=tWxUHgB3Wi8">
+      <img src="https://img.youtube.com/vi/tWxUHgB3Wi8/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=tWxUHgB3Wi8">
+      <strong>MASTER TypeScript Tuples, Arrays, and Object Types</strong>
+    </a>
+    <br/>
+    Master TypeScript reference types and avoid the most common memory, mutation, and type-checking bugs in modern JavaScript & TypeScript applications! In this in-depth tutorial, we break down exactly ho...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=iCBq40GlA40">
       <img src="https://img.youtube.com/vi/iCBq40GlA40/mqdefault.jpg" width="150"/>
     </a>
@@ -67,20 +81,6 @@ Check out my latest videos:
     </a>
     <br/>
     Are you over-annotating your TypeScript code and writing unnecessary boilerplate? In this episode of the TypeScript Masterclass, you’ll learn the exact difference between Type Annotations and Type Inf...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=uuEOz4NWTsY">
-      <img src="https://img.youtube.com/vi/uuEOz4NWTsY/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=uuEOz4NWTsY">
-      <strong>What Is TypeScript? + Complete Setup | Zero to Advanced #01</strong>
-    </a>
-    <br/>
-    Ever spent hours tracking down a simple runtime bug in JavaScript that broke your entire production app? In this kick-off episode of the TypeScript Masterclass (Zero to Advanced), we break down why Ja...
   </td>
 </tr>
 <tr>
