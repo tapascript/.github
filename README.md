@@ -41,6 +41,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=FKGC0WDcLUY">
+      <img src="https://img.youtube.com/vi/FKGC0WDcLUY/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=FKGC0WDcLUY">
+      <strong>Advanced TypeScript Patterns You Need to Know</strong>
+    </a>
+    <br/>
+    Stop relying on the "any" type and losing TypeScript’s true power! In Session 05 of the TypeScript Masterclass, you’ll master Union Types, Literal Types, Type Narrowing, and Type Aliases—the fundament...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=tWxUHgB3Wi8">
       <img src="https://img.youtube.com/vi/tWxUHgB3Wi8/mqdefault.jpg" width="150"/>
     </a>
@@ -65,20 +79,6 @@ Check out my latest videos:
     </a>
     <br/>
     Master TypeScript primitive types and write safer, cleaner code! In this session of the TypeScript Masterclass, we dive deep into base types, from everyday primitives like string, number, and boolean ...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=Iyfvii1qQ0o">
-      <img src="https://img.youtube.com/vi/Iyfvii1qQ0o/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=Iyfvii1qQ0o">
-      <strong>Why You’re Writing Too Much TypeScript 🤯</strong>
-    </a>
-    <br/>
-    Are you over-annotating your TypeScript code and writing unnecessary boilerplate? In this episode of the TypeScript Masterclass, you’ll learn the exact difference between Type Annotations and Type Inf...
   </td>
 </tr>
 <tr>
