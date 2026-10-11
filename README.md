@@ -41,6 +41,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=r0rWCrBWO2A">
+      <img src="https://img.youtube.com/vi/r0rWCrBWO2A/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=r0rWCrBWO2A">
+      <strong>TypeScript Types: Interfaces vs Aliases Comparison</strong>
+    </a>
+    <br/>
+    Confused about when to use Type Aliases vs. Interfaces in TypeScript? Choosing the wrong one can lead to tricky type errors, messy codebases, and architectural headaches. In this complete, deep-dive g...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=FKGC0WDcLUY">
       <img src="https://img.youtube.com/vi/FKGC0WDcLUY/mqdefault.jpg" width="150"/>
     </a>
@@ -65,20 +79,6 @@ Check out my latest videos:
     </a>
     <br/>
     Master TypeScript reference types and avoid the most common memory, mutation, and type-checking bugs in modern JavaScript & TypeScript applications! In this in-depth tutorial, we break down exactly ho...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=iCBq40GlA40">
-      <img src="https://img.youtube.com/vi/iCBq40GlA40/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=iCBq40GlA40">
-      <strong>The TypeScript Types Most Developers Get Wrong</strong>
-    </a>
-    <br/>
-    Master TypeScript primitive types and write safer, cleaner code! In this session of the TypeScript Masterclass, we dive deep into base types, from everyday primitives like string, number, and boolean ...
   </td>
 </tr>
 <tr>
