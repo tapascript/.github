@@ -43,6 +43,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=Ms9VOyoWDpI">
+      <img src="https://img.youtube.com/vi/Ms9VOyoWDpI/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=Ms9VOyoWDpI">
+      <strong>Can an AI Agent Actually Do Software Engineering? 🤯</strong>
+    </a>
+    <br/>
+    If AI can write code, what's left for software engineers? Writing code is easy, but can an autonomous AI agent take real software engineering requirements, navigate an existing full-stack codebase, se...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=r0rWCrBWO2A">
       <img src="https://img.youtube.com/vi/r0rWCrBWO2A/mqdefault.jpg" width="150"/>
     </a>
@@ -67,20 +81,6 @@ Check out my latest videos:
     </a>
     <br/>
     Stop relying on the "any" type and losing TypeScript’s true power! In Session 05 of the TypeScript Masterclass, you’ll master Union Types, Literal Types, Type Narrowing, and Type Aliases—the fundament...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=tWxUHgB3Wi8">
-      <img src="https://img.youtube.com/vi/tWxUHgB3Wi8/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=tWxUHgB3Wi8">
-      <strong>MASTER TypeScript Tuples, Arrays, and Object Types</strong>
-    </a>
-    <br/>
-    Master TypeScript reference types and avoid the most common memory, mutation, and type-checking bugs in modern JavaScript & TypeScript applications! In this in-depth tutorial, we break down exactly ho...
   </td>
 </tr>
 <tr>
