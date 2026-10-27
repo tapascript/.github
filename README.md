@@ -41,6 +41,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=FXvM8uDd0iM">
+      <img src="https://img.youtube.com/vi/FXvM8uDd0iM/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=FXvM8uDd0iM">
+      <strong>Level Up Your TypeScript: Type Assertion and Satisfies Operator</strong>
+    </a>
+    <br/>
+    Tired of fighting TypeScript errors when dealing with DOM elements, API responses, or complex configs? In this tutorial, you’ll learn how to master Type Assertions (as) and the game-changing satisfies...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=Ms9VOyoWDpI">
       <img src="https://img.youtube.com/vi/Ms9VOyoWDpI/mqdefault.jpg" width="150"/>
     </a>
@@ -65,20 +79,6 @@ Check out my latest videos:
     </a>
     <br/>
     Confused about when to use Type Aliases vs. Interfaces in TypeScript? Choosing the wrong one can lead to tricky type errors, messy codebases, and architectural headaches. In this complete, deep-dive g...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=FKGC0WDcLUY">
-      <img src="https://img.youtube.com/vi/FKGC0WDcLUY/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=FKGC0WDcLUY">
-      <strong>Advanced TypeScript Patterns You Need to Know</strong>
-    </a>
-    <br/>
-    Stop relying on the "any" type and losing TypeScript’s true power! In Session 05 of the TypeScript Masterclass, you’ll master Union Types, Literal Types, Type Narrowing, and Type Aliases—the fundament...
   </td>
 </tr>
 <tr>
