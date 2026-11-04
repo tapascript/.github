@@ -41,6 +41,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=tRVsayFnwiM">
+      <img src="https://img.youtube.com/vi/tRVsayFnwiM/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=tRVsayFnwiM">
+      <strong>Why You Should Use Generics in TypeScript?</strong>
+    </a>
+    <br/>
+    Tired of using TypeScript and losing all the benefits? Master TypeScript Generics in this complete, step-by-step tutorial to write clean, reusable, and type-safe code like a senior developer.  In this...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=FXvM8uDd0iM">
       <img src="https://img.youtube.com/vi/FXvM8uDd0iM/mqdefault.jpg" width="150"/>
     </a>
@@ -65,20 +79,6 @@ Check out my latest videos:
     </a>
     <br/>
     If AI can write code, what's left for software engineers? Writing code is easy, but can an autonomous AI agent take real software engineering requirements, navigate an existing full-stack codebase, se...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=r0rWCrBWO2A">
-      <img src="https://img.youtube.com/vi/r0rWCrBWO2A/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=r0rWCrBWO2A">
-      <strong>TypeScript Types: Interfaces vs Aliases Comparison</strong>
-    </a>
-    <br/>
-    Confused about when to use Type Aliases vs. Interfaces in TypeScript? Choosing the wrong one can lead to tricky type errors, messy codebases, and architectural headaches. In this complete, deep-dive g...
   </td>
 </tr>
 <tr>
