@@ -41,6 +41,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=qGcWmNtmC_k">
+      <img src="https://img.youtube.com/vi/qGcWmNtmC_k/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=qGcWmNtmC_k">
+      <strong>How Senior Developers Actually Use TypeScript Generics</strong>
+    </a>
+    <br/>
+    Stop copy-pasting repetitive repository methods and API logic across your codebase. In this hands-on tutorial, you’ll learn how senior engineers use TypeScript Generics to build clean, scalable, and t...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=tRVsayFnwiM">
       <img src="https://img.youtube.com/vi/tRVsayFnwiM/mqdefault.jpg" width="150"/>
     </a>
@@ -65,20 +79,6 @@ Check out my latest videos:
     </a>
     <br/>
     Tired of fighting TypeScript errors when dealing with DOM elements, API responses, or complex configs? In this tutorial, you’ll learn how to master Type Assertions (as) and the game-changing satisfies...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=Ms9VOyoWDpI">
-      <img src="https://img.youtube.com/vi/Ms9VOyoWDpI/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=Ms9VOyoWDpI">
-      <strong>Can an AI Agent Actually Do Software Engineering? 🤯</strong>
-    </a>
-    <br/>
-    If AI can write code, what's left for software engineers? Writing code is easy, but can an autonomous AI agent take real software engineering requirements, navigate an existing full-stack codebase, se...
   </td>
 </tr>
 <tr>
