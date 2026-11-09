@@ -49,7 +49,7 @@ Check out my latest videos:
   </td>
   <td>
     <a href="https://www.youtube.com/watch?v=qGcWmNtmC_k">
-      <strong>How Senior Developers Actually Use TypeScript Generics</strong>
+      <strong>Stop Copy-Pasting Code: Master TypeScript Generic Design Patterns</strong>
     </a>
     <br/>
     Stop copy-pasting repetitive repository methods and API logic across your codebase. In this hands-on tutorial, you’ll learn how senior engineers use TypeScript Generics to build clean, scalable, and t...
