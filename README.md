@@ -41,6 +41,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=wJDqASncOrA">
+      <img src="https://img.youtube.com/vi/wJDqASncOrA/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=wJDqASncOrA">
+      <strong>Stop thinking AI knows everything 🤯 #ai #tech #chatgpt</strong>
+    </a>
+    <br/>
+    Ever wonder how AI models actually generate text? What happens when you ask AI a question?  Learn how AI inference works by predicting responses instead of retrieving data. This video explains the tec...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=qGcWmNtmC_k">
       <img src="https://img.youtube.com/vi/qGcWmNtmC_k/mqdefault.jpg" width="150"/>
     </a>
@@ -65,20 +79,6 @@ Check out my latest videos:
     </a>
     <br/>
     Tired of using TypeScript and losing all the benefits? Master TypeScript Generics in this complete, step-by-step tutorial to write clean, reusable, and type-safe code like a senior developer.  In this...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=FXvM8uDd0iM">
-      <img src="https://img.youtube.com/vi/FXvM8uDd0iM/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=FXvM8uDd0iM">
-      <strong>Level Up Your TypeScript: Type Assertion and Satisfies Operator</strong>
-    </a>
-    <br/>
-    Tired of fighting TypeScript errors when dealing with DOM elements, API responses, or complex configs? In this tutorial, you’ll learn how to master Type Assertions (as) and the game-changing satisfies...
   </td>
 </tr>
 <tr>
