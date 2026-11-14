@@ -43,6 +43,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=1uaO3zPT1OI">
+      <img src="https://img.youtube.com/vi/1uaO3zPT1OI/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=1uaO3zPT1OI">
+      <strong>Advanced TypeScript in 15 Minutes (keyof, infer, & Mapped Types)</strong>
+    </a>
+    <br/>
+    Tired of copying and pasting the same TypeScript interfaces across your API, database, and front end? Stop duplicating types by hand and start writing smart, dynamic types that adapt automatically whe...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=wJDqASncOrA">
       <img src="https://img.youtube.com/vi/wJDqASncOrA/mqdefault.jpg" width="150"/>
     </a>
@@ -67,20 +81,6 @@ Check out my latest videos:
     </a>
     <br/>
     Stop copy-pasting repetitive repository methods and API logic across your codebase. In this hands-on tutorial, you’ll learn how senior engineers use TypeScript Generics to build clean, scalable, and t...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=tRVsayFnwiM">
-      <img src="https://img.youtube.com/vi/tRVsayFnwiM/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=tRVsayFnwiM">
-      <strong>Why You Should Use Generics in TypeScript?</strong>
-    </a>
-    <br/>
-    Tired of using TypeScript and losing all the benefits? Master TypeScript Generics in this complete, step-by-step tutorial to write clean, reusable, and type-safe code like a senior developer.  In this...
   </td>
 </tr>
 <tr>
