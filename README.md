@@ -41,6 +41,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=m9zM5vVPiDk">
+      <img src="https://img.youtube.com/vi/m9zM5vVPiDk/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=m9zM5vVPiDk">
+      <strong>Vibe Coding Is Easy. Shipping to Production Is NOT! 😳</strong>
+    </a>
+    <br/>
+    You built an app with AI. It works perfectly on your machine. But can you actually ship it to production? 🤔  Vibe coding has made building applications easier than ever. Be it JavaScript, React, Node...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=1uaO3zPT1OI">
       <img src="https://img.youtube.com/vi/1uaO3zPT1OI/mqdefault.jpg" width="150"/>
     </a>
@@ -65,20 +79,6 @@ Check out my latest videos:
     </a>
     <br/>
     Ever wonder how AI models actually generate text? What happens when you ask AI a question?  Learn how AI inference works by predicting responses instead of retrieving data. This video explains the tec...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=qGcWmNtmC_k">
-      <img src="https://img.youtube.com/vi/qGcWmNtmC_k/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=qGcWmNtmC_k">
-      <strong>Stop Copy-Pasting Code: Master TypeScript Generic Design Patterns</strong>
-    </a>
-    <br/>
-    Stop copy-pasting repetitive repository methods and API logic across your codebase. In this hands-on tutorial, you’ll learn how senior engineers use TypeScript Generics to build clean, scalable, and t...
   </td>
 </tr>
 <tr>
