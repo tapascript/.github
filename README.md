@@ -41,6 +41,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=k2rkUGDr06s">
+      <img src="https://img.youtube.com/vi/k2rkUGDr06s/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=k2rkUGDr06s">
+      <strong>What Every Developer Needs to Understand About AI (Beyond the Hype!)</strong>
+    </a>
+    <br/>
+    AI is changing the way we build software. But amidst all the excitement, new tools, coding agents, and bold predictions, there’s a lot of confusion about what this actually means for developers.  Shou...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=m9zM5vVPiDk">
       <img src="https://img.youtube.com/vi/m9zM5vVPiDk/mqdefault.jpg" width="150"/>
     </a>
@@ -65,20 +79,6 @@ Check out my latest videos:
     </a>
     <br/>
     Tired of copying and pasting the same TypeScript interfaces across your API, database, and front end? Stop duplicating types by hand and start writing smart, dynamic types that adapt automatically whe...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=wJDqASncOrA">
-      <img src="https://img.youtube.com/vi/wJDqASncOrA/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=wJDqASncOrA">
-      <strong>Stop thinking AI knows everything 🤯 #ai #tech #chatgpt</strong>
-    </a>
-    <br/>
-    Ever wonder how AI models actually generate text? What happens when you ask AI a question?  Learn how AI inference works by predicting responses instead of retrieving data. This video explains the tec...
   </td>
 </tr>
 <tr>
