@@ -41,6 +41,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=2LV3oZ85eeA">
+      <img src="https://img.youtube.com/vi/2LV3oZ85eeA/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=2LV3oZ85eeA">
+      <strong>Why You Shouldn't Be Scared of AI Anymore 😱</strong>
+    </a>
+    <br/>
+    Is AI going to replace software developers? Will programming become irrelevant? And should you be worried about the future of your career?  If you’re a developer feeling overwhelmed by AI tools, AI ag...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=k2rkUGDr06s">
       <img src="https://img.youtube.com/vi/k2rkUGDr06s/mqdefault.jpg" width="150"/>
     </a>
@@ -107,20 +121,6 @@ Check out my latest videos:
     </a>
     <br/>
     React-এ useEffect ভুলভাবে ব্যবহার করলে আপনার অ্যাপের পারফরম্যান্স মারাত্মকভাবে কমে যেতে পারে! এই ভিডিওতে আমি ৩টি কমন মিস্টেক নিয়ে আলোচনা করেছি যা ইন্টারভিউতে বা বড় প্রোজেক্টে আপনাকে সমস্যায় ফেলতে পারে...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=BPH95vDsnBM">
-      <img src="https://img.youtube.com/vi/BPH95vDsnBM/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=BPH95vDsnBM">
-      <strong>Do You Know This? I Need An Answer 🤖</strong>
-    </a>
-    <br/>
-    আপনার মতামত খুব প্রয়োজন! 🙏  অনেকেই জানতে চান আমি কেন নিয়মিত বাংলা চ্যানেলে ভিডিও দিই না। সত্যি বলতে, অফিস আর ইংলিশ চ্যানেলের কাজের চাপে সময় বের করা খুব কঠিন হয়ে পড়ে। তাই একটা নতুন পরিকল্পনা করেছি:  -...
   </td>
 </tr>
 </table>
