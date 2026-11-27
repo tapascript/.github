@@ -41,6 +41,20 @@ Check out my latest videos:
 
 <tr>
   <td width="160">
+    <a href="https://www.youtube.com/watch?v=nDXtwwry95I">
+      <img src="https://img.youtube.com/vi/nDXtwwry95I/mqdefault.jpg" width="150"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://www.youtube.com/watch?v=nDXtwwry95I">
+      <strong>How Can a Hacker Access Your Account Without Your Password? 🤯</strong>
+    </a>
+    <br/>
+    Can someone compromise your online account without ever knowing your password? Absolutely! 🤯 And understanding why is an important part of modern Web Security and Cybersecurity.  In today’s interconn...
+  </td>
+</tr>
+<tr>
+  <td width="160">
     <a href="https://www.youtube.com/watch?v=2LV3oZ85eeA">
       <img src="https://img.youtube.com/vi/2LV3oZ85eeA/mqdefault.jpg" width="150"/>
     </a>
@@ -79,20 +93,6 @@ Check out my latest videos:
     </a>
     <br/>
     You built an app with AI. It works perfectly on your machine. But can you actually ship it to production? 🤔  Vibe coding has made building applications easier than ever. Be it JavaScript, React, Node...
-  </td>
-</tr>
-<tr>
-  <td width="160">
-    <a href="https://www.youtube.com/watch?v=1uaO3zPT1OI">
-      <img src="https://img.youtube.com/vi/1uaO3zPT1OI/mqdefault.jpg" width="150"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://www.youtube.com/watch?v=1uaO3zPT1OI">
-      <strong>Advanced TypeScript in 15 Minutes (keyof, infer, & Mapped Types)</strong>
-    </a>
-    <br/>
-    Tired of copying and pasting the same TypeScript interfaces across your API, database, and front end? Stop duplicating types by hand and start writing smart, dynamic types that adapt automatically whe...
   </td>
 </tr>
 <tr>
